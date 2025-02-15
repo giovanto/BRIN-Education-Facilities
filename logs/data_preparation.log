@@ -1,0 +1,226 @@
+2025-02-15 02:02:38,871 - INFO - Loading data from /Users/giovi/Documents/StudioBereikbaar/SB455 - Impact assessment of accessibility/education_roland_manus/data/processed/education_data.geojson
+2025-02-15 02:02:38,924 - INFO - Loaded 8711 features
+2025-02-15 02:02:38,924 - INFO - Starting analysis file creation
+2025-02-15 02:02:38,924 - INFO - Processing features...
+2025-02-15 02:02:38,928 - INFO - Saving processed GeoJSON...
+2025-02-15 02:02:38,928 - INFO - Saving CSV...
+2025-02-15 02:02:38,928 - INFO - Generating PostgreSQL setup script...
+2025-02-15 02:02:38,928 - INFO - 
+=== Processing Summary ===
+2025-02-15 02:02:38,928 - INFO - Total locations processed: 8711
+2025-02-15 02:02:38,928 - INFO - Main locations identified: 0
+2025-02-15 02:02:38,928 - INFO - Historical locations: 1204
+2025-02-15 02:02:38,928 - INFO - Locations with transitions: 2466
+2025-02-15 02:02:38,928 - INFO - 
+Transition Types:
+2025-02-15 02:02:38,928 - INFO -   Fusie: 2797
+2025-02-15 02:02:38,928 - INFO -   Overdracht: 159
+2025-02-15 02:02:38,928 - INFO -   Verzelfst. dislocatie: 2
+2025-02-15 02:02:38,928 - INFO -   Splitsing: 31
+2025-02-15 02:03:42,923 - INFO - Loading data from /Users/giovi/Documents/StudioBereikbaar/SB455 - Impact assessment of accessibility/education_roland_manus/data/processed/education_data.geojson
+2025-02-15 02:03:42,978 - INFO - Loaded 8711 features
+2025-02-15 02:03:42,978 - DEBUG - 
+Example feature structure:
+2025-02-15 02:03:42,978 - DEBUG - {
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.4750160620416,
+      52.060201
+    ]
+  },
+  "properties": {
+    "institution_id": "00AP",
+    "name": "WereldWijs",
+    "type": "BAS",
+    "main_address": {
+      "street": "Kerkenbos",
+      "number": 28.0,
+      "number_addition": null,
+      "postcode": "2716PH",
+      "city": "ZOETERMEER",
+      "province": "Zuid-Holland"
+    },
+    "status": "Active",
+    "start_date": "1-8-1985",
+    "end_date": null,
+    "branches": [
+      {
+        "branch_id": "00AP00",
+        "address": {
+          "street": "Overwater",
+          "number": 1.0,
+          "number_addition": null,
+          "postcode": "2715BT",
+          "city": "ZOETERMEER",
+          "province": "Zuid-Holland"
+        },
+        "start_date": "1-8-1985",
+        "end_date": null
+      }
+    ],
+    "board": {
+      "id": "41646",
+      "name": "Vereniging Gereformeerd Primair Onderwijs West-Nederland",
+      "start_date": "1-1-2007",
+      "end_date": null
+    },
+    "education_type": "BAS"
+  }
+}
+2025-02-15 02:03:42,978 - INFO - Starting analysis file creation
+2025-02-15 02:03:42,978 - INFO - Processing features...
+2025-02-15 02:03:43,222 - INFO - Saving processed GeoJSON...
+2025-02-15 02:03:43,357 - INFO - Saving CSV...
+2025-02-15 02:03:43,379 - INFO - Generating PostgreSQL setup script...
+2025-02-15 02:03:43,379 - INFO - 
+=== Processing Summary ===
+2025-02-15 02:03:43,379 - INFO - Total locations processed: 8711
+2025-02-15 02:03:43,379 - INFO - Main locations identified: 8711
+2025-02-15 02:03:43,379 - INFO - Historical locations: 1204
+2025-02-15 02:03:43,379 - INFO - Locations with transitions: 2466
+2025-02-15 02:03:43,379 - INFO - 
+Transition Types:
+2025-02-15 02:03:43,380 - INFO -   Fusie: 2797
+2025-02-15 02:03:43,380 - INFO -   Overdracht: 159
+2025-02-15 02:03:43,380 - INFO -   Verzelfst. dislocatie: 2
+2025-02-15 02:03:43,380 - INFO -   Splitsing: 31
+2025-02-15 02:04:39,693 - INFO - Loading data from /Users/giovi/Documents/StudioBereikbaar/SB455 - Impact assessment of accessibility/education_roland_manus/data/processed/education_data.geojson
+2025-02-15 02:04:39,751 - INFO - Loaded 8711 features
+2025-02-15 02:04:39,751 - DEBUG - 
+Example feature structure:
+2025-02-15 02:04:39,751 - DEBUG - {
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.4750160620416,
+      52.060201
+    ]
+  },
+  "properties": {
+    "institution_id": "00AP",
+    "name": "WereldWijs",
+    "type": "BAS",
+    "main_address": {
+      "street": "Kerkenbos",
+      "number": 28.0,
+      "number_addition": null,
+      "postcode": "2716PH",
+      "city": "ZOETERMEER",
+      "province": "Zuid-Holland"
+    },
+    "status": "Active",
+    "start_date": "1-8-1985",
+    "end_date": null,
+    "branches": [
+      {
+        "branch_id": "00AP00",
+        "address": {
+          "street": "Overwater",
+          "number": 1.0,
+          "number_addition": null,
+          "postcode": "2715BT",
+          "city": "ZOETERMEER",
+          "province": "Zuid-Holland"
+        },
+        "start_date": "1-8-1985",
+        "end_date": null
+      }
+    ],
+    "board": {
+      "id": "41646",
+      "name": "Vereniging Gereformeerd Primair Onderwijs West-Nederland",
+      "start_date": "1-1-2007",
+      "end_date": null
+    },
+    "education_type": "BAS"
+  }
+}
+2025-02-15 02:04:39,751 - INFO - Starting analysis file creation
+2025-02-15 02:04:39,751 - INFO - Processing features...
+2025-02-15 02:04:39,970 - INFO - Saving processed GeoJSON...
+2025-02-15 02:04:40,106 - INFO - Saving CSV...
+2025-02-15 02:04:40,128 - INFO - Generating PostgreSQL setup script...
+2025-02-15 02:04:40,129 - INFO - 
+=== Processing Summary ===
+2025-02-15 02:04:40,129 - INFO - Total locations processed: 8711
+2025-02-15 02:04:40,129 - INFO - Main locations identified: 8711
+2025-02-15 02:04:40,129 - INFO - Historical locations: 1204
+2025-02-15 02:04:40,129 - INFO - Locations with transitions: 2466
+2025-02-15 02:04:40,129 - INFO - 
+Transition Types:
+2025-02-15 02:04:40,129 - INFO -   Fusie: 2797
+2025-02-15 02:04:40,129 - INFO -   Overdracht: 159
+2025-02-15 02:04:40,129 - INFO -   Verzelfst. dislocatie: 2
+2025-02-15 02:04:40,129 - INFO -   Splitsing: 31
+2025-02-15 02:05:51,628 - INFO - Loading data from /Users/giovi/Documents/StudioBereikbaar/SB455 - Impact assessment of accessibility/education_roland_manus/data/processed/education_data.geojson
+2025-02-15 02:05:51,684 - INFO - Loaded 8711 features
+2025-02-15 02:05:51,684 - DEBUG - 
+Example feature structure:
+2025-02-15 02:05:51,684 - DEBUG - {
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.4750160620416,
+      52.060201
+    ]
+  },
+  "properties": {
+    "institution_id": "00AP",
+    "name": "WereldWijs",
+    "type": "BAS",
+    "main_address": {
+      "street": "Kerkenbos",
+      "number": 28.0,
+      "number_addition": null,
+      "postcode": "2716PH",
+      "city": "ZOETERMEER",
+      "province": "Zuid-Holland"
+    },
+    "status": "Active",
+    "start_date": "1-8-1985",
+    "end_date": null,
+    "branches": [
+      {
+        "branch_id": "00AP00",
+        "address": {
+          "street": "Overwater",
+          "number": 1.0,
+          "number_addition": null,
+          "postcode": "2715BT",
+          "city": "ZOETERMEER",
+          "province": "Zuid-Holland"
+        },
+        "start_date": "1-8-1985",
+        "end_date": null
+      }
+    ],
+    "board": {
+      "id": "41646",
+      "name": "Vereniging Gereformeerd Primair Onderwijs West-Nederland",
+      "start_date": "1-1-2007",
+      "end_date": null
+    },
+    "education_type": "BAS"
+  }
+}
+2025-02-15 02:05:51,685 - INFO - Starting analysis file creation
+2025-02-15 02:05:51,685 - INFO - Processing features...
+2025-02-15 02:05:51,903 - INFO - Saving processed GeoJSON...
+2025-02-15 02:05:52,038 - INFO - Saving CSV...
+2025-02-15 02:05:52,060 - INFO - Generating PostgreSQL setup script...
+2025-02-15 02:05:52,060 - INFO - 
+=== Processing Summary ===
+2025-02-15 02:05:52,060 - INFO - Total locations processed: 8711
+2025-02-15 02:05:52,060 - INFO - Main locations identified: 8711
+2025-02-15 02:05:52,060 - INFO - Historical locations: 1204
+2025-02-15 02:05:52,060 - INFO - Locations with transitions: 2466
+2025-02-15 02:05:52,060 - INFO - 
+Transition Types:
+2025-02-15 02:05:52,060 - INFO -   Fusie: 2797
+2025-02-15 02:05:52,060 - INFO -   Overdracht: 159
+2025-02-15 02:05:52,060 - INFO -   Verzelfst. dislocatie: 2
+2025-02-15 02:05:52,060 - INFO -   Splitsing: 31

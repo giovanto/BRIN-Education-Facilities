@@ -1,0 +1,776 @@
+2025-02-14 19:12:33,371 - INFO - Successfully connected to local Nominatim instance
+2025-02-14 19:12:33,371 - INFO - Loading data from /Users/giovi/Documents/StudioBereikbaar/SB455 - Impact assessment of accessibility/education_roland_manus/data/processed/education_data_all.json
+2025-02-14 19:12:33,425 - INFO - 
+Processing BAS
+2025-02-14 19:12:34,497 - DEBUG - Attempting postcode geocoding: 2716PH 28.0, Netherlands
+2025-02-14 19:12:34,497 - DEBUG - Attempting postcode geocoding: 3201CN 27.0, Netherlands
+2025-02-14 19:12:34,498 - DEBUG - Attempting postcode geocoding: 6107AW 22.0, Netherlands
+2025-02-14 19:12:34,498 - DEBUG - Attempting postcode geocoding: 2971AR 3.0, Netherlands
+2025-02-14 19:12:35,050 - DEBUG - Successfully geocoded 00AZ using postcode
+2025-02-14 19:12:35,134 - DEBUG - Successfully geocoded 00AR using postcode
+2025-02-14 19:12:36,055 - DEBUG - Attempting postcode geocoding: 6666EB 1.0, Netherlands
+2025-02-14 19:12:36,057 - DEBUG - Attempting street geocoding: Oranjelaan 27.0, SPIJKENISSE, Netherlands
+2025-02-14 19:12:36,104 - DEBUG - Attempting street geocoding: Kerkenbos 28.0, ZOETERMEER, Netherlands
+2025-02-14 19:12:36,120 - DEBUG - Successfully geocoded 00BA using postcode
+2025-02-14 19:12:36,139 - DEBUG - Attempting postcode geocoding: 9944AR 20.0, Netherlands
+2025-02-14 19:12:36,188 - DEBUG - Successfully geocoded 00BB using postcode
+2025-02-14 19:12:36,270 - WARNING - Failed to geocode 00AP with all methods
+2025-02-14 19:12:36,531 - WARNING - Failed to geocode 00AV with all methods
+2025-02-14 19:12:37,123 - DEBUG - Attempting postcode geocoding: 7711KP 96.0, Netherlands
+2025-02-14 19:12:37,193 - DEBUG - Attempting postcode geocoding: 6131KJ 8.0, Netherlands
+2025-02-14 19:12:37,274 - DEBUG - Attempting postcode geocoding: 5345JG 50.0, Netherlands
+2025-02-14 19:12:37,374 - DEBUG - Successfully geocoded 00BW using postcode
+2025-02-14 19:12:37,535 - DEBUG - Attempting postcode geocoding: 6372AC 10.0, Netherlands
+2025-02-14 19:12:37,587 - DEBUG - Successfully geocoded 00CG using postcode
+2025-02-14 19:12:38,233 - DEBUG - Attempting street geocoding: Kon.Julianalaan 96.0, NIEUWLEUSEN, Netherlands
+2025-02-14 19:12:38,338 - DEBUG - Attempting street geocoding: Bessenlaan 50.0, OSS, Netherlands
+2025-02-14 19:12:38,376 - DEBUG - Attempting postcode geocoding: 9671JA 14.0, Netherlands
+2025-02-14 19:12:38,549 - WARNING - Failed to geocode 00CD with all methods
+2025-02-14 19:12:38,589 - DEBUG - Attempting postcode geocoding: 4707EW 320.0, Netherlands
+2025-02-14 19:12:38,595 - DEBUG - Successfully geocoded 00CS using postcode
+2025-02-14 19:12:39,554 - DEBUG - Attempting postcode geocoding: 8388NA 23.0, Netherlands
+2025-02-14 19:12:39,588 - WARNING - Failed to geocode 00BS with all methods
+2025-02-14 19:12:39,599 - DEBUG - Attempting postcode geocoding: 9243SJ 12.0, Netherlands
+2025-02-14 19:12:39,630 - DEBUG - Attempting street geocoding: Elisadonk 320.0, ROOSENDAAL, Netherlands
+2025-02-14 19:12:39,733 - WARNING - Failed to geocode 00CU with all methods
+2025-02-14 19:12:39,736 - DEBUG - Successfully geocoded 00DA using postcode
+2025-02-14 19:12:40,593 - DEBUG - Attempting postcode geocoding: 1422LE 100.0, Netherlands
+2025-02-14 19:12:40,652 - DEBUG - Attempting street geocoding: Oosterstreek 23.0, OOSTERSTREEK, Netherlands
+2025-02-14 19:12:40,737 - DEBUG - Attempting postcode geocoding: 5473PG 33.0, Netherlands
+2025-02-14 19:12:40,741 - DEBUG - Attempting postcode geocoding: 6241BB 75.0, Netherlands
+2025-02-14 19:12:40,825 - DEBUG - Successfully geocoded 00DN using postcode
+2025-02-14 19:12:40,838 - WARNING - Failed to geocode 00CV with all methods
+2025-02-14 19:12:41,666 - DEBUG - Attempting street geocoding: Arthur van Schendellaan 100.0, UITHOORN, Netherlands
+2025-02-14 19:12:41,820 - DEBUG - Attempting street geocoding: Het Geleer 33.0, HEESWIJK-DINTHER, Netherlands
+2025-02-14 19:12:41,831 - DEBUG - Attempting postcode geocoding: 3151CJ 155.0, Netherlands
+2025-02-14 19:12:41,841 - DEBUG - Attempting postcode geocoding: 6986AT 8.0, Netherlands
+2025-02-14 19:12:41,919 - WARNING - Failed to geocode 00DD with all methods
+2025-02-14 19:12:41,952 - DEBUG - Successfully geocoded 00DW using postcode
+2025-02-14 19:12:41,952 - WARNING - Failed to geocode 00DM with all methods
+2025-02-14 19:12:42,910 - DEBUG - Attempting street geocoding: Mercatorweg 155.0, HOEK VAN HOLLAND, Netherlands
+2025-02-14 19:12:42,924 - DEBUG - Attempting postcode geocoding: 9404KK 1.0, Netherlands
+2025-02-14 19:12:42,957 - DEBUG - Attempting postcode geocoding: 8084GK 34.0, Netherlands
+2025-02-14 19:12:42,957 - DEBUG - Attempting postcode geocoding: 8081NB 45.0, Netherlands
+2025-02-14 19:12:42,988 - DEBUG - Successfully geocoded 00DX using postcode
+2025-02-14 19:12:43,006 - WARNING - Failed to geocode 00DO with all methods
+2025-02-14 19:12:43,991 - DEBUG - Attempting postcode geocoding: 5441AK 24.0, Netherlands
+2025-02-14 19:12:44,011 - DEBUG - Attempting postcode geocoding: 3286BC 4.0, Netherlands
+2025-02-14 19:12:44,020 - DEBUG - Attempting street geocoding: Hoekwant 45.0, ELBURG, Netherlands
+2025-02-14 19:12:44,023 - DEBUG - Attempting street geocoding: Parkweg 34.0, 'T HARDE, Netherlands
+2025-02-14 19:12:44,100 - DEBUG - Successfully geocoded 00EI using postcode
+2025-02-14 19:12:44,118 - DEBUG - Successfully geocoded 00EB using postcode
+2025-02-14 19:12:44,130 - WARNING - Failed to geocode 00DZ with all methods
+2025-02-14 19:12:44,248 - WARNING - Failed to geocode 00DY with all methods
+2025-02-14 19:12:45,101 - DEBUG - Attempting postcode geocoding: 4286BV 1.0, Netherlands
+2025-02-14 19:12:45,123 - DEBUG - Attempting postcode geocoding: 7557KJ 171.0, Netherlands
+2025-02-14 19:12:45,136 - DEBUG - Attempting postcode geocoding: 9561CB 38.0, Netherlands
+2025-02-14 19:12:45,165 - DEBUG - Successfully geocoded 00FE using postcode
+2025-02-14 19:12:45,219 - DEBUG - Successfully geocoded 00FI using postcode
+2025-02-14 19:12:45,250 - DEBUG - Attempting postcode geocoding: 4691HT 1.0, Netherlands
+2025-02-14 19:12:45,274 - DEBUG - Successfully geocoded 00FQ using postcode
+2025-02-14 19:12:46,170 - DEBUG - Attempting postcode geocoding: 2404GM 24.0, Netherlands
+2025-02-14 19:12:46,224 - DEBUG - Attempting postcode geocoding: 8181VZ 8.0, Netherlands
+2025-02-14 19:12:46,231 - DEBUG - Successfully geocoded 00GQ using postcode
+2025-02-14 19:12:46,238 - DEBUG - Attempting street geocoding: Castorweg 171.0, HENGELO OV, Netherlands
+2025-02-14 19:12:46,258 - DEBUG - Successfully geocoded 00GR using postcode
+2025-02-14 19:12:46,279 - DEBUG - Attempting postcode geocoding: 8732EE 45.0, Netherlands
+2025-02-14 19:12:46,286 - WARNING - Failed to geocode 00FG with all methods
+2025-02-14 19:12:47,234 - DEBUG - Attempting postcode geocoding: 7661RA 19.0, Netherlands
+2025-02-14 19:12:47,258 - DEBUG - Attempting postcode geocoding: 9077SR 78.0, Netherlands
+2025-02-14 19:12:47,288 - DEBUG - Successfully geocoded 00GV using postcode
+2025-02-14 19:12:47,291 - DEBUG - Attempting postcode geocoding: 6675BB 5.0, Netherlands
+2025-02-14 19:12:47,312 - DEBUG - Successfully geocoded 00GX using postcode
+2025-02-14 19:12:47,324 - DEBUG - Attempting street geocoding: Greate Buorren 45.0, KUBAARD, Netherlands
+2025-02-14 19:12:47,412 - WARNING - Failed to geocode 00GU with all methods
+2025-02-14 19:12:48,292 - DEBUG - Attempting postcode geocoding: 8226LP 29.0, Netherlands
+2025-02-14 19:12:48,313 - DEBUG - Attempting postcode geocoding: 3851BH 38.0, Netherlands
+2025-02-14 19:12:48,314 - DEBUG - Attempting street geocoding: Waling Dykstrastraat 78.0, VROUWENPAROCHIE, Netherlands
+2025-02-14 19:12:48,355 - DEBUG - Successfully geocoded 00HA using postcode
+2025-02-14 19:12:48,405 - WARNING - Failed to geocode 00GW with all methods
+2025-02-14 19:12:48,417 - DEBUG - Attempting postcode geocoding: 4491GB 30.0, Netherlands
+2025-02-14 19:12:49,357 - DEBUG - Attempting postcode geocoding: 3421XL 26.0, Netherlands
+2025-02-14 19:12:49,384 - DEBUG - Attempting street geocoding: Maasstraat 29.0, LELYSTAD, Netherlands
+2025-02-14 19:12:49,406 - DEBUG - Attempting postcode geocoding: 7666LH 90.0, Netherlands
+2025-02-14 19:12:49,454 - DEBUG - Successfully geocoded 00HZ using postcode
+2025-02-14 19:12:49,477 - DEBUG - Attempting street geocoding: Julianastraat 30.0, WISSENKERKE, Netherlands
+2025-02-14 19:12:49,599 - WARNING - Failed to geocode 00GZ with all methods
+2025-02-14 19:12:49,824 - WARNING - Failed to geocode 00HH with all methods
+2025-02-14 19:12:50,443 - DEBUG - Attempting street geocoding: Oldenzaalseweg 90.0, FLERINGEN, Netherlands
+2025-02-14 19:12:50,459 - DEBUG - Attempting postcode geocoding: 7443HC 47.0, Netherlands
+2025-02-14 19:12:50,557 - WARNING - Failed to geocode 00IF with all methods
+2025-02-14 19:12:50,573 - DEBUG - Successfully geocoded 00IJ using postcode
+2025-02-14 19:12:50,600 - DEBUG - Attempting postcode geocoding: 4341ER 3.0, Netherlands
+2025-02-14 19:12:50,621 - DEBUG - Successfully geocoded 00IM using postcode
+2025-02-14 19:12:50,824 - DEBUG - Attempting postcode geocoding: 2271AJ 20.0, Netherlands
+2025-02-14 19:12:50,873 - DEBUG - Successfully geocoded 01PL using postcode
+2025-02-14 19:12:51,558 - DEBUG - Attempting postcode geocoding: 3771CS 10.0, Netherlands
+2025-02-14 19:12:51,574 - DEBUG - Attempting postcode geocoding: 9602KZ 1.0, Netherlands
+2025-02-14 19:12:51,622 - DEBUG - Successfully geocoded 01VG using postcode
+2025-02-14 19:12:51,623 - DEBUG - Successfully geocoded 01VE using postcode
+2025-02-14 19:12:51,626 - DEBUG - Attempting postcode geocoding: 3813LW 2.0, Netherlands
+2025-02-14 19:12:51,664 - DEBUG - Successfully geocoded 01VI using postcode
+2025-02-14 19:12:51,879 - DEBUG - Attempting postcode geocoding: 1991ET 20.0, Netherlands
+2025-02-14 19:12:51,914 - DEBUG - Successfully geocoded 01VQ using postcode
+2025-02-14 19:12:52,623 - DEBUG - Attempting postcode geocoding: 4241CA 13.0, Netherlands
+2025-02-14 19:12:52,624 - DEBUG - Attempting postcode geocoding: 2912CR 4.0, Netherlands
+2025-02-14 19:12:52,666 - DEBUG - Attempting postcode geocoding: 9301KE 3.0, Netherlands
+2025-02-14 19:12:52,689 - DEBUG - Successfully geocoded 01VR using postcode
+2025-02-14 19:12:52,714 - DEBUG - Successfully geocoded 01WQ using postcode
+2025-02-14 19:12:52,916 - DEBUG - Attempting postcode geocoding: 3851ZK 7.0, Netherlands
+2025-02-14 19:12:53,045 - DEBUG - Successfully geocoded 01WR using postcode
+2025-02-14 19:12:53,693 - DEBUG - Attempting postcode geocoding: 1784XN 38.0, Netherlands
+2025-02-14 19:12:53,717 - DEBUG - Attempting postcode geocoding: 5643CJ 1.0, Netherlands
+2025-02-14 19:12:53,755 - DEBUG - Successfully geocoded 01WU using postcode
+2025-02-14 19:12:53,756 - DEBUG - Successfully geocoded 01WS using postcode
+2025-02-14 19:12:53,765 - DEBUG - Attempting street geocoding: Harpstraat 13.0, ARKEL, Netherlands
+2025-02-14 19:12:53,830 - WARNING - Failed to geocode 01VY with all methods
+2025-02-14 19:12:54,050 - DEBUG - Attempting postcode geocoding: 2964CC 35.0, Netherlands
+2025-02-14 19:12:54,138 - DEBUG - Successfully geocoded 01XH using postcode
+2025-02-14 19:12:54,760 - DEBUG - Attempting postcode geocoding: 3055TE 11.0, Netherlands
+2025-02-14 19:12:54,761 - DEBUG - Attempting postcode geocoding: 4233HG 65.0, Netherlands
+2025-02-14 19:12:54,832 - DEBUG - Attempting postcode geocoding: 7221BH 19.0, Netherlands
+2025-02-14 19:12:54,864 - DEBUG - Successfully geocoded 02ZG using postcode
+2025-02-14 19:12:54,872 - DEBUG - Successfully geocoded 01XU using postcode
+2025-02-14 19:12:55,139 - DEBUG - Attempting postcode geocoding: 7322CL 594.0, Netherlands
+2025-02-14 19:12:55,817 - DEBUG - Attempting street geocoding: Liesveldweg 65.0, AMEIDE, Netherlands
+2025-02-14 19:12:55,866 - DEBUG - Attempting postcode geocoding: 4464JA 3.0, Netherlands
+2025-02-14 19:12:55,876 - DEBUG - Attempting postcode geocoding: 1991ET 24.0, Netherlands
+2025-02-14 19:12:55,906 - WARNING - Failed to geocode 02ZF with all methods
+2025-02-14 19:12:55,909 - DEBUG - Successfully geocoded 02ZY using postcode
+2025-02-14 19:12:55,979 - DEBUG - Successfully geocoded 03AG using postcode
+2025-02-14 19:12:56,169 - DEBUG - Attempting street geocoding: Gentiaanstraat 594.0, APELDOORN, Netherlands
+2025-02-14 19:12:56,228 - WARNING - Failed to geocode 02ZW with all methods
+2025-02-14 19:12:56,911 - DEBUG - Attempting postcode geocoding: 5914SH 187.0, Netherlands
+2025-02-14 19:12:56,913 - DEBUG - Attempting postcode geocoding: 7007BK 1.0, Netherlands
+2025-02-14 19:12:56,937 - DEBUG - Successfully geocoded 03AI using postcode
+2025-02-14 19:12:56,983 - DEBUG - Attempting postcode geocoding: 7495TW 16.0, Netherlands
+2025-02-14 19:12:57,233 - DEBUG - Attempting postcode geocoding: 5551EG 60.0, Netherlands
+2025-02-14 19:12:57,942 - DEBUG - Attempting postcode geocoding: 9171LM 18.0, Netherlands
+2025-02-14 19:12:57,951 - DEBUG - Attempting street geocoding: Craneveldstraat 187.0, VENLO, Netherlands
+2025-02-14 19:12:58,012 - WARNING - Failed to geocode 03AH with all methods
+2025-02-14 19:12:58,032 - DEBUG - Successfully geocoded 03AX using postcode
+2025-02-14 19:12:58,065 - DEBUG - Attempting street geocoding: Secr. Engelbertinkstraat 16.0, AMBT DELDEN, Netherlands
+2025-02-14 19:12:58,299 - DEBUG - Attempting street geocoding: Rudolfusdal 60.0, VALKENSWAARD, Netherlands
+2025-02-14 19:12:58,311 - WARNING - Failed to geocode 03AN with all methods
+2025-02-14 19:12:58,353 - WARNING - Failed to geocode 03AP with all methods
+2025-02-14 19:12:59,016 - DEBUG - Attempting postcode geocoding: 1817HJ 23.0, Netherlands
+2025-02-14 19:12:59,033 - DEBUG - Attempting postcode geocoding: 1222SX 15.0, Netherlands
+2025-02-14 19:12:59,117 - DEBUG - Successfully geocoded 03BA using postcode
+2025-02-14 19:12:59,312 - DEBUG - Attempting postcode geocoding: 6191PD 70.0, Netherlands
+2025-02-14 19:12:59,353 - DEBUG - Attempting postcode geocoding: 7591XJ 39.0, Netherlands
+2025-02-14 19:12:59,374 - DEBUG - Successfully geocoded 03BR using postcode
+2025-02-14 19:13:00,064 - DEBUG - Attempting street geocoding: Beethovensingel 23.0, ALKMAAR, Netherlands
+2025-02-14 19:13:00,123 - DEBUG - Attempting postcode geocoding: 7783BM 7.0, Netherlands
+2025-02-14 19:13:00,155 - WARNING - Failed to geocode 03AZ with all methods
+2025-02-14 19:13:00,160 - DEBUG - Successfully geocoded 03BT using postcode
+2025-02-14 19:13:00,379 - DEBUG - Attempting postcode geocoding: 1165GL 19.0, Netherlands
+2025-02-14 19:13:00,396 - DEBUG - Attempting street geocoding: Clematisstraat 39.0, DENEKAMP, Netherlands
+2025-02-14 19:13:00,416 - DEBUG - Successfully geocoded 03BU using postcode
+2025-02-14 19:13:00,478 - WARNING - Failed to geocode 03BS with all methods
+2025-02-14 19:13:01,160 - DEBUG - Attempting postcode geocoding: 6852DW 9.0, Netherlands
+2025-02-14 19:13:01,161 - DEBUG - Attempting postcode geocoding: 5591NG 2.0, Netherlands
+2025-02-14 19:13:01,212 - DEBUG - Successfully geocoded 03BV using postcode
+2025-02-14 19:13:01,213 - DEBUG - Successfully geocoded 03BW using postcode
+2025-02-14 19:13:01,419 - DEBUG - Attempting postcode geocoding: 3417WD 83.0, Netherlands
+2025-02-14 19:13:01,482 - DEBUG - Attempting postcode geocoding: 6658ZZ 1.0, Netherlands
+2025-02-14 19:13:01,504 - DEBUG - Successfully geocoded 03BY using postcode
+2025-02-14 19:13:02,217 - DEBUG - Attempting postcode geocoding: 4462EK 29.0, Netherlands
+2025-02-14 19:13:02,217 - DEBUG - Attempting postcode geocoding: 9831RS 2.0, Netherlands
+2025-02-14 19:13:02,285 - DEBUG - Successfully geocoded 03CK using postcode
+2025-02-14 19:13:02,474 - DEBUG - Attempting street geocoding: G van Damstraat 83.0, MONTFOORT, Netherlands
+2025-02-14 19:13:02,510 - DEBUG - Attempting postcode geocoding: 1796AH 29.0, Netherlands
+2025-02-14 19:13:03,282 - DEBUG - Attempting street geocoding: Frambozestraat 29.0, GOES, Netherlands
+2025-02-14 19:13:03,287 - DEBUG - Attempting postcode geocoding: 8331MZ 90.0, Netherlands
+2025-02-14 19:13:03,351 - WARNING - Failed to geocode 03CJ with all methods
+2025-02-14 19:13:03,559 - DEBUG - Attempting street geocoding: Brink 29.0, DE KOOG, Netherlands
+2025-02-14 19:13:03,733 - WARNING - Failed to geocode 03BX with all methods
+2025-02-14 19:13:03,862 - WARNING - Failed to geocode 03CL with all methods
+2025-02-14 19:13:04,357 - DEBUG - Attempting postcode geocoding: 9831PL 1.0, Netherlands
+2025-02-14 19:13:04,404 - DEBUG - Successfully geocoded 03CQ using postcode
+2025-02-14 19:13:04,508 - DEBUG - Attempting street geocoding: Gasthuislaan 90.0, STEENWIJK, Netherlands
+2025-02-14 19:13:04,598 - WARNING - Failed to geocode 03CO with all methods
+2025-02-14 19:13:04,738 - DEBUG - Attempting postcode geocoding: 2974LH 10.0, Netherlands
+2025-02-14 19:13:04,778 - DEBUG - Successfully geocoded 03CS using postcode
+2025-02-14 19:13:04,866 - DEBUG - Attempting postcode geocoding: 4357EN 3.0, Netherlands
+2025-02-14 19:13:04,911 - DEBUG - Successfully geocoded 03CT using postcode
+2025-02-14 19:13:05,410 - DEBUG - Attempting postcode geocoding: 6665AX 2.0, Netherlands
+2025-02-14 19:13:05,464 - DEBUG - Successfully geocoded 03CU using postcode
+2025-02-14 19:13:05,600 - DEBUG - Attempting postcode geocoding: 1744KJ 9.0, Netherlands
+2025-02-14 19:13:05,658 - DEBUG - Successfully geocoded 03CV using postcode
+2025-02-14 19:13:05,783 - DEBUG - Attempting postcode geocoding: 4841ND 30.0, Netherlands
+2025-02-14 19:13:05,917 - DEBUG - Attempting postcode geocoding: 9893PD 68.0, Netherlands
+2025-02-14 19:13:06,469 - DEBUG - Attempting postcode geocoding: 9995PN 6.0, Netherlands
+2025-02-14 19:13:06,523 - DEBUG - Successfully geocoded 03DG using postcode
+2025-02-14 19:13:06,660 - DEBUG - Attempting postcode geocoding: 5991PX 4.0, Netherlands
+2025-02-14 19:13:06,709 - DEBUG - Successfully geocoded 03DH using postcode
+2025-02-14 19:13:06,847 - DEBUG - Attempting street geocoding: Straatweide 30.0, PRINSENBEEK, Netherlands
+2025-02-14 19:13:06,918 - WARNING - Failed to geocode 03CW with all methods
+2025-02-14 19:13:06,979 - DEBUG - Attempting street geocoding: Hunzeweg 68.0, GARNWERD, Netherlands
+2025-02-14 19:13:07,046 - WARNING - Failed to geocode 03DF with all methods
+2025-02-14 19:13:07,525 - DEBUG - Attempting postcode geocoding: 8899BD 3.0, Netherlands
+2025-02-14 19:13:07,582 - DEBUG - Successfully geocoded 03DJ using postcode
+2025-02-14 19:13:07,715 - DEBUG - Attempting postcode geocoding: 7251BC 17.0, Netherlands
+2025-02-14 19:13:07,923 - DEBUG - Attempting postcode geocoding: 3461GH 26.0, Netherlands
+2025-02-14 19:13:07,961 - DEBUG - Successfully geocoded 03DV using postcode
+2025-02-14 19:13:08,051 - DEBUG - Attempting postcode geocoding: 9693BG 1.0, Netherlands
+2025-02-14 19:13:08,096 - DEBUG - Successfully geocoded 03DW using postcode
+2025-02-14 19:13:08,584 - DEBUG - Attempting postcode geocoding: 3011GM 15.0, Netherlands
+2025-02-14 19:13:08,642 - DEBUG - Successfully geocoded 03DX using postcode
+2025-02-14 19:13:08,817 - DEBUG - Attempting street geocoding: Kerkstraat 17.0, VORDEN, Netherlands
+2025-02-14 19:13:08,966 - DEBUG - Attempting postcode geocoding: 4561KZ 18.0, Netherlands
+2025-02-14 19:13:09,001 - DEBUG - Successfully geocoded 03EE using postcode
+2025-02-14 19:13:09,099 - DEBUG - Attempting postcode geocoding: 6268NE 50.0, Netherlands
+2025-02-14 19:13:09,604 - WARNING - Failed to geocode 03DK with all methods
+2025-02-14 19:13:09,648 - DEBUG - Attempting postcode geocoding: 8091VK 10.0, Netherlands
+2025-02-14 19:13:09,669 - DEBUG - Successfully geocoded 03EH using postcode
+2025-02-14 19:13:10,006 - DEBUG - Attempting postcode geocoding: 9988SC 2.0, Netherlands
+2025-02-14 19:13:10,081 - DEBUG - Successfully geocoded 03EI using postcode
+2025-02-14 19:13:10,133 - DEBUG - Attempting street geocoding: Oude Akerstraat 50.0, BEMELEN, Netherlands
+2025-02-14 19:13:10,293 - WARNING - Failed to geocode 03EG with all methods
+2025-02-14 19:13:10,610 - DEBUG - Attempting postcode geocoding: 7854TW 1.0, Netherlands
+2025-02-14 19:13:10,651 - DEBUG - Successfully geocoded 03EJ using postcode
+2025-02-14 19:13:10,672 - DEBUG - Attempting postcode geocoding: 2396XD 2.0, Netherlands
+2025-02-14 19:13:10,715 - DEBUG - Successfully geocoded 03ES using postcode
+2025-02-14 19:13:11,083 - DEBUG - Attempting postcode geocoding: 2441AG 18.0, Netherlands
+2025-02-14 19:13:11,152 - DEBUG - Successfully geocoded 03ET using postcode
+2025-02-14 19:13:11,299 - DEBUG - Attempting postcode geocoding: 2631PT 6.0, Netherlands
+2025-02-14 19:13:11,352 - DEBUG - Successfully geocoded 03EU using postcode
+2025-02-14 19:13:11,657 - DEBUG - Attempting postcode geocoding: 5541GH 18.0, Netherlands
+2025-02-14 19:13:11,718 - DEBUG - Attempting postcode geocoding: 3155BM 1.0, Netherlands
+2025-02-14 19:13:11,721 - DEBUG - Successfully geocoded 03EV using postcode
+2025-02-14 19:13:11,744 - DEBUG - Successfully geocoded 03FH using postcode
+2025-02-14 19:13:12,154 - DEBUG - Attempting postcode geocoding: 2821SB 6.0, Netherlands
+2025-02-14 19:13:12,213 - DEBUG - Successfully geocoded 03FJ using postcode
+2025-02-14 19:13:12,357 - DEBUG - Attempting postcode geocoding: 5361HT 3.0, Netherlands
+2025-02-14 19:13:12,409 - DEBUG - Successfully geocoded 03FS using postcode
+2025-02-14 19:13:12,722 - DEBUG - Attempting postcode geocoding: 9801AM 1.0, Netherlands
+2025-02-14 19:13:12,749 - DEBUG - Attempting postcode geocoding: 8064CD 2.0, Netherlands
+2025-02-14 19:13:12,787 - DEBUG - Successfully geocoded 03FT using postcode
+2025-02-14 19:13:12,793 - DEBUG - Successfully geocoded 03FU using postcode
+2025-02-14 19:13:13,216 - DEBUG - Attempting postcode geocoding: 3465KE 26.0, Netherlands
+2025-02-14 19:13:13,267 - DEBUG - Successfully geocoded 03GD using postcode
+2025-02-14 19:13:13,414 - DEBUG - Attempting postcode geocoding: 3028HW 40.0, Netherlands
+2025-02-14 19:13:13,792 - DEBUG - Attempting postcode geocoding: 4472AT 15.0, Netherlands
+2025-02-14 19:13:13,795 - DEBUG - Attempting postcode geocoding: 5363RA 6.0, Netherlands
+2025-02-14 19:13:13,855 - DEBUG - Successfully geocoded 03GL using postcode
+2025-02-14 19:13:13,861 - DEBUG - Successfully geocoded 03GJ using postcode
+2025-02-14 19:13:14,272 - DEBUG - Attempting postcode geocoding: 4631NM 27.0, Netherlands
+2025-02-14 19:13:14,489 - DEBUG - Attempting street geocoding: Spaanseweg 40.0, ROTTERDAM, Netherlands
+2025-02-14 19:13:14,586 - WARNING - Failed to geocode 03GE with all methods
+2025-02-14 19:13:14,857 - DEBUG - Attempting postcode geocoding: 7913RE 4.0, Netherlands
+2025-02-14 19:13:14,866 - DEBUG - Attempting postcode geocoding: 8734GL 19.0, Netherlands
+2025-02-14 19:13:14,957 - DEBUG - Successfully geocoded 03GT using postcode
+2025-02-14 19:13:14,957 - DEBUG - Successfully geocoded 03GR using postcode
+2025-02-14 19:13:15,326 - DEBUG - Attempting street geocoding: Philomenahof 27.0, HOOGERHEIDE, Netherlands
+2025-02-14 19:13:15,405 - WARNING - Failed to geocode 03GP with all methods
+2025-02-14 19:13:15,586 - DEBUG - Attempting postcode geocoding: 6133WZ 52.0, Netherlands
+2025-02-14 19:13:15,965 - DEBUG - Attempting postcode geocoding: 4461RH 1.0, Netherlands
+2025-02-14 19:13:15,966 - DEBUG - Attempting postcode geocoding: 5384BV 115.0, Netherlands
+2025-02-14 19:13:16,030 - DEBUG - Successfully geocoded 03HB using postcode
+2025-02-14 19:13:16,410 - DEBUG - Attempting postcode geocoding: 5313AP 33.0, Netherlands
+2025-02-14 19:13:16,657 - DEBUG - Attempting street geocoding: Berkenlaan 52.0, SITTARD, Netherlands
+2025-02-14 19:13:16,836 - WARNING - Failed to geocode 03GW with all methods
+2025-02-14 19:13:17,035 - DEBUG - Attempting postcode geocoding: 2163AJ 2.0, Netherlands
+2025-02-14 19:13:17,069 - DEBUG - Attempting street geocoding: Dr Saal van Zwanenbergln 115.0, HEESCH, Netherlands
+2025-02-14 19:13:17,081 - DEBUG - Successfully geocoded 03HD using postcode
+2025-02-14 19:13:17,470 - DEBUG - Attempting street geocoding: Kerkstraat 33.0, NIEUWAAL, Netherlands
+2025-02-14 19:13:17,584 - WARNING - Failed to geocode 03HC with all methods
+2025-02-14 19:13:17,841 - DEBUG - Attempting postcode geocoding: 2161HB 11.0, Netherlands
+2025-02-14 19:13:17,872 - DEBUG - Successfully geocoded 03HE using postcode
+2025-02-14 19:13:18,086 - DEBUG - Attempting postcode geocoding: 6061EL 6.0, Netherlands
+2025-02-14 19:13:18,114 - DEBUG - Successfully geocoded 03HF using postcode
+2025-02-14 19:13:18,585 - DEBUG - Attempting postcode geocoding: 6031TZ 2.0, Netherlands
+2025-02-14 19:13:18,612 - DEBUG - Successfully geocoded 03HG using postcode
+2025-02-14 19:13:18,876 - DEBUG - Attempting postcode geocoding: 2651CP 2.0, Netherlands
+2025-02-14 19:13:18,928 - DEBUG - Successfully geocoded 03HH using postcode
+2025-02-14 19:13:18,988 - WARNING - Failed to geocode 03HA with all methods
+2025-02-14 19:13:19,116 - DEBUG - Attempting postcode geocoding: 3135PS 30.0, Netherlands
+2025-02-14 19:13:19,617 - DEBUG - Attempting postcode geocoding: 7731ZL 4.0, Netherlands
+2025-02-14 19:13:19,664 - DEBUG - Successfully geocoded 03HK using postcode
+2025-02-14 19:13:19,934 - DEBUG - Attempting postcode geocoding: 6088EH 9.0, Netherlands
+2025-02-14 19:13:19,986 - DEBUG - Successfully geocoded 03HL using postcode
+2025-02-14 19:13:19,990 - DEBUG - Attempting postcode geocoding: 7721BN 2.0, Netherlands
+2025-02-14 19:13:20,018 - DEBUG - Successfully geocoded 03HM using postcode
+2025-02-14 19:13:20,154 - DEBUG - Attempting street geocoding: Pompenburgsingel 30.0, VLAARDINGEN, Netherlands
+2025-02-14 19:13:20,225 - WARNING - Failed to geocode 03HI with all methods
+2025-02-14 19:13:20,670 - DEBUG - Attempting postcode geocoding: 9811PA 33.0, Netherlands
+2025-02-14 19:13:20,992 - DEBUG - Attempting postcode geocoding: 9991BN 12.0, Netherlands
+2025-02-14 19:13:21,023 - DEBUG - Attempting postcode geocoding: 8281ZC 3.0, Netherlands
+2025-02-14 19:13:21,064 - DEBUG - Successfully geocoded 03HO using postcode
+2025-02-14 19:13:21,083 - DEBUG - Successfully geocoded 03HP using postcode
+2025-02-14 19:13:21,229 - DEBUG - Attempting postcode geocoding: 7954GC 21.0, Netherlands
+2025-02-14 19:13:21,703 - DEBUG - Attempting street geocoding: Dorpsstraat 33.0, ENUMATIL, Netherlands
+2025-02-14 19:13:22,069 - DEBUG - Attempting postcode geocoding: 9402AR 11.0, Netherlands
+2025-02-14 19:13:22,085 - DEBUG - Attempting postcode geocoding: 9288BA 5.0, Netherlands
+2025-02-14 19:13:22,109 - DEBUG - Successfully geocoded 03HR using postcode
+2025-02-14 19:13:22,139 - DEBUG - Successfully geocoded 03HS using postcode
+2025-02-14 19:13:22,302 - DEBUG - Attempting street geocoding: Korte Kerkweg 21.0, ROUVEEN, Netherlands
+2025-02-14 19:13:22,474 - WARNING - Failed to geocode 03HN with all methods
+2025-02-14 19:13:23,026 - WARNING - Failed to geocode 03HQ with all methods
+2025-02-14 19:13:23,114 - DEBUG - Attempting postcode geocoding: 3774DA 53.0, Netherlands
+2025-02-14 19:13:23,145 - DEBUG - Attempting postcode geocoding: 2906VK 4.0, Netherlands
+2025-02-14 19:13:23,172 - DEBUG - Successfully geocoded 03HV using postcode
+2025-02-14 19:13:23,475 - DEBUG - Attempting postcode geocoding: 4043MA 15.0, Netherlands
+2025-02-14 19:13:23,533 - DEBUG - Successfully geocoded 03HY using postcode
+2025-02-14 19:13:24,027 - DEBUG - Attempting postcode geocoding: 4119LX 3.0, Netherlands
+2025-02-14 19:13:24,086 - DEBUG - Successfully geocoded 03HZ using postcode
+2025-02-14 19:13:24,166 - DEBUG - Attempting street geocoding: Schoonbeekhof 53.0, KOOTWIJKERBROEK, Netherlands
+2025-02-14 19:13:24,176 - DEBUG - Attempting postcode geocoding: 4386AK 40.0, Netherlands
+2025-02-14 19:13:24,234 - WARNING - Failed to geocode 03HU with all methods
+2025-02-14 19:13:24,534 - DEBUG - Attempting postcode geocoding: 8765LM 29.0, Netherlands
+2025-02-14 19:13:25,092 - DEBUG - Attempting postcode geocoding: 7491AK 118.0, Netherlands
+2025-02-14 19:13:25,152 - DEBUG - Successfully geocoded 03IC using postcode
+2025-02-14 19:13:25,216 - DEBUG - Attempting street geocoding: Van Doornlaan 40.0, VLISSINGEN, Netherlands
+2025-02-14 19:13:25,236 - DEBUG - Attempting postcode geocoding: 1401CS 13.0, Netherlands
+2025-02-14 19:13:25,318 - WARNING - Failed to geocode 03IA with all methods
+2025-02-14 19:13:25,594 - DEBUG - Attempting street geocoding: Waltaweg 29.0, TJERKWERD, Netherlands
+2025-02-14 19:13:25,717 - WARNING - Failed to geocode 03IB with all methods
+2025-02-14 19:13:26,157 - DEBUG - Attempting postcode geocoding: 4691JZ 28.0, Netherlands
+2025-02-14 19:13:26,274 - DEBUG - Attempting street geocoding: J.J.H. Verhulstlaan 13.0, BUSSUM, Netherlands
+2025-02-14 19:13:26,323 - DEBUG - Attempting postcode geocoding: 5931CZ 142.0, Netherlands
+2025-02-14 19:13:26,718 - DEBUG - Attempting postcode geocoding: 4401HZ 2.0, Netherlands
+2025-02-14 19:13:26,753 - DEBUG - Successfully geocoded 03IW using postcode
+2025-02-14 19:13:27,218 - DEBUG - Attempting street geocoding: Abraham Beeckmanlaan 28.0, THOLEN, Netherlands
+2025-02-14 19:13:27,354 - DEBUG - Attempting street geocoding: Grotestraat 142.0, TEGELEN, Netherlands
+2025-02-14 19:13:27,719 - WARNING - Failed to geocode 03IK with all methods
+2025-02-14 19:13:27,758 - DEBUG - Attempting postcode geocoding: 3972XL 4.0, Netherlands
+2025-02-14 19:13:27,789 - DEBUG - Successfully geocoded 03IX using postcode
+2025-02-14 19:13:27,805 - WARNING - Failed to geocode 03IV with all methods
+2025-02-14 19:13:28,157 - WARNING - Failed to geocode 03IH with all methods
+2025-02-14 19:13:28,724 - DEBUG - Attempting postcode geocoding: 6216ED 129.0, Netherlands
+2025-02-14 19:13:28,792 - DEBUG - Attempting postcode geocoding: 5855AD 23.0, Netherlands
+2025-02-14 19:13:28,810 - DEBUG - Attempting postcode geocoding: 5684KE 1.0, Netherlands
+2025-02-14 19:13:28,852 - DEBUG - Successfully geocoded 03JB using postcode
+2025-02-14 19:13:29,162 - DEBUG - Attempting postcode geocoding: 4826KA 34.0, Netherlands
+2025-02-14 19:13:29,810 - DEBUG - Attempting street geocoding: Keurmeestersdreef 129.0, MAASTRICHT, Netherlands
+2025-02-14 19:13:29,843 - DEBUG - Attempting street geocoding: Kasteellaan 23.0, WELL LB, Netherlands
+2025-02-14 19:13:29,858 - DEBUG - Attempting postcode geocoding: 6814CJ 163.0, Netherlands
+2025-02-14 19:13:29,889 - WARNING - Failed to geocode 03IY with all methods
+2025-02-14 19:13:29,986 - WARNING - Failed to geocode 03IZ with all methods
+2025-02-14 19:13:30,224 - DEBUG - Attempting street geocoding: Molstraat 34.0, BREDA, Netherlands
+2025-02-14 19:13:30,322 - WARNING - Failed to geocode 03JC with all methods
+2025-02-14 19:13:30,888 - DEBUG - Attempting street geocoding: Zijpendaalseweg 163.0, ARNHEM, Netherlands
+2025-02-14 19:13:30,891 - DEBUG - Attempting postcode geocoding: 4131AR 43.0, Netherlands
+2025-02-14 19:13:30,953 - WARNING - Failed to geocode 03JD with all methods
+2025-02-14 19:13:30,991 - DEBUG - Attempting postcode geocoding: 2451BV 2.0, Netherlands
+2025-02-14 19:13:31,027 - DEBUG - Successfully geocoded 03JG using postcode
+2025-02-14 19:13:31,328 - DEBUG - Attempting postcode geocoding: 5246GB 28.0, Netherlands
+2025-02-14 19:13:31,954 - DEBUG - Attempting street geocoding: Populierstraat 43.0, VIANEN UT, Netherlands
+2025-02-14 19:13:31,958 - DEBUG - Attempting postcode geocoding: 8171KC 17.0, Netherlands
+2025-02-14 19:13:32,029 - DEBUG - Attempting postcode geocoding: 6441JJ 5.0, Netherlands
+2025-02-14 19:13:32,051 - DEBUG - Successfully geocoded 03JL using postcode
+2025-02-14 19:13:32,057 - WARNING - Failed to geocode 03JE with all methods
+2025-02-14 19:13:32,382 - DEBUG - Attempting street geocoding: Vincent van Goghlaan 28.0, ROSMALEN, Netherlands
+2025-02-14 19:13:32,598 - WARNING - Failed to geocode 03JH with all methods
+2025-02-14 19:13:33,037 - DEBUG - Attempting street geocoding: Boxhofstede 17.0, VAASSEN, Netherlands
+2025-02-14 19:13:33,056 - DEBUG - Attempting postcode geocoding: 4751CN 5.0, Netherlands
+2025-02-14 19:13:33,061 - DEBUG - Attempting postcode geocoding: 6095AG 51.0, Netherlands
+2025-02-14 19:13:33,096 - DEBUG - Successfully geocoded 03JP using postcode
+2025-02-14 19:13:33,117 - WARNING - Failed to geocode 03JI with all methods
+2025-02-14 19:13:33,603 - DEBUG - Attempting postcode geocoding: 7203GC 30.0, Netherlands
+2025-02-14 19:13:34,102 - DEBUG - Attempting postcode geocoding: 8501HL 3.0, Netherlands
+2025-02-14 19:13:34,118 - DEBUG - Attempting postcode geocoding: 6261NX 45.0, Netherlands
+2025-02-14 19:13:34,120 - DEBUG - Attempting street geocoding: Dorpstraat 51.0, BAEXEM, Netherlands
+2025-02-14 19:13:34,161 - DEBUG - Successfully geocoded 03JW using postcode
+2025-02-14 19:13:34,262 - WARNING - Failed to geocode 03JQ with all methods
+2025-02-14 19:13:34,659 - DEBUG - Attempting street geocoding: Valckstraat 30.0, ZUTPHEN, Netherlands
+2025-02-14 19:13:34,727 - WARNING - Failed to geocode 03JS with all methods
+2025-02-14 19:13:35,163 - DEBUG - Attempting postcode geocoding: 4301KB 41.0, Netherlands
+2025-02-14 19:13:35,167 - DEBUG - Attempting street geocoding: Burgemeester Beckersweg 45.0, MHEER, Netherlands
+2025-02-14 19:13:35,264 - DEBUG - Attempting postcode geocoding: 1431SG 2.0, Netherlands
+2025-02-14 19:13:35,280 - WARNING - Failed to geocode 03JX with all methods
+2025-02-14 19:13:35,287 - DEBUG - Successfully geocoded 03KF using postcode
+2025-02-14 19:13:35,729 - DEBUG - Attempting postcode geocoding: 4744BX 2.0, Netherlands
+2025-02-14 19:13:35,784 - DEBUG - Successfully geocoded 03KI using postcode
+2025-02-14 19:13:36,239 - DEBUG - Attempting street geocoding: Hoge Molenstraat 41.0, ZIERIKZEE, Netherlands
+2025-02-14 19:13:36,282 - DEBUG - Attempting postcode geocoding: 5916SR 45.0, Netherlands
+2025-02-14 19:13:36,291 - DEBUG - Attempting postcode geocoding: 8121BR 5.0, Netherlands
+2025-02-14 19:13:36,318 - DEBUG - Successfully geocoded 03KM using postcode
+2025-02-14 19:13:36,790 - DEBUG - Attempting postcode geocoding: 9981JT 2.0, Netherlands
+2025-02-14 19:13:36,883 - DEBUG - Successfully geocoded 03KP using postcode
+2025-02-14 19:13:37,136 - WARNING - Failed to geocode 03KA with all methods
+2025-02-14 19:13:37,317 - DEBUG - Attempting street geocoding: Noordervaartlaan 45.0, VENLO, Netherlands
+2025-02-14 19:13:37,323 - DEBUG - Attempting postcode geocoding: 9601HL 7.0, Netherlands
+2025-02-14 19:13:37,387 - DEBUG - Successfully geocoded 03KR using postcode
+2025-02-14 19:13:37,393 - WARNING - Failed to geocode 03KJ with all methods
+2025-02-14 19:13:37,887 - DEBUG - Attempting postcode geocoding: 6961XK 1.0, Netherlands
+2025-02-14 19:13:37,942 - DEBUG - Successfully geocoded 03KS using postcode
+2025-02-14 19:13:38,140 - DEBUG - Attempting postcode geocoding: 8303HL 44.0, Netherlands
+2025-02-14 19:13:38,389 - DEBUG - Attempting postcode geocoding: 4416DE 16.0, Netherlands
+2025-02-14 19:13:38,394 - DEBUG - Attempting postcode geocoding: 3703CG 2.0, Netherlands
+2025-02-14 19:13:38,453 - DEBUG - Successfully geocoded 03KW using postcode
+2025-02-14 19:13:38,945 - DEBUG - Attempting postcode geocoding: 1791AT 47.0, Netherlands
+2025-02-14 19:13:39,001 - DEBUG - Successfully geocoded 03KX using postcode
+2025-02-14 19:13:39,223 - DEBUG - Attempting street geocoding: De Fjord 44.0, EMMELOORD, Netherlands
+2025-02-14 19:13:39,322 - WARNING - Failed to geocode 03KT with all methods
+2025-02-14 19:13:39,455 - DEBUG - Attempting postcode geocoding: 1111HL 106.0, Netherlands
+2025-02-14 19:13:39,458 - DEBUG - Attempting street geocoding: Marconistraat 16.0, KRUININGEN, Netherlands
+2025-02-14 19:13:39,512 - DEBUG - Successfully geocoded 03LA using postcode
+2025-02-14 19:13:39,557 - WARNING - Failed to geocode 03KV with all methods
+2025-02-14 19:13:40,006 - DEBUG - Attempting postcode geocoding: 7841AZ 10.0, Netherlands
+2025-02-14 19:13:40,064 - DEBUG - Successfully geocoded 03LC using postcode
+2025-02-14 19:13:40,324 - DEBUG - Attempting postcode geocoding: 6042NG 5.0, Netherlands
+2025-02-14 19:13:40,371 - DEBUG - Successfully geocoded 03LD using postcode
+2025-02-14 19:13:40,517 - DEBUG - Attempting postcode geocoding: 6041LV 41.0, Netherlands
+2025-02-14 19:13:40,562 - DEBUG - Attempting postcode geocoding: 8271VG 1.0, Netherlands
+2025-02-14 19:13:40,587 - DEBUG - Successfully geocoded 03LJ using postcode
+2025-02-14 19:13:41,070 - DEBUG - Attempting postcode geocoding: 7071KS 6.0, Netherlands
+2025-02-14 19:13:41,126 - DEBUG - Successfully geocoded 03LK using postcode
+2025-02-14 19:13:41,374 - DEBUG - Attempting postcode geocoding: 3925BW 17.0, Netherlands
+2025-02-14 19:13:41,583 - DEBUG - Attempting street geocoding: Bisschop Lindanussingel 41.0, ROERMOND, Netherlands
+2025-02-14 19:13:41,591 - DEBUG - Attempting postcode geocoding: 5571CH 52.0, Netherlands
+2025-02-14 19:13:41,819 - WARNING - Failed to geocode 03LE with all methods
+2025-02-14 19:13:42,132 - DEBUG - Attempting postcode geocoding: 2951PL 100.0, Netherlands
+2025-02-14 19:13:42,406 - DEBUG - Attempting street geocoding: Hovenierslaan 17.0, SCHERPENZEEL GLD, Netherlands
+2025-02-14 19:13:42,479 - WARNING - Failed to geocode 03LN with all methods
+2025-02-14 19:13:42,658 - DEBUG - Attempting street geocoding: Dokter Rauppstraat 52.0, BERGEIJK, Netherlands
+2025-02-14 19:13:42,780 - WARNING - Failed to geocode 03LP with all methods
+2025-02-14 19:13:42,820 - DEBUG - Attempting postcode geocoding: 9863PV 12.0, Netherlands
+2025-02-14 19:13:42,858 - DEBUG - Successfully geocoded 03LR using postcode
+2025-02-14 19:13:43,189 - DEBUG - Attempting street geocoding: Rembrandtlaan 100.0, ALBLASSERDAM, Netherlands
+2025-02-14 19:13:43,394 - WARNING - Failed to geocode 03LQ with all methods
+2025-02-14 19:13:43,484 - DEBUG - Attempting postcode geocoding: 7461EJ 29.0, Netherlands
+2025-02-14 19:13:43,785 - DEBUG - Attempting postcode geocoding: 6532CW 4.0, Netherlands
+2025-02-14 19:13:43,834 - DEBUG - Successfully geocoded 03LT using postcode
+2025-02-14 19:13:43,863 - DEBUG - Attempting postcode geocoding: 3454AB 10.0, Netherlands
+2025-02-14 19:13:43,894 - DEBUG - Successfully geocoded 03LX using postcode
+2025-02-14 19:13:44,400 - DEBUG - Attempting postcode geocoding: 4835CD 18.0, Netherlands
+2025-02-14 19:13:44,461 - DEBUG - Successfully geocoded 03LY using postcode
+2025-02-14 19:13:44,518 - DEBUG - Attempting street geocoding: Lentfersweg 29.0, RIJSSEN, Netherlands
+2025-02-14 19:13:44,574 - WARNING - Failed to geocode 03LS with all methods
+2025-02-14 19:13:44,840 - DEBUG - Attempting postcode geocoding: 5366AK 1.0, Netherlands
+2025-02-14 19:13:44,888 - DEBUG - Successfully geocoded 03MA using postcode
+2025-02-14 19:13:44,899 - DEBUG - Attempting postcode geocoding: 3888KD 21.0, Netherlands
+2025-02-14 19:13:45,462 - DEBUG - Attempting postcode geocoding: 5466RS 23.0, Netherlands
+2025-02-14 19:13:45,580 - DEBUG - Attempting postcode geocoding: 3738EB 38.0, Netherlands
+2025-02-14 19:13:45,620 - DEBUG - Successfully geocoded 03MI using postcode
+2025-02-14 19:13:45,893 - DEBUG - Attempting postcode geocoding: 3541DZ 3.0, Netherlands
+2025-02-14 19:13:45,935 - DEBUG - Attempting street geocoding: Het Drie 21.0, UDDEL, Netherlands
+2025-02-14 19:13:45,943 - DEBUG - Successfully geocoded 03MJ using postcode
+2025-02-14 19:13:46,033 - WARNING - Failed to geocode 03MF with all methods
+2025-02-14 19:13:46,521 - DEBUG - Attempting street geocoding: Valkenbergstraat 23.0, VEGHEL, Netherlands
+2025-02-14 19:13:46,603 - WARNING - Failed to geocode 03MH with all methods
+2025-02-14 19:13:46,625 - DEBUG - Attempting postcode geocoding: 5056XN 32.0, Netherlands
+2025-02-14 19:13:46,673 - DEBUG - Successfully geocoded 03MK using postcode
+2025-02-14 19:13:46,945 - DEBUG - Attempting postcode geocoding: 7951JS 38.0, Netherlands
+2025-02-14 19:13:46,983 - DEBUG - Successfully geocoded 03ML using postcode
+2025-02-14 19:13:47,038 - DEBUG - Attempting postcode geocoding: 4635CX 5.0, Netherlands
+2025-02-14 19:13:47,064 - DEBUG - Successfully geocoded 03MO using postcode
+2025-02-14 19:13:47,608 - DEBUG - Attempting postcode geocoding: 6591DM 21.0, Netherlands
+2025-02-14 19:13:47,679 - DEBUG - Attempting postcode geocoding: 4817WR 12.0, Netherlands
+2025-02-14 19:13:47,712 - DEBUG - Successfully geocoded 03MR using postcode
+2025-02-14 19:13:47,988 - DEBUG - Attempting postcode geocoding: 4515AT 1.0, Netherlands
+2025-02-14 19:13:48,038 - DEBUG - Successfully geocoded 03MT using postcode
+2025-02-14 19:13:48,069 - DEBUG - Attempting postcode geocoding: 4625BR 25.0, Netherlands
+2025-02-14 19:13:48,668 - DEBUG - Attempting street geocoding: Martinushof 21.0, GENNEP, Netherlands
+2025-02-14 19:13:48,714 - DEBUG - Attempting postcode geocoding: 6444CL 1.0, Netherlands
+2025-02-14 19:13:48,760 - DEBUG - Successfully geocoded 03MX using postcode
+2025-02-14 19:13:48,762 - WARNING - Failed to geocode 03MQ with all methods
+2025-02-14 19:13:49,041 - DEBUG - Attempting postcode geocoding: 3181HE 1.0, Netherlands
+2025-02-14 19:13:49,090 - DEBUG - Successfully geocoded 03NB using postcode
+2025-02-14 19:13:49,121 - DEBUG - Attempting street geocoding: Frans Halsstraat 25.0, BERGEN OP ZOOM, Netherlands
+2025-02-14 19:13:49,483 - WARNING - Failed to geocode 03MW with all methods
+2025-02-14 19:13:49,764 - DEBUG - Attempting postcode geocoding: 6226BP 5.0, Netherlands
+2025-02-14 19:13:49,767 - DEBUG - Attempting postcode geocoding: 4714BZ 11.0, Netherlands
+2025-02-14 19:13:49,823 - DEBUG - Successfully geocoded 03NC using postcode
+2025-02-14 19:13:49,831 - DEBUG - Successfully geocoded 03NE using postcode
+2025-02-14 19:13:50,092 - DEBUG - Attempting postcode geocoding: 6596AP 2.0, Netherlands
+2025-02-14 19:13:50,127 - DEBUG - Successfully geocoded 03NF using postcode
+2025-02-14 19:13:50,485 - DEBUG - Attempting postcode geocoding: 4529GE 1.0, Netherlands
+2025-02-14 19:13:50,532 - DEBUG - Successfully geocoded 03NH using postcode
+2025-02-14 19:13:50,825 - DEBUG - Attempting postcode geocoding: 2141VJ 1.0, Netherlands
+2025-02-14 19:13:50,832 - DEBUG - Attempting postcode geocoding: 2051BC 8.0, Netherlands
+2025-02-14 19:13:50,884 - DEBUG - Successfully geocoded 03NI using postcode
+2025-02-14 19:13:50,892 - DEBUG - Successfully geocoded 03NJ using postcode
+2025-02-14 19:13:51,133 - DEBUG - Attempting postcode geocoding: 4861BB 6.0, Netherlands
+2025-02-14 19:13:51,184 - DEBUG - Successfully geocoded 03NN using postcode
+2025-02-14 19:13:51,538 - DEBUG - Attempting postcode geocoding: 4885AH 2.0, Netherlands
+2025-02-14 19:13:51,595 - DEBUG - Successfully geocoded 03NO using postcode
+2025-02-14 19:13:51,888 - DEBUG - Attempting postcode geocoding: 7447CK 19.0, Netherlands
+2025-02-14 19:13:51,898 - DEBUG - Attempting postcode geocoding: 4741EJ 24.0, Netherlands
+2025-02-14 19:13:51,923 - DEBUG - Successfully geocoded 03NP using postcode
+2025-02-14 19:13:51,938 - DEBUG - Successfully geocoded 03NQ using postcode
+2025-02-14 19:13:52,185 - DEBUG - Attempting postcode geocoding: 4586AJ 15.0, Netherlands
+2025-02-14 19:13:52,234 - DEBUG - Successfully geocoded 03NR using postcode
+2025-02-14 19:13:52,601 - DEBUG - Attempting postcode geocoding: 2252TR 12.0, Netherlands
+2025-02-14 19:13:52,661 - DEBUG - Successfully geocoded 03NT using postcode
+2025-02-14 19:13:52,929 - DEBUG - Attempting postcode geocoding: 5913GB 8.0, Netherlands
+2025-02-14 19:13:52,942 - DEBUG - Attempting postcode geocoding: 4818GL 60.0, Netherlands
+2025-02-14 19:13:53,071 - DEBUG - Successfully geocoded 03NU using postcode
+2025-02-14 19:13:53,240 - DEBUG - Attempting postcode geocoding: 2811JG 2.0, Netherlands
+2025-02-14 19:13:53,267 - DEBUG - Successfully geocoded 03NX using postcode
+2025-02-14 19:13:53,666 - DEBUG - Attempting postcode geocoding: 2431XB 1.0, Netherlands
+2025-02-14 19:13:53,714 - DEBUG - Successfully geocoded 03NY using postcode
+2025-02-14 19:13:54,075 - DEBUG - Attempting postcode geocoding: 2871CV 26.0, Netherlands
+2025-02-14 19:13:54,077 - DEBUG - Attempting street geocoding: Zandberglaan 60.0, BREDA, Netherlands
+2025-02-14 19:13:54,149 - DEBUG - Successfully geocoded 03NZ using postcode
+2025-02-14 19:13:54,158 - WARNING - Failed to geocode 03NW with all methods
+2025-02-14 19:13:54,273 - DEBUG - Attempting postcode geocoding: 1222VC 85.0, Netherlands
+2025-02-14 19:13:54,718 - DEBUG - Attempting postcode geocoding: 6343RJ 1.0, Netherlands
+2025-02-14 19:13:54,767 - DEBUG - Successfully geocoded 03OB using postcode
+2025-02-14 19:13:55,154 - DEBUG - Attempting postcode geocoding: 7475CX 13.0, Netherlands
+2025-02-14 19:13:55,159 - DEBUG - Attempting postcode geocoding: 4251GD 4.0, Netherlands
+2025-02-14 19:13:55,213 - DEBUG - Successfully geocoded 03OJ using postcode
+2025-02-14 19:13:55,320 - DEBUG - Attempting street geocoding: Lopes Diaslaan 85.0, HILVERSUM, Netherlands
+2025-02-14 19:13:55,389 - WARNING - Failed to geocode 03OA with all methods
+2025-02-14 19:13:55,769 - DEBUG - Attempting postcode geocoding: 5912BT 26.0, Netherlands
+2025-02-14 19:13:55,823 - DEBUG - Successfully geocoded 03OK using postcode
+2025-02-14 19:13:56,218 - DEBUG - Attempting postcode geocoding: 6075CW 31.0, Netherlands
+2025-02-14 19:13:56,223 - DEBUG - Attempting street geocoding: J. Ooststraat 13.0, MARKELO, Netherlands
+2025-02-14 19:13:56,312 - DEBUG - Successfully geocoded 03OM using postcode
+2025-02-14 19:13:56,395 - DEBUG - Attempting postcode geocoding: 9602AX 4.0, Netherlands
+2025-02-14 19:13:56,414 - DEBUG - Successfully geocoded 03ON using postcode
+2025-02-14 19:13:56,475 - WARNING - Failed to geocode 03OC with all methods
+2025-02-14 19:13:56,828 - DEBUG - Attempting postcode geocoding: 6217KM 40.0, Netherlands
+2025-02-14 19:13:57,318 - DEBUG - Attempting postcode geocoding: 4571TV 2.0, Netherlands
+2025-02-14 19:13:57,354 - DEBUG - Successfully geocoded 03OR using postcode
+2025-02-14 19:13:57,418 - DEBUG - Attempting postcode geocoding: 5914XS 21.0, Netherlands
+2025-02-14 19:13:57,476 - DEBUG - Attempting postcode geocoding: 3871NA 17.0, Netherlands
+2025-02-14 19:13:57,885 - DEBUG - Attempting street geocoding: Pastoor Habetsstraat 40.0, MAASTRICHT, Netherlands
+2025-02-14 19:13:58,359 - DEBUG - Attempting postcode geocoding: 5141HK 6.0, Netherlands
+2025-02-14 19:13:58,386 - DEBUG - Successfully geocoded 03PC using postcode
+2025-02-14 19:13:58,458 - DEBUG - Attempting street geocoding: Molenstraat 21.0, VENLO, Netherlands
+2025-02-14 19:13:58,501 - DEBUG - Attempting street geocoding: Veenslagenweg 17.0, HOEVELAKEN, Netherlands
+2025-02-14 19:13:58,662 - WARNING - Failed to geocode 03OU with all methods
+2025-02-14 19:13:58,796 - WARNING - Failed to geocode 03OP with all methods
+2025-02-14 19:13:59,013 - WARNING - Failed to geocode 03OT with all methods
+2025-02-14 19:13:59,391 - DEBUG - Attempting postcode geocoding: 6071VP 1.0, Netherlands
+2025-02-14 19:13:59,450 - DEBUG - Successfully geocoded 03PD using postcode
+2025-02-14 19:13:59,662 - DEBUG - Attempting postcode geocoding: 6351HJ 11.0, Netherlands
+2025-02-14 19:13:59,718 - DEBUG - Successfully geocoded 03PF using postcode
+2025-02-14 19:13:59,801 - DEBUG - Attempting postcode geocoding: 2371EK 1.0, Netherlands
+2025-02-14 19:13:59,841 - DEBUG - Successfully geocoded 03PH using postcode
+2025-02-14 19:14:00,017 - DEBUG - Attempting postcode geocoding: 6027PL 9.0, Netherlands
+2025-02-14 19:14:00,077 - DEBUG - Successfully geocoded 03PJ using postcode
+2025-02-14 19:14:00,451 - DEBUG - Attempting postcode geocoding: 5106NE 104.0, Netherlands
+2025-02-14 19:14:00,723 - DEBUG - Attempting postcode geocoding: 4759BD 1.0, Netherlands
+2025-02-14 19:14:00,776 - DEBUG - Successfully geocoded 03PL using postcode
+2025-02-14 19:14:00,847 - DEBUG - Attempting postcode geocoding: 5271XR 2.0, Netherlands
+2025-02-14 19:14:00,896 - DEBUG - Successfully geocoded 03PM using postcode
+2025-02-14 19:14:01,083 - DEBUG - Attempting postcode geocoding: 4569AP 1.0, Netherlands
+2025-02-14 19:14:01,134 - DEBUG - Successfully geocoded 03PN using postcode
+2025-02-14 19:14:01,509 - DEBUG - Attempting street geocoding: Vaartweg 104.0, DONGEN, Netherlands
+2025-02-14 19:14:01,727 - WARNING - Failed to geocode 03PK with all methods
+2025-02-14 19:14:01,782 - DEBUG - Attempting postcode geocoding: 5738AH 31.0, Netherlands
+2025-02-14 19:14:01,830 - DEBUG - Successfully geocoded 03PP using postcode
+2025-02-14 19:14:01,900 - DEBUG - Attempting postcode geocoding: 2286RL 2.0, Netherlands
+2025-02-14 19:14:01,943 - DEBUG - Successfully geocoded 03PQ using postcode
+2025-02-14 19:14:02,140 - DEBUG - Attempting postcode geocoding: 1121JC 88.0, Netherlands
+2025-02-14 19:14:02,732 - DEBUG - Attempting postcode geocoding: 6077AS 5.0, Netherlands
+2025-02-14 19:14:02,782 - DEBUG - Successfully geocoded 03PV using postcode
+2025-02-14 19:14:02,833 - DEBUG - Attempting postcode geocoding: 5382JD 2.0, Netherlands
+2025-02-14 19:14:02,875 - DEBUG - Successfully geocoded 03PW using postcode
+2025-02-14 19:14:02,947 - DEBUG - Attempting postcode geocoding: 5321GL 2.0, Netherlands
+2025-02-14 19:14:02,988 - DEBUG - Successfully geocoded 03PX using postcode
+2025-02-14 19:14:03,194 - DEBUG - Attempting street geocoding: Burgemeester Postweg 88.0, LANDSMEER, Netherlands
+2025-02-14 19:14:03,318 - WARNING - Failed to geocode 03PS with all methods
+2025-02-14 19:14:03,787 - DEBUG - Attempting postcode geocoding: 2555XW 4.0, Netherlands
+2025-02-14 19:14:03,823 - DEBUG - Successfully geocoded 03PY using postcode
+2025-02-14 19:14:03,880 - DEBUG - Attempting postcode geocoding: 7064BK 5.0, Netherlands
+2025-02-14 19:14:03,906 - DEBUG - Successfully geocoded 03QA using postcode
+2025-02-14 19:14:03,992 - DEBUG - Attempting postcode geocoding: 4567CA 41.0, Netherlands
+2025-02-14 19:14:04,321 - DEBUG - Attempting postcode geocoding: 4698AS 20.0, Netherlands
+2025-02-14 19:14:04,373 - DEBUG - Successfully geocoded 03QC using postcode
+2025-02-14 19:14:04,828 - DEBUG - Attempting postcode geocoding: 6213HM 1.0, Netherlands
+2025-02-14 19:14:04,882 - DEBUG - Successfully geocoded 03QD using postcode
+2025-02-14 19:14:04,911 - DEBUG - Attempting postcode geocoding: 5866AV 44.0, Netherlands
+2025-02-14 19:14:05,060 - DEBUG - Attempting street geocoding: Koningin Julianastraat 41.0, CLINGE, Netherlands
+2025-02-14 19:14:05,221 - WARNING - Failed to geocode 03QB with all methods
+2025-02-14 19:14:05,379 - DEBUG - Attempting postcode geocoding: 5863AT 2.0, Netherlands
+2025-02-14 19:14:05,425 - DEBUG - Successfully geocoded 03QF using postcode
+2025-02-14 19:14:05,883 - DEBUG - Attempting postcode geocoding: 5861CC 55.0, Netherlands
+2025-02-14 19:14:05,964 - DEBUG - Attempting street geocoding: Jan van Swolgenstraat 44.0, SWOLGEN, Netherlands
+2025-02-14 19:14:06,225 - DEBUG - Attempting postcode geocoding: 5866AA 39.0, Netherlands
+2025-02-14 19:14:06,428 - DEBUG - Attempting postcode geocoding: 5864CS 13.0, Netherlands
+2025-02-14 19:14:06,952 - DEBUG - Attempting street geocoding: Gouverneur Houbenstraat 55.0, WANSSUM, Netherlands
+2025-02-14 19:14:07,092 - WARNING - Failed to geocode 03QH with all methods
+2025-02-14 19:14:07,279 - DEBUG - Attempting street geocoding: Molenstraat 39.0, SWOLGEN, Netherlands
+2025-02-14 19:14:07,412 - WARNING - Failed to geocode 03QI with all methods
+2025-02-14 19:14:07,480 - DEBUG - Attempting street geocoding: Mgr Jenneskensstraat 13.0, MEERLO, Netherlands
+2025-02-14 19:14:07,926 - WARNING - Failed to geocode 03QJ with all methods
+2025-02-14 19:14:08,094 - DEBUG - Attempting postcode geocoding: 6037RW 5.0, Netherlands
+2025-02-14 19:14:08,125 - DEBUG - Successfully geocoded 03QK using postcode
+2025-02-14 19:14:08,417 - DEBUG - Attempting postcode geocoding: 1949EG 14.0, Netherlands
+2025-02-14 19:14:08,462 - DEBUG - Successfully geocoded 03QL using postcode
+2025-02-14 19:14:08,762 - WARNING - Failed to geocode 03QE with all methods
+2025-02-14 19:14:08,928 - DEBUG - Attempting postcode geocoding: 4524BL 32.0, Netherlands
+2025-02-14 19:14:08,973 - DEBUG - Successfully geocoded 03QM using postcode
+2025-02-14 19:14:09,128 - DEBUG - Attempting postcode geocoding: 5465RJ 52.0, Netherlands
+2025-02-14 19:14:09,464 - DEBUG - Attempting postcode geocoding: 5373CH 12.0, Netherlands
+2025-02-14 19:14:09,540 - DEBUG - Successfully geocoded 03QO using postcode
+2025-02-14 19:14:09,768 - DEBUG - Attempting postcode geocoding: 8317AG 5.0, Netherlands
+2025-02-14 19:14:09,805 - DEBUG - Successfully geocoded 03QP using postcode
+2025-02-14 19:14:09,978 - DEBUG - Attempting postcode geocoding: 6915VT 91.0, Netherlands
+2025-02-14 19:14:10,174 - DEBUG - Attempting street geocoding: Past. Clercxstraat 52.0, VEGHEL, Netherlands
+2025-02-14 19:14:10,326 - WARNING - Failed to geocode 03QN with all methods
+2025-02-14 19:14:10,545 - DEBUG - Attempting postcode geocoding: 6851GM 16.0, Netherlands
+2025-02-14 19:14:10,810 - DEBUG - Attempting postcode geocoding: 6942VA 13.0, Netherlands
+2025-02-14 19:14:11,027 - DEBUG - Attempting street geocoding: Graaf Ottoweg 91.0, LOBITH, Netherlands
+2025-02-14 19:14:11,331 - DEBUG - Attempting postcode geocoding: 4927BB 4.0, Netherlands
+2025-02-14 19:14:11,354 - DEBUG - Successfully geocoded 03QT using postcode
+2025-02-14 19:14:11,600 - DEBUG - Attempting street geocoding: Van Wijkstraat 16.0, HUISSEN, Netherlands
+2025-02-14 19:14:11,678 - WARNING - Failed to geocode 03QR with all methods
+2025-02-14 19:14:11,685 - WARNING - Failed to geocode 03QQ with all methods
+2025-02-14 19:14:11,856 - DEBUG - Attempting street geocoding: Lupinenstraat 13.0, DIDAM, Netherlands
+2025-02-14 19:14:11,996 - WARNING - Failed to geocode 03QS with all methods
+2025-02-14 19:14:12,356 - DEBUG - Attempting postcode geocoding: 6561ES 14.0, Netherlands
+2025-02-14 19:14:12,404 - DEBUG - Successfully geocoded 03QU using postcode
+2025-02-14 19:14:12,683 - DEBUG - Attempting postcode geocoding: 4645EV 55.0, Netherlands
+2025-02-14 19:14:12,688 - DEBUG - Attempting postcode geocoding: 5281JB 41.0, Netherlands
+2025-02-14 19:14:13,001 - DEBUG - Attempting postcode geocoding: 6097CW 58.0, Netherlands
+2025-02-14 19:14:13,410 - DEBUG - Attempting postcode geocoding: 8307AX 3.0, Netherlands
+2025-02-14 19:14:13,450 - DEBUG - Successfully geocoded 03RA using postcode
+2025-02-14 19:14:13,734 - DEBUG - Attempting street geocoding: Hogebergdreef 55.0, PUTTE, Netherlands
+2025-02-14 19:14:13,735 - DEBUG - Attempting street geocoding: Baroniestraat 41.0, BOXTEL, Netherlands
+2025-02-14 19:14:13,815 - WARNING - Failed to geocode 03QW with all methods
+2025-02-14 19:14:13,829 - WARNING - Failed to geocode 03QY with all methods
+2025-02-14 19:14:14,049 - DEBUG - Attempting street geocoding: Sportparklaan 58.0, HEEL, Netherlands
+2025-02-14 19:14:14,131 - WARNING - Failed to geocode 03QZ with all methods
+2025-02-14 19:14:14,456 - DEBUG - Attempting postcode geocoding: 7625PH 3.0, Netherlands
+2025-02-14 19:14:14,489 - DEBUG - Successfully geocoded 03RC using postcode
+2025-02-14 19:14:14,816 - DEBUG - Attempting postcode geocoding: 8061AJ 101.0, Netherlands
+2025-02-14 19:14:14,832 - DEBUG - Attempting postcode geocoding: 8265EA 1.0, Netherlands
+2025-02-14 19:14:14,864 - DEBUG - Successfully geocoded 03RE using postcode
+2025-02-14 19:14:15,137 - DEBUG - Attempting postcode geocoding: 6367HK 21.0, Netherlands
+2025-02-14 19:14:15,491 - DEBUG - Attempting postcode geocoding: 3442XH 2.0, Netherlands
+2025-02-14 19:14:15,532 - DEBUG - Successfully geocoded 03RK using postcode
+2025-02-14 19:14:15,865 - DEBUG - Attempting postcode geocoding: 6573BH 2.0, Netherlands
+2025-02-14 19:14:15,874 - DEBUG - Attempting street geocoding: Burg Malcorpslaan 101.0, HASSELT, Netherlands
+2025-02-14 19:14:15,914 - DEBUG - Successfully geocoded 03RL using postcode
+2025-02-14 19:14:15,952 - WARNING - Failed to geocode 03RD with all methods
+2025-02-14 19:14:16,176 - DEBUG - Attempting street geocoding: Bostenstraat 21.0, VOERENDAAL, Netherlands
+2025-02-14 19:14:16,232 - WARNING - Failed to geocode 03RG with all methods
+2025-02-14 19:14:16,536 - DEBUG - Attempting postcode geocoding: 5825BL 54.0, Netherlands
+2025-02-14 19:14:16,918 - DEBUG - Attempting postcode geocoding: 7021XW 2.0, Netherlands
+2025-02-14 19:14:16,947 - DEBUG - Successfully geocoded 03RO using postcode
+2025-02-14 19:14:16,954 - DEBUG - Attempting postcode geocoding: 6082AM 13.0, Netherlands
+2025-02-14 19:14:17,237 - DEBUG - Attempting postcode geocoding: 2992AB 184.0, Netherlands
+2025-02-14 19:14:17,594 - DEBUG - Attempting street geocoding: Theobaldusweg 54.0, OVERLOON, Netherlands
+2025-02-14 19:14:17,663 - WARNING - Failed to geocode 03RN with all methods
+2025-02-14 19:14:17,951 - DEBUG - Attempting postcode geocoding: 6101HH 33.0, Netherlands
+2025-02-14 19:14:17,990 - DEBUG - Attempting street geocoding: Berikstraat 13.0, BUGGENUM, Netherlands
+2025-02-14 19:14:18,035 - WARNING - Failed to geocode 03RP with all methods
+2025-02-14 19:14:18,283 - DEBUG - Attempting street geocoding: Dorpsstraat 184.0, BARENDRECHT, Netherlands
+2025-02-14 19:14:18,433 - WARNING - Failed to geocode 03RQ with all methods
+2025-02-14 19:14:18,665 - DEBUG - Attempting postcode geocoding: 5334JW 126.0, Netherlands
+2025-02-14 19:14:18,997 - DEBUG - Attempting street geocoding: Julianastraat 33.0, ECHT, Netherlands
+2025-02-14 19:14:19,036 - DEBUG - Attempting postcode geocoding: 5808AV 28.0, Netherlands
+2025-02-14 19:14:19,101 - WARNING - Failed to geocode 03RS with all methods
+2025-02-14 19:14:19,433 - DEBUG - Attempting postcode geocoding: 6612BB 15.0, Netherlands
+2025-02-14 19:14:19,476 - DEBUG - Successfully geocoded 03RW using postcode
+2025-02-14 19:14:19,725 - DEBUG - Attempting street geocoding: Voorstraat 126.0, VELDDRIEL, Netherlands
+2025-02-14 19:14:19,911 - WARNING - Failed to geocode 03RT with all methods
+2025-02-14 19:14:20,079 - DEBUG - Attempting street geocoding: Hoofdstraat 28.0, OIRLO, Netherlands
+2025-02-14 19:14:20,103 - DEBUG - Attempting postcode geocoding: 9501CZ 2.0, Netherlands
+2025-02-14 19:14:20,178 - DEBUG - Successfully geocoded 03RX using postcode
+2025-02-14 19:14:20,463 - WARNING - Failed to geocode 03RV with all methods
+2025-02-14 19:14:20,477 - DEBUG - Attempting postcode geocoding: 7826CT 145.0, Netherlands
+2025-02-14 19:14:20,915 - DEBUG - Attempting postcode geocoding: 7833GH 2.0, Netherlands
+2025-02-14 19:14:20,952 - DEBUG - Successfully geocoded 03RZ using postcode
+2025-02-14 19:14:21,183 - DEBUG - Attempting postcode geocoding: 4944XB 33.0, Netherlands
+2025-02-14 19:14:21,466 - DEBUG - Attempting postcode geocoding: 7591NX 4.0, Netherlands
+2025-02-14 19:14:21,498 - DEBUG - Successfully geocoded 03SC using postcode
+2025-02-14 19:14:21,513 - DEBUG - Attempting street geocoding: Splitting 145.0, EMMEN, Netherlands
+2025-02-14 19:14:21,566 - WARNING - Failed to geocode 03RY with all methods
+2025-02-14 19:14:21,957 - DEBUG - Attempting postcode geocoding: 4541AL 40.0, Netherlands
+2025-02-14 19:14:22,227 - DEBUG - Attempting street geocoding: Kerkstraat 33.0, RAAMSDONK, Netherlands
+2025-02-14 19:14:22,351 - WARNING - Failed to geocode 03SB with all methods
+2025-02-14 19:14:22,500 - DEBUG - Attempting postcode geocoding: 7491EA 25.0, Netherlands
+2025-02-14 19:14:22,568 - DEBUG - Attempting postcode geocoding: 4585AA 15.0, Netherlands
+2025-02-14 19:14:22,597 - DEBUG - Successfully geocoded 03SG using postcode
+2025-02-14 19:14:23,002 - DEBUG - Attempting street geocoding: Spoorstraat 40.0, SLUISKIL, Netherlands
+2025-02-14 19:14:23,189 - WARNING - Failed to geocode 03SE with all methods
+2025-02-14 19:14:23,357 - DEBUG - Attempting postcode geocoding: 6023AM 3.0, Netherlands
+2025-02-14 19:14:23,381 - DEBUG - Successfully geocoded 03SH using postcode
+2025-02-14 19:14:23,532 - DEBUG - Attempting street geocoding: Bernhardstraat 25.0, DELDEN, Netherlands
+2025-02-14 19:14:23,602 - DEBUG - Attempting postcode geocoding: 1394GM 7.0, Netherlands
+2025-02-14 19:14:23,642 - DEBUG - Successfully geocoded 03SJ using postcode
+2025-02-14 19:14:23,747 - WARNING - Failed to geocode 03SF with all methods
+2025-02-14 19:14:24,194 - DEBUG - Attempting postcode geocoding: 5665VS 53.0, Netherlands
+2025-02-14 19:14:24,382 - DEBUG - Attempting postcode geocoding: 9561GA 15.0, Netherlands
+2025-02-14 19:14:24,426 - DEBUG - Successfully geocoded 03SL using postcode
+2025-02-14 19:14:24,646 - DEBUG - Attempting postcode geocoding: 9035ED 4.0, Netherlands
+2025-02-14 19:14:24,678 - DEBUG - Successfully geocoded 03SM using postcode
+2025-02-14 19:14:24,752 - DEBUG - Attempting postcode geocoding: 3941HS 2.0, Netherlands
+2025-02-14 19:14:24,789 - DEBUG - Successfully geocoded 03SN using postcode
+2025-02-14 19:14:25,236 - DEBUG - Attempting street geocoding: Amundsenstraat 53.0, GELDROP, Netherlands
+2025-02-14 19:14:25,291 - WARNING - Failed to geocode 03SK with all methods
+2025-02-14 19:14:25,431 - DEBUG - Attempting postcode geocoding: 5954BC 12.0, Netherlands
+2025-02-14 19:14:25,474 - DEBUG - Successfully geocoded 03SO using postcode
+2025-02-14 19:14:25,682 - DEBUG - Attempting postcode geocoding: 6045AR 22.0, Netherlands
+2025-02-14 19:14:25,727 - DEBUG - Successfully geocoded 03SR using postcode
+2025-02-14 19:14:25,790 - DEBUG - Attempting postcode geocoding: 2957SN 32.0, Netherlands
+2025-02-14 19:14:25,821 - DEBUG - Successfully geocoded 03ST using postcode
+2025-02-14 19:14:26,295 - DEBUG - Attempting postcode geocoding: 6447BE 5.0, Netherlands
+2025-02-14 19:14:26,330 - DEBUG - Successfully geocoded 03SV using postcode
+2025-02-14 19:14:26,479 - DEBUG - Attempting postcode geocoding: 5476KL 8.0, Netherlands
+2025-02-14 19:14:26,526 - DEBUG - Successfully geocoded 03SW using postcode
+2025-02-14 19:14:26,730 - DEBUG - Attempting postcode geocoding: 1391XL 3.0, Netherlands
+2025-02-14 19:14:26,782 - DEBUG - Successfully geocoded 03SY using postcode
+2025-02-14 19:14:26,826 - DEBUG - Attempting postcode geocoding: 4655AB 45.0, Netherlands
+2025-02-14 19:14:27,335 - DEBUG - Attempting postcode geocoding: 7256AP 2.0, Netherlands
+2025-02-14 19:14:27,377 - DEBUG - Successfully geocoded 03TA using postcode
+2025-02-14 19:14:27,531 - DEBUG - Attempting postcode geocoding: 3828EA 7.0, Netherlands
+2025-02-14 19:14:27,577 - DEBUG - Successfully geocoded 03TB using postcode
+2025-02-14 19:14:27,787 - DEBUG - Attempting postcode geocoding: 5342GH 20.0, Netherlands
+2025-02-14 19:14:27,823 - DEBUG - Successfully geocoded 03TC using postcode
+2025-02-14 19:14:27,853 - DEBUG - Attempting street geocoding: Dorpsweg 45.0, DE HEEN, Netherlands
+2025-02-14 19:14:28,013 - WARNING - Failed to geocode 03SZ with all methods
+2025-02-14 19:14:28,379 - DEBUG - Attempting postcode geocoding: 8303ZR 8.0, Netherlands
+2025-02-14 19:14:28,416 - DEBUG - Successfully geocoded 03TD using postcode
+2025-02-14 19:14:28,578 - DEBUG - Attempting postcode geocoding: 5651GC 14.0, Netherlands
+2025-02-14 19:14:28,616 - DEBUG - Successfully geocoded 03TF using postcode
+2025-02-14 19:14:28,824 - DEBUG - Attempting postcode geocoding: 7038AL 21.0, Netherlands
+2025-02-14 19:14:29,017 - DEBUG - Attempting postcode geocoding: 6653BS 30.0, Netherlands
+2025-02-14 19:14:29,420 - DEBUG - Attempting postcode geocoding: 4333BW 3.0, Netherlands
+2025-02-14 19:14:29,458 - DEBUG - Successfully geocoded 03TJ using postcode
+2025-02-14 19:14:29,622 - DEBUG - Attempting postcode geocoding: 1521PB 80.0, Netherlands
+2025-02-14 19:14:29,870 - DEBUG - Attempting street geocoding: Padevoortseallee 21.0, ZEDDAM, Netherlands
+2025-02-14 19:14:29,940 - WARNING - Failed to geocode 03TG with all methods
+2025-02-14 19:14:30,063 - DEBUG - Attempting street geocoding: Kloosterhof 30.0, DEEST, Netherlands
+2025-02-14 19:14:30,165 - WARNING - Failed to geocode 03TH with all methods
+2025-02-14 19:14:30,462 - DEBUG - Attempting postcode geocoding: 1934EA 1.0, Netherlands
+2025-02-14 19:14:30,500 - DEBUG - Successfully geocoded 03TM using postcode
+2025-02-14 19:14:30,670 - DEBUG - Attempting street geocoding: Noordeinde 80.0, WORMERVEER, Netherlands
+2025-02-14 19:14:30,834 - WARNING - Failed to geocode 03TL with all methods
+2025-02-14 19:14:30,941 - DEBUG - Attempting postcode geocoding: 2353RE 41.0, Netherlands
+2025-02-14 19:14:31,165 - DEBUG - Attempting postcode geocoding: 2114ER 1.0, Netherlands
+2025-02-14 19:14:31,201 - DEBUG - Successfully geocoded 03TO using postcode
+2025-02-14 19:14:31,504 - DEBUG - Attempting postcode geocoding: 3633CA 7.0, Netherlands
+2025-02-14 19:14:31,550 - DEBUG - Successfully geocoded 03TP using postcode
+2025-02-14 19:14:31,838 - DEBUG - Attempting postcode geocoding: 2272EB 4.0, Netherlands
+2025-02-14 19:14:31,871 - DEBUG - Successfully geocoded 03TQ using postcode
+2025-02-14 19:14:31,980 - DEBUG - Attempting street geocoding: Klimopzoom 41.0, LEIDERDORP, Netherlands
+2025-02-14 19:14:32,049 - WARNING - Failed to geocode 03TN with all methods
+2025-02-14 19:14:32,206 - DEBUG - Attempting postcode geocoding: 7011BJ 59.0, Netherlands
+2025-02-14 19:14:32,270 - DEBUG - Successfully geocoded 03TR using postcode
+2025-02-14 19:14:32,555 - DEBUG - Attempting postcode geocoding: 1611WS 2.0, Netherlands
+2025-02-14 19:14:32,605 - DEBUG - Successfully geocoded 03TS using postcode
+2025-02-14 19:14:32,877 - DEBUG - Attempting postcode geocoding: 1115VW 55.0, Netherlands
+2025-02-14 19:14:33,054 - DEBUG - Attempting postcode geocoding: 4453AK 35.0, Netherlands
+2025-02-14 19:14:33,100 - DEBUG - Successfully geocoded 03TW using postcode
+2025-02-14 19:14:33,275 - DEBUG - Attempting postcode geocoding: 8144RG 49.0, Netherlands
+2025-02-14 19:14:33,608 - DEBUG - Attempting postcode geocoding: 6176BD 26.0, Netherlands
+2025-02-14 19:14:33,650 - DEBUG - Successfully geocoded 03TY using postcode
+2025-02-14 19:14:33,925 - DEBUG - Attempting street geocoding: Meteoor 55.0, DUIVENDRECHT, Netherlands
+2025-02-14 19:14:34,003 - WARNING - Failed to geocode 03TT with all methods
+2025-02-14 19:14:34,105 - DEBUG - Attempting postcode geocoding: 6686AE 40.0, Netherlands
+2025-02-14 19:14:34,315 - DEBUG - Attempting street geocoding: Lierderholthuisweg 49.0, LIERDERHOLTHUIS, Netherlands
+2025-02-14 19:14:34,428 - WARNING - Failed to geocode 03TX with all methods
+2025-02-14 19:14:34,656 - DEBUG - Attempting postcode geocoding: 6626AC 9.0, Netherlands
+2025-02-14 19:14:34,695 - DEBUG - Successfully geocoded 03UA using postcode
+2025-02-14 19:14:35,008 - DEBUG - Attempting postcode geocoding: 3621XD 1.0, Netherlands
+2025-02-14 19:14:35,060 - DEBUG - Successfully geocoded 03UB using postcode
+2025-02-14 19:14:35,146 - DEBUG - Attempting street geocoding: Blauwe Hoek 40.0, DOORNENBURG, Netherlands
+2025-02-14 19:14:35,433 - DEBUG - Attempting postcode geocoding: 1931BL 19.0, Netherlands
+2025-02-14 19:14:35,455 - WARNING - Failed to geocode 03TZ with all methods
+2025-02-14 19:14:35,459 - DEBUG - Successfully geocoded 03UC using postcode
+2025-02-14 19:14:35,700 - DEBUG - Attempting postcode geocoding: 3997ML 118.0, Netherlands
+2025-02-14 19:14:35,758 - DEBUG - Successfully geocoded 03UE using postcode
+2025-02-14 19:14:36,065 - DEBUG - Attempting postcode geocoding: 2441AD 3.0, Netherlands
+2025-02-14 19:14:36,112 - DEBUG - Successfully geocoded 03UG using postcode
+2025-02-14 19:14:36,461 - DEBUG - Attempting postcode geocoding: 6171NR 1.0, Netherlands
+2025-02-14 19:14:36,464 - DEBUG - Attempting postcode geocoding: 7701AK 178.0, Netherlands
+2025-02-14 19:14:36,520 - DEBUG - Successfully geocoded 03UH using postcode
+2025-02-14 19:14:36,762 - DEBUG - Attempting postcode geocoding: 5704AN 4.0, Netherlands
+2025-02-14 19:14:36,809 - DEBUG - Successfully geocoded 03UL using postcode

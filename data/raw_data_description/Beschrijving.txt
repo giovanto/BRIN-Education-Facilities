@@ -1,0 +1,104 @@
+BRIN-gegevens organisaties, relaties en overgangen
+==================================================
+
+De levering bestaat uit drie bestanden. Deze bestanden zijn tekstbestanden met een
+komma als scheidingsteken en waarbij elk tekstveld is omgeven door dubbele quotes (").
+Komen er bijvoorbeeld quotes voor in de waarde van het veld zelf, dan worden deze
+quotes "ge-escaped". De codering van de bestanden is UTF-8. In de naam van de
+bestanden staat de prikdatum (de datum waarop het bestand vanuit BRIN is aangemaakt).
+
+In het hieronder weergegeven overzicht van velden in de bestanden wordt de naam
+weergegeven zoals het veld die heeft in de Oracle-database van BRIN. Tevens wordt
+aangegeven welk formaat dat veld in de Oracle-database heeft. De naamgeving van
+de velden is duidelijk.
+
+In de drie bestanden komen ook de volgende twee velden voor:
+CODE_STAND_RECORD: A = actueel (op prikdatum); H = historisch; T = toekomst
+IND_OPGEHEVEN: J = opgeheven op prikdatum; N = niet opgeheven
+
+Bestandsspecifieke zaken:
+Organisaties: DT_IN_BEDRIJF is de datum die in andere BRIN-bestanden meer bekend is
+als "datum oprichting", terwijl DT_UIT_BEDRIJF meer bekend is als "datum opheffing".
+
+Overgangen: IND_VOLLEDIG is in het verleden (globaal tot 2004) niet altijd goed
+ingevuld (overgangen die volledig zijn, worden als onvolledig gekenmerkt).
+
+
+ORGANISATIES_[prikdatum].csv
+============================
+
+NR_ADMINISTRATIE                VARCHAR2 (10)
+CODE_FUNCTIE                    VARCHAR2 (1)
+NAAM_FUNCTIE                    VARCHAR2 (30)
+DT_BEGIN_RECORD                 DATE
+DT_EINDE_RECORD                 DATE
+CODE_SOORT                      VARCHAR2 (4)
+NAAM_SOORT                      VARCHAR2 (30)
+CODE_RICHTING                   VARCHAR2 (3)
+NAAM_RICHTING                   VARCHAR2 (30)
+CODE_WET                        VARCHAR2 (7)
+CODE_TYPE_BEKOSTIGING           VARCHAR2 (3)
+NAAM_TYPE_BEKOSTIGING           VARCHAR2 (30)
+DT_STICHTING                    DATE
+DT_IN_BEDRIJF                   DATE
+DT_UIT_BEDRIJF                  DATE
+DT_AFGEHANDELD                  DATE
+NAAM_KORT                       VARCHAR2 (30)
+NAAM_VOLLEDIG                   VARCHAR2 (80)
+NAAM_STRAAT_VEST                VARCHAR2 (24)
+NR_HUIS_VEST                    NUMBER (5)
+NR_HUIS_TOEV_VEST               VARCHAR2 (6)
+POSTCODE_VEST                   VARCHAR2 (6)
+NAAM_PLAATS_VEST                VARCHAR2 (24)
+NR_GEMEENTE_VEST                NUMBER (4)
+PROVINCIE_VEST                  VARCHAR2 (20)
+NAAM_STRAAT_CORR                VARCHAR2 (24)
+NR_HUIS_CORR                    NUMBER (5)
+NR_HUIS_TOEV_CORR               VARCHAR2 (6)
+POSTCODE_CORR                   VARCHAR2 (6)
+NAAM_PLAATS_CORR                VARCHAR2 (24)
+NR_GEMEENTE_CORR                NUMBER (4)
+PROVINCIE_CORR                  VARCHAR2 (20)
+NR_TELEFOON                     VARCHAR2 (10)
+E_MAIL                          VARCHAR2 (80)
+INTERNET                        VARCHAR2 (80)
+KVK_NR                          VARCHAR2 (8)
+CODE_STAND_RECORD               VARCHAR2 (1)
+IND_OPGEHEVEN                   VARCHAR2 (1)
+
+
+RELATIES_[prikdatum].csv
+========================
+
+NR_ADMIN_LEID                   VARCHAR2 (10)
+CODE_FUNCTIE_LEID               VARCHAR2 (1)
+CODE_SOORT_LEID                 VARCHAR2 (4)
+CODE_WET_LEID                   VARCHAR2 (7)
+NAAM_RELATIE_LEID               VARCHAR2 (30)
+NR_ADMIN_VOLG                   VARCHAR2 (10)
+CODE_FUNCTIE_VOLG               VARCHAR2 (1)
+CODE_SOORT_VOLG                 VARCHAR2 (4)
+CODE_WET_VOLG                   VARCHAR2 (7)
+NAAM_RELATIE_VOLG               VARCHAR2 (30)
+DT_BEGIN_RELATIE                DATE
+DT_EINDE_RELATIE                DATE
+CODE_STAND_RECORD               VARCHAR2 (1)
+IND_OPGEHEVEN                   VARCHAR2 (1)
+
+
+OVERGANGEN_[prikdatum].csv
+==========================
+
+NR_ADMIN_VAN                    VARCHAR2 (10)
+CODE_FUNCTIE_VAN                VARCHAR2 (1)
+CODE_SOORT_VAN                  VARCHAR2 (4)
+CODE_WET_VAN                    VARCHAR2 (7)
+NR_ADMIN_NAAR                   VARCHAR2 (10)
+CODE_FUNCTIE_NAAR               VARCHAR2 (1)
+CODE_SOORT_NAAR                 VARCHAR2 (4)
+CODE_WET_NAAR                   VARCHAR2 (7)
+DT_OVERGANG                     DATE
+CODE_OVERGANG                   VARCHAR2 (1)
+NAAM_OVERGANG                   VARCHAR2 (30)
+IND_VOLLEDIG                    VARCHAR2 (1)
+CODE_STAND_RECORD               VARCHAR2 (1)

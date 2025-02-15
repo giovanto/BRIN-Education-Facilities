@@ -1,0 +1,211 @@
+{
+  "type_distribution": {
+    "BAS": 6225,
+    "VOS": 624,
+    "SBAS": 269,
+    "SPEC": 300,
+    "HBOS": 92,
+    "ROC": 35,
+    "UNIV": 21,
+    "PROS": 122
+  },
+  "mismatches_by_type": {
+    "BAS": 5,
+    "VOS": 39,
+    "SBAS": 4,
+    "SPEC": 28,
+    "ROC": 5,
+    "UNIV": 1,
+    "PROS": 4
+  },
+  "mismatch_examples": {
+    "BAS": [
+      {
+        "name": "Kids College",
+        "detected_types": [
+          "VOS"
+        ]
+      },
+      {
+        "name": "Oecumenische basisschool Pro Rege",
+        "detected_types": [
+          "PROS"
+        ]
+      },
+      {
+        "name": "Oecumenische basisschool Pro Rege Noorderhof",
+        "detected_types": [
+          "PROS"
+        ]
+      },
+      {
+        "name": "Juniorcollege",
+        "detected_types": [
+          "VOS"
+        ]
+      },
+      {
+        "name": "Cloud Academie",
+        "detected_types": [
+          "HBOS"
+        ]
+      }
+    ],
+    "VOS": [
+      {
+        "name": "Het Stedelijk Kottenpark praktijkonderwijs, vmbo, havo, atheneum en gymnasium",
+        "detected_types": [
+          "PROS"
+        ]
+      },
+      {
+        "name": "Scholengroep Driestar-Wartburg - Guido de Brès, Vwo, Havo, Mavo, Vbo, LWOO, Pro",
+        "detected_types": [
+          "PROS"
+        ]
+      },
+      {
+        "name": "Da Vinci College School voor mavo/havo, havo, vwo, tweetalig ond. en technasium",
+        "detected_types": [
+          "ROC"
+        ]
+      },
+      {
+        "name": "Etty Hillesum Lyceum voor Gymnasium Atheneum Havo Vmbo Pro",
+        "detected_types": [
+          "PROS"
+        ]
+      },
+      {
+        "name": "Almere College, Ontmoetingsschool voor PRO LWOO VMBO HAVO VWO",
+        "detected_types": [
+          "PROS"
+        ]
+      }
+    ],
+    "SBAS": [
+      {
+        "name": "Speciale School voor Basisonderwijs De Driemaster",
+        "detected_types": [
+          "BAS"
+        ]
+      },
+      {
+        "name": "Speciale School voor Basisonderwijs De Wissel",
+        "detected_types": [
+          "BAS"
+        ]
+      },
+      {
+        "name": "RK speciale school voor basisonderwijs de Griffel",
+        "detected_types": [
+          "BAS"
+        ]
+      },
+      {
+        "name": "Speciale School voor Basisonderwijs De Welle",
+        "detected_types": [
+          "BAS"
+        ]
+      }
+    ],
+    "SPEC": [
+      {
+        "name": "Twents Vakcollege 't Woolde",
+        "detected_types": [
+          "VOS"
+        ]
+      },
+      {
+        "name": "SO Fier / Kromme Rijn College",
+        "detected_types": [
+          "VOS"
+        ]
+      },
+      {
+        "name": "Diamant College",
+        "detected_types": [
+          "VOS"
+        ]
+      },
+      {
+        "name": "(College) de Trappenberg",
+        "detected_types": [
+          "VOS"
+        ]
+      },
+      {
+        "name": "(College) Ariane de Ranitz",
+        "detected_types": [
+          "VOS"
+        ]
+      }
+    ],
+    "ROC": [
+      {
+        "name": "Deltion College",
+        "detected_types": [
+          "VOS"
+        ]
+      },
+      {
+        "name": "VISTA College",
+        "detected_types": [
+          "VOS"
+        ]
+      },
+      {
+        "name": "Talland College",
+        "detected_types": [
+          "VOS"
+        ]
+      },
+      {
+        "name": "VISTA College",
+        "detected_types": [
+          "VOS"
+        ]
+      },
+      {
+        "name": "Regio College voor Beroepsonderwijs en Educatie Zaanstreek-Waterland",
+        "detected_types": [
+          "VOS"
+        ]
+      }
+    ],
+    "UNIV": [
+      {
+        "name": "Tias Business School",
+        "detected_types": [
+          "HBOS"
+        ]
+      }
+    ],
+    "PROS": [
+      {
+        "name": "DaCapo-College Einighauserweg",
+        "detected_types": [
+          "VOS"
+        ]
+      },
+      {
+        "name": "Voortgezet Speciaal Onderwijs School voor Moeilijk Lerende Kinderen de Singel",
+        "detected_types": [
+          "SPEC"
+        ]
+      },
+      {
+        "name": "School voor Speciaal Voortgezet Onderwijs De Einder",
+        "detected_types": [
+          "VOS"
+        ]
+      },
+      {
+        "name": "School voor Speciaal Voortgezet Onderwijs Don Bosco",
+        "detected_types": [
+          "VOS"
+        ]
+      }
+    ]
+  }
+}
