@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 from datetime import datetime
+from pathlib import Path
+
 
 def analyze_file(file_path, file_type):
     """Analyze a single BRIN data file"""
@@ -61,12 +63,16 @@ def analyze_file(file_path, file_type):
         return None
 
 def main():
+    # Get project root and data directories
+    project_root = Path(__file__).parent.parent
+    raw_data_dir = project_root / 'data' / 'raw'
+    
     # Analyze all three files
     try:
-        org_df = analyze_file('ORGANISATIES_20250203.csv', 'ORGANISATIES')
-        rel_df = analyze_file('RELATIES_20250203.csv', 'RELATIES')
-        ovg_df = analyze_file('OVERGANGEN_20250203.csv', 'OVERGANGEN')
-        
+        org_df = analyze_file(raw_data_dir / 'ORGANISATIES_20250203.csv', 'ORGANISATIES')
+        rel_df = analyze_file(raw_data_dir / 'RELATIES_20250203.csv', 'RELATIES')
+        ovg_df = analyze_file(raw_data_dir / 'OVERGANGEN_20250203.csv', 'OVERGANGEN')
+       
         # Cross-file validation if all files were loaded successfully
         if all([org_df is not None, rel_df is not None, ovg_df is not None]):
             print("\nCross-file Validation:")

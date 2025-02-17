@@ -1,14 +1,24 @@
 import pandas as pd
 import numpy as np
 from datetime import datetime
+from pathlib import Path
+
+
 
 def build_vos_dataset():
     """Build comprehensive dataset for secondary schools with better progress tracking"""
     
+    # Setup paths
+    project_root = Path(__file__).parent.parent
+    raw_data_dir = project_root / 'data' / 'raw'
+    
     print("Loading data files...")
-    org_df = pd.read_csv('ORGANISATIES_20250203.csv', sep=',', encoding='utf-8', quotechar='"', low_memory=False)
-    rel_df = pd.read_csv('RELATIES_20250203.csv', sep=',', encoding='utf-8', quotechar='"')
-    ovg_df = pd.read_csv('OVERGANGEN_20250203.csv', sep=',', encoding='utf-8', quotechar='"')
+    org_df = pd.read_csv(raw_data_dir / 'ORGANISATIES_20250203.csv', 
+                        sep=',', encoding='utf-8', quotechar='"')
+    rel_df = pd.read_csv(raw_data_dir / 'RELATIES_20250203.csv', 
+                        sep=',', encoding='utf-8', quotechar='"')
+    ovg_df = pd.read_csv(raw_data_dir / 'OVERGANGEN_20250203.csv', 
+                        sep=',', encoding='utf-8', quotechar='"')
     
     # 1. Get all VOS main institutions
     vos_schools = org_df[
