@@ -1,0 +1,6 @@
+# Ignore processed and analysis folders inside data/
+data/processed/
+data/analysis/
+
+# Ignore specific script file
+scripts/debug.py
