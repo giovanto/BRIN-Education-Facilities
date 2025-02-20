@@ -1,0 +1,13 @@
+2025-02-20 14:54:37,371 - INFO - Successfully connected to local Nominatim instance
+2025-02-20 14:54:37,371 - INFO - Loading data from /Users/giovi/Documents/StudioBereikbaar/SB455 - Impact assessment of accessibility/BRIN Education Facilities NL/data/processed/education_data_all.json
+2025-02-20 14:54:37,425 - INFO - Processing 19107 addresses in batches
+2025-02-20 14:54:37,429 - INFO - Processing 11099 postcode groups
+2025-02-20 14:54:51,408 - INFO - Quality report saved to /Users/giovi/Documents/StudioBereikbaar/SB455 - Impact assessment of accessibility/BRIN Education Facilities NL/data/processed/geocoding_quality_report.json
+2025-02-20 14:54:51,408 - INFO - Geocoding Quality Summary:
+2025-02-20 14:54:51,408 - INFO - Total addresses processed: 19062
+2025-02-20 14:54:51,408 - INFO - Successful geocodes: 19034
+2025-02-20 14:54:51,408 - INFO - Success rate: 99.85%
+2025-02-20 14:54:51,408 - INFO - Average quality score: 0.06
+2025-02-20 14:54:51,408 - INFO - Saving geocoded JSON to /Users/giovi/Documents/StudioBereikbaar/SB455 - Impact assessment of accessibility/BRIN Education Facilities NL/data/processed/education_data_geocoded.json
+2025-02-20 14:54:52,062 - INFO - Converting to GeoJSON
+2025-02-20 14:54:52,081 - INFO - Saving GeoJSON to /Users/giovi/Documents/StudioBereikbaar/SB455 - Impact assessment of accessibility/BRIN Education Facilities NL/data/processed/education_data.geojson

@@ -1,0 +1,339 @@
+{
+  "matches": [
+    {
+      "reference_id": 240,
+      "brin_id": "30YF",
+      "distance": 67.03398287586118,
+      "brin_name": "Nederlandse Academie voor Beeldcreatie",
+      "brin_address": {
+        "street": "Spoorstraat",
+        "number": 27.0,
+        "number_addition": null,
+        "postcode": "7311PE",
+        "city": "APELDOORN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 849,
+      "brin_id": "30WG",
+      "distance": 7.2071276254589405,
+      "brin_name": "HBO Academy",
+      "brin_address": {
+        "street": "Achterom",
+        "number": 103.0,
+        "number_addition": null,
+        "postcode": "3311KB",
+        "city": "DORDRECHT",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7851,
+      "brin_id": "25BA",
+      "distance": 22.647432520165626,
+      "brin_name": "Christelijke Hogeschool Ede",
+      "brin_address": {
+        "street": "Oude Kerkweg",
+        "number": 100.0,
+        "number_addition": null,
+        "postcode": "6717JS",
+        "city": "EDE",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7853,
+      "brin_id": "30TX",
+      "distance": 7.769764548952533,
+      "brin_name": "Aeres Hogeschool",
+      "brin_address": {
+        "street": "Bovenbuurtweg",
+        "number": 27.0,
+        "number_addition": null,
+        "postcode": "6717XA",
+        "city": "EDE",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7858,
+      "brin_id": "25JX",
+      "distance": 36.76970650851646,
+      "brin_name": "Zuyd Hogeschool",
+      "brin_address": {
+        "street": "Nieuw-Eyckholt",
+        "number": 300.0,
+        "number_addition": null,
+        "postcode": "6419DJ",
+        "city": "HEERLEN",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7859,
+      "brin_id": "21CW",
+      "distance": 67.96995628804432,
+      "brin_name": "HAS green academy",
+      "brin_address": {
+        "street": "Onderwijsboulevard",
+        "number": 221.0,
+        "number_addition": null,
+        "postcode": "5223DE",
+        "city": "'S-HERTOGENBOSCH",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7862,
+      "brin_id": "07GR",
+      "distance": 0.303557404552536,
+      "brin_name": "Avans Hogeschool",
+      "brin_address": {
+        "street": "Prof Cobbenhagenlaan",
+        "number": 13.0,
+        "number_addition": null,
+        "postcode": "5037DA",
+        "city": "TILBURG",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7864,
+      "brin_id": "21UG",
+      "distance": 0.2829057833016666,
+      "brin_name": "Hogeschool IPABO Amsterdam Alkmaar",
+      "brin_address": {
+        "street": "Jan Tooropstraat",
+        "number": 136.0,
+        "number_addition": null,
+        "postcode": "1061AD",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7865,
+      "brin_id": "28EA",
+      "distance": 4.452169453410153,
+      "brin_name": "HES Consultancy BV",
+      "brin_address": {
+        "street": "Spui",
+        "number": 21.0,
+        "number_addition": null,
+        "postcode": "1012WX",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7868,
+      "brin_id": "23AH",
+      "distance": 83.05662554907332,
+      "brin_name": "Saxion Hogeschool",
+      "brin_address": {
+        "street": "M.H. Tromplaan",
+        "number": 28.0,
+        "number_addition": null,
+        "postcode": "7513AB",
+        "city": "ENSCHEDE",
+        "province": "Overijssel"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7870,
+      "brin_id": "02BY",
+      "distance": 0.18327289683853837,
+      "brin_name": "Gerrit Rietveld Academie",
+      "brin_address": {
+        "street": "Fred. Roeskestraat",
+        "number": 96.0,
+        "number_addition": null,
+        "postcode": "1076ED",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7871,
+      "brin_id": "25AC",
+      "distance": 82.4888979857195,
+      "brin_name": "ITV Hogeschool voor Tolken en Vertalen",
+      "brin_address": {
+        "street": "Padualaan",
+        "number": 101.0,
+        "number_addition": null,
+        "postcode": "3584CH",
+        "city": "UTRECHT",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7871,
+      "brin_id": "25DW",
+      "distance": 74.75202291359999,
+      "brin_name": "Hogeschool Utrecht",
+      "brin_address": {
+        "street": "Padualaan",
+        "number": 99.0,
+        "number_addition": null,
+        "postcode": "3584CH",
+        "city": "UTRECHT",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7876,
+      "brin_id": "22OJ",
+      "distance": 8.637883445293529,
+      "brin_name": "Hogeschool Rotterdam",
+      "brin_address": {
+        "street": "Museumpark",
+        "number": 40.0,
+        "number_addition": null,
+        "postcode": "3015CX",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7879,
+      "brin_id": "25AJ",
+      "distance": 41.696513586302615,
+      "brin_name": "INHOLLAND Select Studies",
+      "brin_address": {
+        "street": "Posthumalaan",
+        "number": 90.0,
+        "number_addition": null,
+        "postcode": "3072AG",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7879,
+      "brin_id": "27PZ",
+      "distance": 41.696513586302615,
+      "brin_name": "Hogeschool Inholland",
+      "brin_address": {
+        "street": "Posthumalaan",
+        "number": 90.0,
+        "number_addition": null,
+        "postcode": "3072AG",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7880,
+      "brin_id": "30VP",
+      "distance": 0.4293294974808061,
+      "brin_name": "Hogeschool Thomas More",
+      "brin_address": {
+        "street": "Stationssingel",
+        "number": 80.0,
+        "number_addition": null,
+        "postcode": "3033HJ",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7881,
+      "brin_id": "00IC",
+      "distance": 35.57750727242066,
+      "brin_name": "Hogeschool KPZ",
+      "brin_address": {
+        "street": "Ten Oeverstraat",
+        "number": 68.0,
+        "number_addition": null,
+        "postcode": "8012EW",
+        "city": "ZWOLLE",
+        "province": "Overijssel"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7884,
+      "brin_id": "23KJ",
+      "distance": 59.999460275909016,
+      "brin_name": "Hogeschool der Kunsten Den Haag",
+      "brin_address": {
+        "street": "Spuiplein",
+        "number": 150.0,
+        "number_addition": null,
+        "postcode": "2511DG",
+        "city": "'S-GRAVENHAGE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    }
+  ],
+  "statistics": {
+    "total_matches": 19,
+    "unmatched_reference": 59,
+    "unmatched_brin": 96,
+    "geocoding_methods": {
+      "street": {
+        "count": 19,
+        "avg_distance": 33.83971736932653,
+        "avg_confidence": 9.99999999995449e-06
+      }
+    }
+  }
+}

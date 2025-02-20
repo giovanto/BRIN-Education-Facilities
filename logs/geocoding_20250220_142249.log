@@ -1,0 +1,174 @@
+2025-02-20 14:22:49,538 - INFO - Successfully connected to local Nominatim instance
+2025-02-20 14:22:49,538 - INFO - Loading data from /Users/giovi/Documents/StudioBereikbaar/SB455 - Impact assessment of accessibility/BRIN Education Facilities NL/data/processed/education_data_all.json
+2025-02-20 14:22:49,604 - INFO - 
+Processing BAS
+2025-02-20 14:22:50,869 - DEBUG - Attempting postcode geocoding: 2971AR 3.0, Netherlands
+2025-02-20 14:22:50,869 - DEBUG - Attempting postcode geocoding: 2716PH 28.0, Netherlands
+2025-02-20 14:22:50,869 - DEBUG - Attempting postcode geocoding: 6107AW 22.0, Netherlands
+2025-02-20 14:22:50,870 - DEBUG - Attempting postcode geocoding: 3201CN 27.0, Netherlands
+2025-02-20 14:22:50,870 - DEBUG - Trying street query: 2971AR 3.0, Netherlands
+2025-02-20 14:22:50,870 - DEBUG - Trying street query: 2716PH 28.0, Netherlands
+2025-02-20 14:22:50,870 - DEBUG - Trying street query: 6107AW 22.0, Netherlands
+2025-02-20 14:22:50,870 - DEBUG - Trying street query: 3201CN 27.0, Netherlands
+2025-02-20 14:22:51,004 - DEBUG - Successfully geocoded 00AZ using postcode
+2025-02-20 14:22:51,063 - DEBUG - Successfully geocoded 00AR using postcode
+2025-02-20 14:22:52,010 - DEBUG - Attempting postcode geocoding: 6666EB 1.0, Netherlands
+2025-02-20 14:22:52,010 - DEBUG - Trying street query: 6666EB 1.0, Netherlands
+2025-02-20 14:22:52,034 - DEBUG - Successfully geocoded 00BA using postcode
+2025-02-20 14:22:52,036 - DEBUG - Attempting street geocoding: Oranjelaan 27, SPIJKENISSE, Netherlands
+2025-02-20 14:22:52,036 - DEBUG - Attempting street geocoding: Oranjelaan 27, Netherlands
+2025-02-20 14:22:52,036 - DEBUG - Attempting street geocoding: Oranjelaan, SPIJKENISSE, Netherlands
+2025-02-20 14:22:52,037 - DEBUG - Attempting street geocoding: Oranjelaan 27, SPIJKENISSE
+2025-02-20 14:22:52,057 - DEBUG - Attempting street geocoding: Kerkenbos 28, ZOETERMEER, Netherlands
+2025-02-20 14:22:52,057 - DEBUG - Attempting street geocoding: Kerkenbos 28, Netherlands
+2025-02-20 14:22:52,057 - DEBUG - Attempting street geocoding: Kerkenbos, ZOETERMEER, Netherlands
+2025-02-20 14:22:52,057 - DEBUG - Attempting street geocoding: Kerkenbos 28, ZOETERMEER
+2025-02-20 14:22:52,068 - DEBUG - Attempting postcode geocoding: 9944AR 20.0, Netherlands
+2025-02-20 14:22:52,069 - DEBUG - Trying street query: 9944AR 20.0, Netherlands
+2025-02-20 14:22:52,101 - DEBUG - Successfully geocoded 00BB using postcode
+2025-02-20 14:22:52,158 - DEBUG - Successfully geocoded 00AP using street name
+2025-02-20 14:22:52,209 - DEBUG - Successfully geocoded 00AV using street name
+2025-02-20 14:22:53,037 - DEBUG - Attempting postcode geocoding: 7711KP 96.0, Netherlands
+2025-02-20 14:22:53,037 - DEBUG - Trying street query: 7711KP 96.0, Netherlands
+2025-02-20 14:22:53,106 - DEBUG - Attempting postcode geocoding: 6131KJ 8.0, Netherlands
+2025-02-20 14:22:53,107 - DEBUG - Trying street query: 6131KJ 8.0, Netherlands
+2025-02-20 14:22:53,160 - DEBUG - Attempting postcode geocoding: 5345JG 50.0, Netherlands
+2025-02-20 14:22:53,161 - DEBUG - Trying street query: 5345JG 50.0, Netherlands
+2025-02-20 14:22:53,213 - DEBUG - Attempting postcode geocoding: 6372AC 10.0, Netherlands
+2025-02-20 14:22:53,213 - DEBUG - Trying street query: 6372AC 10.0, Netherlands
+2025-02-20 14:22:53,232 - DEBUG - Successfully geocoded 00BW using postcode
+2025-02-20 14:22:53,238 - DEBUG - Successfully geocoded 00CG using postcode
+2025-02-20 14:22:54,069 - DEBUG - Attempting street geocoding: Kon Julianalaan 96, NIEUWLEUSEN, Netherlands
+2025-02-20 14:22:54,070 - DEBUG - Attempting street geocoding: Kon Julianalaan 96, Netherlands
+2025-02-20 14:22:54,070 - DEBUG - Attempting street geocoding: Kon Julianalaan, NIEUWLEUSEN, Netherlands
+2025-02-20 14:22:54,070 - DEBUG - Attempting street geocoding: Kon Julianalaan 96, NIEUWLEUSEN
+2025-02-20 14:22:54,128 - DEBUG - Successfully geocoded 00BS using street name
+2025-02-20 14:22:54,213 - DEBUG - Attempting street geocoding: Bessenlaan 50, OSS, Netherlands
+2025-02-20 14:22:54,213 - DEBUG - Attempting street geocoding: Bessenlaan 50, Netherlands
+2025-02-20 14:22:54,213 - DEBUG - Attempting street geocoding: Bessenlaan, OSS, Netherlands
+2025-02-20 14:22:54,214 - DEBUG - Attempting street geocoding: Bessenlaan 50, OSS
+2025-02-20 14:22:54,236 - DEBUG - Attempting postcode geocoding: 9671JA 14.0, Netherlands
+2025-02-20 14:22:54,236 - DEBUG - Trying street query: 9671JA 14.0, Netherlands
+2025-02-20 14:22:54,243 - DEBUG - Attempting postcode geocoding: 4707EW 320.0, Netherlands
+2025-02-20 14:22:54,243 - DEBUG - Trying street query: 4707EW 320.0, Netherlands
+2025-02-20 14:22:54,247 - DEBUG - Successfully geocoded 00CD using street name
+2025-02-20 14:22:54,290 - DEBUG - Successfully geocoded 00CS using postcode
+2025-02-20 14:22:55,131 - DEBUG - Attempting postcode geocoding: 8388NA 23.0, Netherlands
+2025-02-20 14:22:55,132 - DEBUG - Trying street query: 8388NA 23.0, Netherlands
+2025-02-20 14:22:55,252 - DEBUG - Attempting postcode geocoding: 9243SJ 12.0, Netherlands
+2025-02-20 14:22:55,252 - DEBUG - Trying street query: 9243SJ 12.0, Netherlands
+2025-02-20 14:22:55,272 - DEBUG - Attempting street geocoding: Elisadonk 320, ROOSENDAAL, Netherlands
+2025-02-20 14:22:55,272 - DEBUG - Attempting street geocoding: Elisadonk 320, Netherlands
+2025-02-20 14:22:55,272 - DEBUG - Attempting street geocoding: Elisadonk, ROOSENDAAL, Netherlands
+2025-02-20 14:22:55,272 - DEBUG - Attempting street geocoding: Elisadonk 320, ROOSENDAAL
+2025-02-20 14:22:55,295 - DEBUG - Attempting postcode geocoding: 1422LE 100.0, Netherlands
+2025-02-20 14:22:55,295 - DEBUG - Trying street query: 1422LE 100.0, Netherlands
+2025-02-20 14:22:55,307 - DEBUG - Successfully geocoded 00DA using postcode
+2025-02-20 14:22:55,337 - DEBUG - Successfully geocoded 00CU using street name
+2025-02-20 14:22:56,180 - DEBUG - Attempting street geocoding: Oosterstreek 23, OOSTERSTREEK, Netherlands
+2025-02-20 14:22:56,180 - DEBUG - Attempting street geocoding: Oosterstreek 23, Netherlands
+2025-02-20 14:22:56,180 - DEBUG - Attempting street geocoding: Oosterstreek, OOSTERSTREEK, Netherlands
+2025-02-20 14:22:56,180 - DEBUG - Attempting street geocoding: Oosterstreek 23, OOSTERSTREEK
+2025-02-20 14:22:56,213 - DEBUG - Successfully geocoded 00CV using street name
+2025-02-20 14:22:56,309 - DEBUG - Attempting postcode geocoding: 5473PG 33.0, Netherlands
+2025-02-20 14:22:56,309 - DEBUG - Trying street query: 5473PG 33.0, Netherlands
+2025-02-20 14:22:56,327 - DEBUG - Attempting street geocoding: Arthur van Schendellaan 100, UITHOORN, Netherlands
+2025-02-20 14:22:56,328 - DEBUG - Attempting street geocoding: Arthur van Schendellaan 100, Netherlands
+2025-02-20 14:22:56,328 - DEBUG - Attempting street geocoding: Arthur van Schendellaan, UITHOORN, Netherlands
+2025-02-20 14:22:56,328 - DEBUG - Attempting street geocoding: Arthur van Schendellaan 100, UITHOORN
+2025-02-20 14:22:56,340 - DEBUG - Attempting postcode geocoding: 6241BB 75.0, Netherlands
+2025-02-20 14:22:56,340 - DEBUG - Trying street query: 6241BB 75.0, Netherlands
+2025-02-20 14:22:56,368 - DEBUG - Successfully geocoded 00DN using postcode
+2025-02-20 14:22:56,368 - DEBUG - Successfully geocoded 00DD using street name
+2025-02-20 14:22:57,217 - DEBUG - Attempting postcode geocoding: 3151CJ 155.0, Netherlands
+2025-02-20 14:22:57,217 - DEBUG - Trying street query: 3151CJ 155.0, Netherlands
+2025-02-20 14:22:57,345 - DEBUG - Attempting street geocoding: Het Geleer 33, HEESWIJK-DINTHER, Netherlands
+2025-02-20 14:22:57,346 - DEBUG - Attempting street geocoding: Het Geleer 33, Netherlands
+2025-02-20 14:22:57,346 - DEBUG - Attempting street geocoding: Het Geleer, HEESWIJK-DINTHER, Netherlands
+2025-02-20 14:22:57,346 - DEBUG - Attempting street geocoding: Het Geleer 33, HEESWIJK-DINTHER
+2025-02-20 14:22:57,369 - DEBUG - Attempting postcode geocoding: 9404KK 1.0, Netherlands
+2025-02-20 14:22:57,369 - DEBUG - Trying street query: 9404KK 1.0, Netherlands
+2025-02-20 14:22:57,370 - DEBUG - Successfully geocoded 00DM using street name
+2025-02-20 14:22:57,370 - DEBUG - Attempting postcode geocoding: 6986AT 8.0, Netherlands
+2025-02-20 14:22:57,371 - DEBUG - Trying street query: 6986AT 8.0, Netherlands
+2025-02-20 14:22:57,389 - DEBUG - Successfully geocoded 00DX using postcode
+2025-02-20 14:22:57,413 - DEBUG - Successfully geocoded 00DW using postcode
+2025-02-20 14:22:58,247 - DEBUG - Attempting street geocoding: Mercatorweg 155, HOEK VAN HOLLAND, Netherlands
+2025-02-20 14:22:58,248 - DEBUG - Attempting street geocoding: Mercatorweg 155, Netherlands
+2025-02-20 14:22:58,248 - DEBUG - Attempting street geocoding: Mercatorweg, HOEK VAN HOLLAND, Netherlands
+2025-02-20 14:22:58,248 - DEBUG - Attempting street geocoding: Mercatorweg 155, HOEK VAN HOLLAND
+2025-02-20 14:22:58,287 - DEBUG - Successfully geocoded 00DO using street name
+2025-02-20 14:22:58,372 - DEBUG - Attempting postcode geocoding: 8084GK 34.0, Netherlands
+2025-02-20 14:22:58,372 - DEBUG - Trying street query: 8084GK 34.0, Netherlands
+2025-02-20 14:22:58,391 - DEBUG - Attempting postcode geocoding: 8081NB 45.0, Netherlands
+2025-02-20 14:22:58,391 - DEBUG - Trying street query: 8081NB 45.0, Netherlands
+2025-02-20 14:22:58,417 - DEBUG - Attempting postcode geocoding: 5441AK 24.0, Netherlands
+2025-02-20 14:22:58,417 - DEBUG - Trying street query: 5441AK 24.0, Netherlands
+2025-02-20 14:22:58,456 - DEBUG - Successfully geocoded 00EB using postcode
+2025-02-20 14:22:59,291 - DEBUG - Attempting postcode geocoding: 3286BC 4.0, Netherlands
+2025-02-20 14:22:59,291 - DEBUG - Trying street query: 3286BC 4.0, Netherlands
+2025-02-20 14:22:59,316 - DEBUG - Successfully geocoded 00EI using postcode
+2025-02-20 14:22:59,406 - DEBUG - Attempting street geocoding: Parkweg 34, 'T HARDE, Netherlands
+2025-02-20 14:22:59,406 - DEBUG - Attempting street geocoding: Parkweg 34, Netherlands
+2025-02-20 14:22:59,406 - DEBUG - Attempting street geocoding: Parkweg, 'T HARDE, Netherlands
+2025-02-20 14:22:59,406 - DEBUG - Attempting street geocoding: Parkweg 34, 'T HARDE
+2025-02-20 14:22:59,443 - DEBUG - Attempting street geocoding: Hoekwant 45, ELBURG, Netherlands
+2025-02-20 14:22:59,443 - DEBUG - Attempting street geocoding: Hoekwant 45, Netherlands
+2025-02-20 14:22:59,443 - DEBUG - Attempting street geocoding: Hoekwant, ELBURG, Netherlands
+2025-02-20 14:22:59,443 - DEBUG - Attempting street geocoding: Hoekwant 45, ELBURG
+2025-02-20 14:22:59,461 - DEBUG - Attempting postcode geocoding: 4286BV 1.0, Netherlands
+2025-02-20 14:22:59,462 - DEBUG - Trying street query: 4286BV 1.0, Netherlands
+2025-02-20 14:22:59,487 - DEBUG - Successfully geocoded 00DZ using street name
+2025-02-20 14:22:59,491 - DEBUG - Successfully geocoded 00DY using street name
+2025-02-20 14:22:59,492 - DEBUG - Successfully geocoded 00FE using postcode
+2025-02-20 14:23:00,319 - DEBUG - Attempting postcode geocoding: 7557KJ 171.0, Netherlands
+2025-02-20 14:23:00,320 - DEBUG - Trying street query: 7557KJ 171.0, Netherlands
+2025-02-20 14:23:00,492 - DEBUG - Attempting postcode geocoding: 9561CB 38.0, Netherlands
+2025-02-20 14:23:00,492 - DEBUG - Trying street query: 9561CB 38.0, Netherlands
+2025-02-20 14:23:00,495 - DEBUG - Attempting postcode geocoding: 4691HT 1.0, Netherlands
+2025-02-20 14:23:00,495 - DEBUG - Trying street query: 4691HT 1.0, Netherlands
+2025-02-20 14:23:00,496 - DEBUG - Attempting postcode geocoding: 2404GM 24.0, Netherlands
+2025-02-20 14:23:00,496 - DEBUG - Trying street query: 2404GM 24.0, Netherlands
+2025-02-20 14:23:00,520 - DEBUG - Successfully geocoded 00GQ using postcode
+2025-02-20 14:23:00,520 - DEBUG - Successfully geocoded 00FQ using postcode
+2025-02-20 14:23:00,532 - DEBUG - Successfully geocoded 00FI using postcode
+2025-02-20 14:23:01,350 - DEBUG - Attempting street geocoding: Castorweg 171, HENGELO OV, Netherlands
+2025-02-20 14:23:01,350 - DEBUG - Attempting street geocoding: Castorweg 171, Netherlands
+2025-02-20 14:23:01,350 - DEBUG - Attempting street geocoding: Castorweg, HENGELO OV, Netherlands
+2025-02-20 14:23:01,351 - DEBUG - Attempting street geocoding: Castorweg 171, HENGELO OV
+2025-02-20 14:23:01,395 - DEBUG - Successfully geocoded 00FG using street name
+2025-02-20 14:23:01,522 - DEBUG - Attempting postcode geocoding: 8181VZ 8.0, Netherlands
+2025-02-20 14:23:01,522 - DEBUG - Trying street query: 8181VZ 8.0, Netherlands
+2025-02-20 14:23:01,525 - DEBUG - Attempting postcode geocoding: 8732EE 45.0, Netherlands
+2025-02-20 14:23:01,526 - DEBUG - Trying street query: 8732EE 45.0, Netherlands
+2025-02-20 14:23:01,533 - DEBUG - Attempting postcode geocoding: 7661RA 19.0, Netherlands
+2025-02-20 14:23:01,533 - DEBUG - Trying street query: 7661RA 19.0, Netherlands
+2025-02-20 14:23:01,554 - DEBUG - Successfully geocoded 00GV using postcode
+2025-02-20 14:23:01,554 - DEBUG - Successfully geocoded 00GR using postcode
+2025-02-20 14:23:02,396 - DEBUG - Attempting postcode geocoding: 9077SR 78.0, Netherlands
+2025-02-20 14:23:02,397 - DEBUG - Trying street query: 9077SR 78.0, Netherlands
+2025-02-20 14:23:02,557 - DEBUG - Attempting street geocoding: Greate Buorren 45, KUBAARD, Netherlands
+2025-02-20 14:23:02,557 - DEBUG - Attempting postcode geocoding: 6675BB 5.0, Netherlands
+2025-02-20 14:23:02,558 - DEBUG - Attempting street geocoding: Greate Buorren 45, Netherlands
+2025-02-20 14:23:02,558 - DEBUG - Trying street query: 6675BB 5.0, Netherlands
+2025-02-20 14:23:02,558 - DEBUG - Attempting street geocoding: Greate Buorren, KUBAARD, Netherlands
+2025-02-20 14:23:02,559 - DEBUG - Attempting street geocoding: Greate Buorren 45, KUBAARD
+2025-02-20 14:23:02,559 - DEBUG - Attempting postcode geocoding: 8226LP 29.0, Netherlands
+2025-02-20 14:23:02,559 - DEBUG - Trying street query: 8226LP 29.0, Netherlands
+2025-02-20 14:23:02,585 - DEBUG - Successfully geocoded 00GX using postcode
+2025-02-20 14:23:02,586 - DEBUG - Successfully geocoded 00GU using street name
+2025-02-20 14:23:03,428 - DEBUG - Attempting street geocoding: Waling Dykstrastraat 78, VROUWENPAROCHIE, Netherlands
+2025-02-20 14:23:03,429 - DEBUG - Attempting street geocoding: Waling Dykstrastraat 78, Netherlands
+2025-02-20 14:23:03,429 - DEBUG - Attempting street geocoding: Waling Dykstrastraat, VROUWENPAROCHIE, Netherlands
+2025-02-20 14:23:03,429 - DEBUG - Attempting street geocoding: Waling Dykstrastraat 78, VROUWENPAROCHIE
+2025-02-20 14:23:03,462 - DEBUG - Successfully geocoded 00GW using street name
+2025-02-20 14:23:03,587 - DEBUG - Attempting postcode geocoding: 4491GB 30.0, Netherlands
+2025-02-20 14:23:03,587 - DEBUG - Trying street query: 4491GB 30.0, Netherlands
+2025-02-20 14:23:03,591 - DEBUG - Attempting postcode geocoding: 3851BH 38.0, Netherlands
+2025-02-20 14:23:03,591 - DEBUG - Trying street query: 3851BH 38.0, Netherlands
+2025-02-20 14:23:03,602 - DEBUG - Attempting street geocoding: Maasstraat 29, LELYSTAD, Netherlands
+2025-02-20 14:23:03,603 - DEBUG - Attempting street geocoding: Maasstraat 29, Netherlands
+2025-02-20 14:23:03,603 - DEBUG - Attempting street geocoding: Maasstraat, LELYSTAD, Netherlands
+2025-02-20 14:23:03,603 - DEBUG - Attempting street geocoding: Maasstraat 29, LELYSTAD
+2025-02-20 14:23:03,614 - DEBUG - Successfully geocoded 00HA using postcode
+2025-02-20 14:23:03,694 - DEBUG - Successfully geocoded 00GZ using street name

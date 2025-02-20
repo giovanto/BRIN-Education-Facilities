@@ -1,0 +1,4577 @@
+{
+  "matches": [
+    {
+      "reference_id": 6277,
+      "brin_id": "16VP",
+      "distance": 0.3972906233759966,
+      "brin_name": "Hondsrug College Christelijke SGM voor LYC HAVO MAVO VBO LWOO",
+      "brin_address": {
+        "street": "Emmalaan",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "7822JB",
+        "city": "EMMEN",
+        "province": "Drenthe"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6278,
+      "brin_id": "25CL",
+      "distance": 0.2842860170900173,
+      "brin_name": "Regionale Scholengemeenschap Stad en Esch voor Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Ezingerweg",
+        "number": 52.0,
+        "number_addition": null,
+        "postcode": "7943AZ",
+        "city": "MEPPEL",
+        "province": "Drenthe"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6279,
+      "brin_id": "25CL",
+      "distance": 63.87186343985321,
+      "brin_name": "Regionale Scholengemeenschap Stad en Esch voor Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Ezingerweg",
+        "number": 52.0,
+        "number_addition": null,
+        "postcode": "7943AZ",
+        "city": "MEPPEL",
+        "province": "Drenthe"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6280,
+      "brin_id": "25CL",
+      "distance": 33.4354006730553,
+      "brin_name": "Regionale Scholengemeenschap Stad en Esch voor Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Ezingerweg",
+        "number": 52.0,
+        "number_addition": null,
+        "postcode": "7943AZ",
+        "city": "MEPPEL",
+        "province": "Drenthe"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6287,
+      "brin_id": "20LA",
+      "distance": 0.31069639930850707,
+      "brin_name": "Openbare Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo Esdal College",
+      "brin_address": {
+        "street": "Oosterstraat",
+        "number": 78.0,
+        "number_addition": null,
+        "postcode": "7822HG",
+        "city": "EMMEN",
+        "province": "Drenthe"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6290,
+      "brin_id": "03XM",
+      "distance": 36.84473056154053,
+      "brin_name": "Christelijke Scholengemeenschap Dingstede voor Mavo Havo en Atheneum",
+      "brin_address": {
+        "street": "Gerard Doustraat",
+        "number": 13.0,
+        "number_addition": null,
+        "postcode": "7944HD",
+        "city": "MEPPEL",
+        "province": "Drenthe"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6292,
+      "brin_id": "20LA",
+      "distance": 82.81591028611699,
+      "brin_name": "Openbare Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo Esdal College",
+      "brin_address": {
+        "street": "Oosterstraat",
+        "number": 78.0,
+        "number_addition": null,
+        "postcode": "7822HG",
+        "city": "EMMEN",
+        "province": "Drenthe"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6299,
+      "brin_id": "18XX",
+      "distance": 15.70289167328199,
+      "brin_name": "Berechja College voor MAVO HAVO VBO",
+      "brin_address": {
+        "street": "Waaiershoek",
+        "number": 46.0,
+        "number_addition": null,
+        "postcode": "8321BH",
+        "city": "URK",
+        "province": "Flevoland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6318,
+      "brin_id": "17DN",
+      "distance": 39.91308294182098,
+      "brin_name": "Openbare Scholengemeenschap De Meergronden voor Vwo Havo Mavo Vmbo",
+      "brin_address": {
+        "street": "Marktgracht",
+        "number": 65.0,
+        "number_addition": null,
+        "postcode": "1353AL",
+        "city": "ALMERE",
+        "province": "Flevoland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6331,
+      "brin_id": "18XX",
+      "distance": 33.40883202095469,
+      "brin_name": "Berechja College voor MAVO HAVO VBO",
+      "brin_address": {
+        "street": "Waaiershoek",
+        "number": 46.0,
+        "number_addition": null,
+        "postcode": "8321BH",
+        "city": "URK",
+        "province": "Flevoland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6339,
+      "brin_id": "04YE",
+      "distance": 0.45135983197701507,
+      "brin_name": "Openbare Scholengemeenschap Singelland voor Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Van Haersmasingel",
+        "number": 37.0,
+        "number_addition": null,
+        "postcode": "9201KN",
+        "city": "DRACHTEN",
+        "province": "Friesland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6361,
+      "brin_id": "00ZV",
+      "distance": 0.08331811817465834,
+      "brin_name": "Lauwers College Christelijk Scholengemeenschap voor Atheneum Havo Mavo Vbo",
+      "brin_address": {
+        "street": "De Hoefslag",
+        "number": 40.0,
+        "number_addition": null,
+        "postcode": "9285RV",
+        "city": "BUITENPOST",
+        "province": "Friesland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6390,
+      "brin_id": "15VQ",
+      "distance": 0.19897044296323804,
+      "brin_name": "Stellingwerf College",
+      "brin_address": {
+        "street": "Quadoelenweg",
+        "number": 29.0,
+        "number_addition": null,
+        "postcode": "8431LN",
+        "city": "OOSTERWOLDE FR",
+        "province": "Friesland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6410,
+      "brin_id": "14WI",
+      "distance": 0.2937033131019982,
+      "brin_name": "Christelijk Gymnasium Beyers Naude",
+      "brin_address": {
+        "street": "Gymnasiumstraat",
+        "number": 36.0,
+        "number_addition": null,
+        "postcode": "8932GW",
+        "city": "LEEUWARDEN",
+        "province": "Friesland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6415,
+      "brin_id": "14FW",
+      "distance": 0.44761947561736865,
+      "brin_name": "Openbare Scholengroep  voor VMBO, Havo, Atheneum en Gymnasium",
+      "brin_address": {
+        "street": "Schans",
+        "number": 100.0,
+        "number_addition": null,
+        "postcode": "8441AE",
+        "city": "HEERENVEEN",
+        "province": "Friesland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6435,
+      "brin_id": "20TZ",
+      "distance": 0.4015948798809618,
+      "brin_name": "Lorentz Groep voor Vwo Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Metamorfosenallee",
+        "number": 100.0,
+        "number_addition": null,
+        "postcode": "6843HX",
+        "city": "ARNHEM",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6442,
+      "brin_id": "25GL",
+      "distance": 47.03285838061373,
+      "brin_name": "Openb. SGM. Arnhem Noord. voor lyceum, havo, mavo en vbo",
+      "brin_address": {
+        "street": "Bernhardlaan",
+        "number": 49.0,
+        "number_addition": null,
+        "postcode": "6824LE",
+        "city": "ARNHEM",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6444,
+      "brin_id": "07PK",
+      "distance": 88.9107325671367,
+      "brin_name": "Arentheem College Interconfessionele School voor Atheneum Gymnasium Havo Vmbo",
+      "brin_address": {
+        "street": "Thomas a Kempislaan",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "6822LR",
+        "city": "ARNHEM",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6455,
+      "brin_id": "20RM",
+      "distance": 8.562843316212057,
+      "brin_name": "Stedelijk Gymnasium Arnhem",
+      "brin_address": {
+        "street": "Thorbeckestraat",
+        "number": 17.0,
+        "number_addition": null,
+        "postcode": "6828TS",
+        "city": "ARNHEM",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6472,
+      "brin_id": "00RZ",
+      "distance": 0.10902685420584236,
+      "brin_name": "Montessori College voor Vwo, Havo, Vmbo",
+      "brin_address": {
+        "street": "Kwakkenbergweg",
+        "number": 27.0,
+        "number_addition": null,
+        "postcode": "6523MJ",
+        "city": "NIJMEGEN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6507,
+      "brin_id": "00CB",
+      "distance": 0.49683971720266695,
+      "brin_name": "Scholengemeenschap voor Voortgezet Vrije Schoolonderwijs",
+      "brin_address": {
+        "street": "Wilhelminasingel",
+        "number": 13.0,
+        "number_addition": "-15",
+        "postcode": "6524AJ",
+        "city": "NIJMEGEN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6514,
+      "brin_id": "01VN",
+      "distance": 0.16526434034183446,
+      "brin_name": "Canisius College Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Berg en Dalseweg",
+        "number": 207.0,
+        "number_addition": null,
+        "postcode": "6522BK",
+        "city": "NIJMEGEN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6517,
+      "brin_id": "14NQ",
+      "distance": 0.07601825595867863,
+      "brin_name": "Dominicus Mavo/Havo/Atheneum/Gymnasium",
+      "brin_address": {
+        "street": "Energieweg",
+        "number": 93.0,
+        "number_addition": null,
+        "postcode": "6541CZ",
+        "city": "NIJMEGEN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6519,
+      "brin_id": "14NQ",
+      "distance": 53.92654059809919,
+      "brin_name": "Dominicus Mavo/Havo/Atheneum/Gymnasium",
+      "brin_address": {
+        "street": "Energieweg",
+        "number": 93.0,
+        "number_addition": null,
+        "postcode": "6541CZ",
+        "city": "NIJMEGEN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6522,
+      "brin_id": "20CI",
+      "distance": 0.28597106393373345,
+      "brin_name": "Stedelijk Gymnasium Nijmegen",
+      "brin_address": {
+        "street": "Kronenburgersingel",
+        "number": 269.0,
+        "number_addition": null,
+        "postcode": "6511AS",
+        "city": "NIJMEGEN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6523,
+      "brin_id": "17IR",
+      "distance": 0.3044938919771815,
+      "brin_name": "Pax Christi College - scholengemeenschap voor vwo havo vmbo lwoo",
+      "brin_address": {
+        "street": "Mr. van Coothstraat",
+        "number": 34.0,
+        "number_addition": null,
+        "postcode": "6651ZJ",
+        "city": "DRUTEN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6525,
+      "brin_id": "21SK",
+      "distance": 0.12652243865324056,
+      "brin_name": "Mondial College",
+      "brin_address": {
+        "street": "Leuvensbroek",
+        "number": 3001.0,
+        "number_addition": null,
+        "postcode": "6546TD",
+        "city": "NIJMEGEN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6529,
+      "brin_id": "07PK",
+      "distance": 0.43541946858723957,
+      "brin_name": "Arentheem College Interconfessionele School voor Atheneum Gymnasium Havo Vmbo",
+      "brin_address": {
+        "street": "Thomas a Kempislaan",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "6822LR",
+        "city": "ARNHEM",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6555,
+      "brin_id": "00SZ",
+      "distance": 0.38252422431870386,
+      "brin_name": "Johannes Fontanus College Christelijk Scholengemeenschap voor Mavo Havo Atheneum",
+      "brin_address": {
+        "street": "Wethouder Rebellaan",
+        "number": 135.0,
+        "number_addition": null,
+        "postcode": "3771KA",
+        "city": "BARNEVELD",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6557,
+      "brin_id": "19KZ",
+      "distance": 0.09817949476527298,
+      "brin_name": "Pallas Athene College Openbare Scholengemeenschap voor Vwo Havo Mavo Vbo",
+      "brin_address": {
+        "street": "Koekeltse Boslaan",
+        "number": 21.0,
+        "number_addition": null,
+        "postcode": "6715CW",
+        "city": "EDE",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6559,
+      "brin_id": "00LJ",
+      "distance": 46.49587008192518,
+      "brin_name": "Christelijk College Schaersvoorde voor Atheneum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Slingelaan",
+        "number": 28.0,
+        "number_addition": null,
+        "postcode": "7122AW",
+        "city": "AALTEN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6562,
+      "brin_id": "02NZ",
+      "distance": 0.4773423928842201,
+      "brin_name": "Houtkamp College voor mavo, havo, ath, gym, vbo, lwoo",
+      "brin_address": {
+        "street": "Ruimzichtlaan",
+        "number": 155.0,
+        "number_addition": null,
+        "postcode": "7001KD",
+        "city": "DOETINCHEM",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6575,
+      "brin_id": "20AD",
+      "distance": 0.03487462458853942,
+      "brin_name": "Panora Lyceum Scholengemeenschap voor Gymn Ath Havo Mavo",
+      "brin_address": {
+        "street": "Holterweg",
+        "number": 121.0,
+        "number_addition": null,
+        "postcode": "7001EK",
+        "city": "DOETINCHEM",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6576,
+      "brin_id": "02FC",
+      "distance": 56.13625097210423,
+      "brin_name": "PC SGM Ulenhof College v Ath Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Bizetlaan",
+        "number": 86.0,
+        "number_addition": null,
+        "postcode": "7002LZ",
+        "city": "DOETINCHEM",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6593,
+      "brin_id": "31CZ",
+      "distance": 2.663488943330988,
+      "brin_name": "PvO Geldermalsen - Ida Gerhardt Academie voor havo, atheneum en gymnasium",
+      "brin_address": {
+        "street": "Ossengang",
+        "number": 45.0,
+        "number_addition": null,
+        "postcode": "4191LR",
+        "city": "GELDERMALSEN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6595,
+      "brin_id": "02RA",
+      "distance": 0.19126027918629132,
+      "brin_name": "Katholieke Scholengemeenschap Veluws College voor Gymn Ath Havo Mavo en Vmbo",
+      "brin_address": {
+        "street": "Waltersingel",
+        "number": 130.0,
+        "number_addition": null,
+        "postcode": "7314NX",
+        "city": "APELDOORN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6601,
+      "brin_id": "08SG",
+      "distance": 0.11039251984254994,
+      "brin_name": "Christelijk Voortgezet Onderwijs Apeldoorn voor Gymn Ath Havo Mavo en Vmbo",
+      "brin_address": {
+        "street": "Heemradenlaan",
+        "number": 125.0,
+        "number_addition": null,
+        "postcode": "7329BZ",
+        "city": "APELDOORN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6601,
+      "brin_id": "09QM",
+      "distance": 0.11039251984254994,
+      "brin_name": "De Heemgaard Christelijke Scholengemeenschap voor Atheneum Havo en Mavo",
+      "brin_address": {
+        "street": "Heemradenlaan",
+        "number": 125.0,
+        "number_addition": null,
+        "postcode": "7329BZ",
+        "city": "APELDOORN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6608,
+      "brin_id": "20KQ",
+      "distance": 48.85383774218659,
+      "brin_name": "Openbare Scholengemeenschap Apeldoorn",
+      "brin_address": {
+        "street": "Jhr Mr G W Molleruslaan",
+        "number": 42.0,
+        "number_addition": null,
+        "postcode": "7316AW",
+        "city": "APELDOORN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6612,
+      "brin_id": "00WI",
+      "distance": 15.252728855507764,
+      "brin_name": "Christelijk College Groevenbeek",
+      "brin_address": {
+        "street": "Paul Krugerweg",
+        "number": 44.0,
+        "number_addition": "-50",
+        "postcode": "3851ZJ",
+        "city": "ERMELO",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6613,
+      "brin_id": "02QQ",
+      "distance": 0.3642902444474298,
+      "brin_name": "Notre Dame Des Anges Havo",
+      "brin_address": {
+        "street": "Kasteelselaan",
+        "number": 50.0,
+        "number_addition": null,
+        "postcode": "6574AJ",
+        "city": "UBBERGEN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6618,
+      "brin_id": "01RL",
+      "distance": 0.4733979522644428,
+      "brin_name": "Jacobus Fruijtier Scholengemeenschap v Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Anklaarseweg",
+        "number": 71.0,
+        "number_addition": null,
+        "postcode": "7316MB",
+        "city": "APELDOORN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6630,
+      "brin_id": "02CR",
+      "distance": 38.862190510933026,
+      "brin_name": "Willem Lodewijkgymnasium",
+      "brin_address": {
+        "street": "Verzetsstrijderslaan",
+        "number": 220.0,
+        "number_addition": null,
+        "postcode": "9727CK",
+        "city": "GRONINGEN",
+        "province": "Groningen"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6632,
+      "brin_id": "02VJ",
+      "distance": 0.18219146247860132,
+      "brin_name": "Stichting bijzonder voortgezet onderwijs Ubbo Emmius voor Lyc Havo Mavo Vbo",
+      "brin_address": {
+        "street": "Stationslaan",
+        "number": 17.0,
+        "number_addition": null,
+        "postcode": "9503CA",
+        "city": "STADSKANAAL",
+        "province": "Groningen"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6654,
+      "brin_id": "01MO",
+      "distance": 50.03126866393775,
+      "brin_name": "Atheneum van de Trevianum Scholengroep",
+      "brin_address": {
+        "street": "Bradleystraat",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "6135CV",
+        "city": "SITTARD",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6654,
+      "brin_id": "04DS",
+      "distance": 50.03126866393775,
+      "brin_name": "Gymnasium van de Trevianum Scholengroep",
+      "brin_address": {
+        "street": "Bradleystraat",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "6135CV",
+        "city": "SITTARD",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6654,
+      "brin_id": "07BQ",
+      "distance": 50.03126866393775,
+      "brin_name": "HAVO van de Trevianum Scholengroep",
+      "brin_address": {
+        "street": "Bradleystraat",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "6135CV",
+        "city": "SITTARD",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6663,
+      "brin_id": "00DI",
+      "distance": 0.3283548350274386,
+      "brin_name": "rsg de Borgen voor Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Waezenburglaan",
+        "number": 51.0,
+        "number_addition": "a",
+        "postcode": "9351HC",
+        "city": "LEEK",
+        "province": "Groningen"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6670,
+      "brin_id": "16IH",
+      "distance": 30.528367723389348,
+      "brin_name": "Regionale Scholengemeenschap Ter Apel voor Ath Havo Mavo Lhno",
+      "brin_address": {
+        "street": "Oude Weg",
+        "number": 41.0,
+        "number_addition": null,
+        "postcode": "9561LB",
+        "city": "TER APEL",
+        "province": "Groningen"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6671,
+      "brin_id": "13ZU",
+      "distance": 0.4865443565136429,
+      "brin_name": "Reitdiepcollege voor Atheneum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Eikenlaan",
+        "number": 286.0,
+        "number_addition": null,
+        "postcode": "9741EW",
+        "city": "GRONINGEN",
+        "province": "Groningen"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6676,
+      "brin_id": "20BV",
+      "distance": 0.08971233174833927,
+      "brin_name": "Praedinius Gymnasium",
+      "brin_address": {
+        "street": "Turfsingel",
+        "number": 82.0,
+        "number_addition": null,
+        "postcode": "9711VX",
+        "city": "GRONINGEN",
+        "province": "Groningen"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6677,
+      "brin_id": "20BV",
+      "distance": 79.35577192068497,
+      "brin_name": "Praedinius Gymnasium",
+      "brin_address": {
+        "street": "Turfsingel",
+        "number": 82.0,
+        "number_addition": null,
+        "postcode": "9711VX",
+        "city": "GRONINGEN",
+        "province": "Groningen"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6684,
+      "brin_id": "20ER",
+      "distance": 0.24830772850486849,
+      "brin_name": "Zernike College voor ATHENEUM HAVO MAVO VBO",
+      "brin_address": {
+        "street": "Helper Brink",
+        "number": 30.0,
+        "number_addition": null,
+        "postcode": "9722EP",
+        "city": "GRONINGEN",
+        "province": "Groningen"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6702,
+      "brin_id": "19HR",
+      "distance": 0.1852323371743884,
+      "brin_name": "Blariacumcollege Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Drie Decembersingel",
+        "number": 40.0,
+        "number_addition": null,
+        "postcode": "5922BD",
+        "city": "VENLO",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6707,
+      "brin_id": "01MO",
+      "distance": 50.03126866393775,
+      "brin_name": "Atheneum van de Trevianum Scholengroep",
+      "brin_address": {
+        "street": "Bradleystraat",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "6135CV",
+        "city": "SITTARD",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6707,
+      "brin_id": "04DS",
+      "distance": 50.03126866393775,
+      "brin_name": "Gymnasium van de Trevianum Scholengroep",
+      "brin_address": {
+        "street": "Bradleystraat",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "6135CV",
+        "city": "SITTARD",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6707,
+      "brin_id": "07BQ",
+      "distance": 50.03126866393775,
+      "brin_name": "HAVO van de Trevianum Scholengroep",
+      "brin_address": {
+        "street": "Bradleystraat",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "6135CV",
+        "city": "SITTARD",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6709,
+      "brin_id": "03XF",
+      "distance": 0.24592072252199013,
+      "brin_name": "Mundium College voor vwo, havo, mavo, vbo en lwoo",
+      "brin_address": {
+        "street": "Heinsbergerweg",
+        "number": 184.0,
+        "number_addition": null,
+        "postcode": "6045CK",
+        "city": "ROERMOND",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6711,
+      "brin_id": "01MO",
+      "distance": 50.03126866393775,
+      "brin_name": "Atheneum van de Trevianum Scholengroep",
+      "brin_address": {
+        "street": "Bradleystraat",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "6135CV",
+        "city": "SITTARD",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6711,
+      "brin_id": "04DS",
+      "distance": 50.03126866393775,
+      "brin_name": "Gymnasium van de Trevianum Scholengroep",
+      "brin_address": {
+        "street": "Bradleystraat",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "6135CV",
+        "city": "SITTARD",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6711,
+      "brin_id": "07BQ",
+      "distance": 50.03126866393775,
+      "brin_name": "HAVO van de Trevianum Scholengroep",
+      "brin_address": {
+        "street": "Bradleystraat",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "6135CV",
+        "city": "SITTARD",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6713,
+      "brin_id": "14PS",
+      "distance": 0.38924191726558355,
+      "brin_name": "Bisschop College Broekhin voor Lyceum Havo Mavo Vbo",
+      "brin_address": {
+        "street": "Bob Boumanstraat",
+        "number": 30.0,
+        "number_addition": null,
+        "postcode": "6042EH",
+        "city": "ROERMOND",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6717,
+      "brin_id": "17GT",
+      "distance": 0.32459808816463526,
+      "brin_name": "Rooms Katholieke Scholengemeenschap St Ursula voor Vwo Havo Vmbo Lwoo",
+      "brin_address": {
+        "street": "Bergerweg",
+        "number": 21.0,
+        "number_addition": null,
+        "postcode": "6085AS",
+        "city": "HORN",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6725,
+      "brin_id": "02DF",
+      "distance": 33.06446748573013,
+      "brin_name": "Grotiuscollege Stedelijke Scholengemeenschap voor Lyceum Havo Mavo",
+      "brin_address": {
+        "street": "Akerstraat",
+        "number": 117.0,
+        "number_addition": null,
+        "postcode": "6417BM",
+        "city": "HEERLEN",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6726,
+      "brin_id": "20EA",
+      "distance": 21.847433090660928,
+      "brin_name": "Openbaar lyceum De Amersfoortse Berg",
+      "brin_address": {
+        "street": "Hooglandseweg-Noord",
+        "number": 55.0,
+        "number_addition": null,
+        "postcode": "3813VD",
+        "city": "AMERSFOORT",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6732,
+      "brin_id": "02MY",
+      "distance": 0.217772384917815,
+      "brin_name": "DaCapo College Milaanstraat",
+      "brin_address": {
+        "street": "Milaanstraat",
+        "number": 125.0,
+        "number_addition": null,
+        "postcode": "6135LH",
+        "city": "SITTARD",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6735,
+      "brin_id": "16SL",
+      "distance": 0.14474880107231172,
+      "brin_name": "Sint-Janscollege voor Vwo Havo",
+      "brin_address": {
+        "street": "Amstenraderweg",
+        "number": 122.0,
+        "number_addition": null,
+        "postcode": "6431EN",
+        "city": "HOENSBROEK",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6738,
+      "brin_id": "18DD",
+      "distance": 45.72323359996337,
+      "brin_name": "Scholengemeenschap Philips van Horne voor LYC HAVO MAVO VBO LWOO",
+      "brin_address": {
+        "street": "Herenstraat",
+        "number": 298.0,
+        "number_addition": null,
+        "postcode": "6004XL",
+        "city": "WEERT",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6739,
+      "brin_id": "19PV",
+      "distance": 0.484025799476324,
+      "brin_name": "Graaf Huyn College voor LYC HAVO MAVO VBO LWOO",
+      "brin_address": {
+        "street": "Jos Klijnenlaan",
+        "number": 683.0,
+        "number_addition": null,
+        "postcode": "6164AP",
+        "city": "GELEEN",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6740,
+      "brin_id": "20IS",
+      "distance": 45.099785969339685,
+      "brin_name": "Stella Maris College voor Lyc Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Parallelweg",
+        "number": 56.0,
+        "number_addition": null,
+        "postcode": "6231CJ",
+        "city": "MEERSSEN",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6741,
+      "brin_id": "18DO",
+      "distance": 0.10813221615676553,
+      "brin_name": "Compass voor Atheneum Havo en Mavo",
+      "brin_address": {
+        "street": "Schoolstraat",
+        "number": 16.0,
+        "number_addition": null,
+        "postcode": "6443BT",
+        "city": "BRUNSSUM",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6742,
+      "brin_id": "02DF",
+      "distance": 33.06446748573013,
+      "brin_name": "Grotiuscollege Stedelijke Scholengemeenschap voor Lyceum Havo Mavo",
+      "brin_address": {
+        "street": "Akerstraat",
+        "number": 117.0,
+        "number_addition": null,
+        "postcode": "6417BM",
+        "city": "HEERLEN",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6745,
+      "brin_id": "25GF",
+      "distance": 0.3063049483660427,
+      "brin_name": "Dendroncollege RK SGM v Lyc Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Gebr. van Doornelaan",
+        "number": 124.0,
+        "number_addition": null,
+        "postcode": "5961BE",
+        "city": "HORST",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6746,
+      "brin_id": "25GF",
+      "distance": 0.3063049483660427,
+      "brin_name": "Dendroncollege RK SGM v Lyc Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Gebr. van Doornelaan",
+        "number": 124.0,
+        "number_addition": null,
+        "postcode": "5961BE",
+        "city": "HORST",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6748,
+      "brin_id": "17WI",
+      "distance": 16.25687937306456,
+      "brin_name": "Jeanne d Arc College SGM voor Lyc Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Oude Molenweg",
+        "number": 130.0,
+        "number_addition": null,
+        "postcode": "6228XW",
+        "city": "MAASTRICHT",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6748,
+      "brin_id": "27VG",
+      "distance": 16.25687937306456,
+      "brin_name": "Porta Mosana College Vwo Havo Mavo Vbo",
+      "brin_address": {
+        "street": "Oude Molenweg",
+        "number": 130.0,
+        "number_addition": null,
+        "postcode": "6228XW",
+        "city": "MAASTRICHT",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6753,
+      "brin_id": "20HB",
+      "distance": 0.34219833337863487,
+      "brin_name": "Scholengemeenschap voor Lyceum Havo Mavo Sint Maartenscollege",
+      "brin_address": {
+        "street": "Noormannensingel",
+        "number": 50.0,
+        "number_addition": null,
+        "postcode": "6224BW",
+        "city": "MAASTRICHT",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6754,
+      "brin_id": "27ZJ",
+      "distance": 14.56695073576808,
+      "brin_name": "Bonnefantencollege",
+      "brin_address": {
+        "street": "Eenhoornsingel",
+        "number": 100.0,
+        "number_addition": null,
+        "postcode": "6216CW",
+        "city": "MAASTRICHT",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6756,
+      "brin_id": "11EE",
+      "distance": 29.600914372733385,
+      "brin_name": "Euro College",
+      "brin_address": {
+        "street": "Nijverheidsweg",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "6227AL",
+        "city": "MAASTRICHT",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6757,
+      "brin_id": "31TG",
+      "distance": 0.055199749697732156,
+      "brin_name": "Openbaar Buurtcollege Maas en Peel voor mavo, havo en vwo",
+      "brin_address": {
+        "street": "Piushof",
+        "number": 87.0,
+        "number_addition": null,
+        "postcode": "5981VW",
+        "city": "PANNINGEN",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6768,
+      "brin_id": "19QC",
+      "distance": 68.77606108881308,
+      "brin_name": "School voor Havo Mavo V H Bernardinuscollege",
+      "brin_address": {
+        "street": "Akerstraat",
+        "number": 95.0,
+        "number_addition": null,
+        "postcode": "6417BK",
+        "city": "HEERLEN",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6769,
+      "brin_id": "19XS",
+      "distance": 58.071970920087736,
+      "brin_name": "Sintermeertencollege Scholengemeenschap voor Lyceum Havo Mavo",
+      "brin_address": {
+        "street": "Valkenburgerweg",
+        "number": 219.0,
+        "number_addition": null,
+        "postcode": "6419AT",
+        "city": "HEERLEN",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6771,
+      "brin_id": "02DW",
+      "distance": 47.9454467949318,
+      "brin_name": "Gymnasium Bernrode",
+      "brin_address": {
+        "street": "Abdijstraat",
+        "number": 36.0,
+        "number_addition": null,
+        "postcode": "5473AG",
+        "city": "HEESWIJK-DINTHER",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6774,
+      "brin_id": "19QC",
+      "distance": 0.318881226774879,
+      "brin_name": "School voor Havo Mavo V H Bernardinuscollege",
+      "brin_address": {
+        "street": "Akerstraat",
+        "number": 95.0,
+        "number_addition": null,
+        "postcode": "6417BK",
+        "city": "HEERLEN",
+        "province": "Limburg"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6775,
+      "brin_id": "00KV",
+      "distance": 0.23153038288379577,
+      "brin_name": "KSE (Katholieke Scholengemeenschap Etten-Leur e.o.)",
+      "brin_address": {
+        "street": "Stijn Streuvelslaan",
+        "number": 42.0,
+        "number_addition": null,
+        "postcode": "4873EB",
+        "city": "ETTEN-LEUR",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6776,
+      "brin_id": "20GD",
+      "distance": 11.126657052068282,
+      "brin_name": "Campus 013, katholieke scholengemeenschap voor vbo en mavo, lwoo",
+      "brin_address": {
+        "street": "Stappegoorweg",
+        "number": 185.0,
+        "number_addition": null,
+        "postcode": "5022DD",
+        "city": "TILBURG",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6779,
+      "brin_id": "02HI",
+      "distance": 0.14800490080027254,
+      "brin_name": "Curio vmbo",
+      "brin_address": {
+        "street": "Steenspil",
+        "number": 46.0,
+        "number_addition": null,
+        "postcode": "4661TZ",
+        "city": "HALSTEREN",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6781,
+      "brin_id": "09VG",
+      "distance": 0.2864965241828129,
+      "brin_name": "Onderwijsgroep Tilburg VMBO Reeshof, VMBO LWOO",
+      "brin_address": {
+        "street": "Warmondstraat",
+        "number": 240.0,
+        "number_addition": null,
+        "postcode": "5036BV",
+        "city": "TILBURG",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6802,
+      "brin_id": "01FY",
+      "distance": 53.84672424827636,
+      "brin_name": "Augustinianum Scholengemeenschap voor Vwo en Havo",
+      "brin_address": {
+        "street": "Dirk Boutslaan",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "5613LH",
+        "city": "EINDHOVEN",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6821,
+      "brin_id": "00NE",
+      "distance": 0.38019538953278376,
+      "brin_name": "Delta vmbo",
+      "brin_address": {
+        "street": "Deltaweg",
+        "number": 205.0,
+        "number_addition": null,
+        "postcode": "5709AB",
+        "city": "HELMOND",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6823,
+      "brin_id": "02QP",
+      "distance": 73.83347337702368,
+      "brin_name": "Willibrord Gymnasium",
+      "brin_address": {
+        "street": "Beukenstraat",
+        "number": 80.0,
+        "number_addition": null,
+        "postcode": "5753GD",
+        "city": "DEURNE",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6824,
+      "brin_id": "20NF",
+      "distance": 0.20921013764261573,
+      "brin_name": "Carolus Borromeuscollege Scholengemeenschap voor Lyceum en Havo",
+      "brin_address": {
+        "street": "Gasthuisstraat",
+        "number": 79.0,
+        "number_addition": null,
+        "postcode": "5708HJ",
+        "city": "HELMOND",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6827,
+      "brin_id": "16RT",
+      "distance": 0.3726009236540848,
+      "brin_name": "Voortgezet Onderwijs Best-Oirschot",
+      "brin_address": {
+        "street": "Willem de Zwijgerweg",
+        "number": 150.0,
+        "number_addition": null,
+        "postcode": "5684SL",
+        "city": "BEST",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6834,
+      "brin_id": "02FY",
+      "distance": 54.814804000786545,
+      "brin_name": "OMO Scholengroep Bergen op Zoom e.o. voor Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Bolwerk-Zuid",
+        "number": 168.0,
+        "number_addition": null,
+        "postcode": "4611DX",
+        "city": "BERGEN OP ZOOM",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6838,
+      "brin_id": "14LF",
+      "distance": 0.42838183922156925,
+      "brin_name": "Jan van Brabant College vestiging Molenstraat",
+      "brin_address": {
+        "street": "Molenstraat",
+        "number": 191.0,
+        "number_addition": null,
+        "postcode": "5701KD",
+        "city": "HELMOND",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6846,
+      "brin_id": "04YX",
+      "distance": 60.41488838323986,
+      "brin_name": "Munnikenheide College voor MAVO VBO LWOO",
+      "brin_address": {
+        "street": "Trivium",
+        "number": 60.0,
+        "number_addition": null,
+        "postcode": "4873LP",
+        "city": "ETTEN-LEUR",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6849,
+      "brin_id": "13PE",
+      "distance": 48.33260447292352,
+      "brin_name": "Varendonck College voor Atheneum Gymnasium Havo Vmbo Lwoo Pro",
+      "brin_address": {
+        "street": "Beatrixlaan",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "5721LZ",
+        "city": "ASTEN",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6851,
+      "brin_id": "15BS",
+      "distance": 62.972742131347616,
+      "brin_name": "Sondervick College RK Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Knegselseweg",
+        "number": 30.0,
+        "number_addition": null,
+        "postcode": "5504NC",
+        "city": "VELDHOVEN",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6869,
+      "brin_id": "17HN",
+      "distance": 0.39708372439488,
+      "brin_name": "Mezzo Scholen voor vwo, havo en vmbo",
+      "brin_address": {
+        "street": "Bilderbeekstraat",
+        "number": 27.0,
+        "number_addition": null,
+        "postcode": "5831CW",
+        "city": "BOXMEER",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6885,
+      "brin_id": "20BQ",
+      "distance": 64.9660502241649,
+      "brin_name": "Mill Hill College voor mavo, havo en vwo",
+      "brin_address": {
+        "street": "Venneweg",
+        "number": 42.0,
+        "number_addition": null,
+        "postcode": "5051BP",
+        "city": "GOIRLE",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6900,
+      "brin_id": "21FV",
+      "distance": 66.91821687776638,
+      "brin_name": "Sint Odulphuslyceum Scholengemeenschap voor VWO en HAVO",
+      "brin_address": {
+        "street": "Noordhoekring",
+        "number": 99.0,
+        "number_addition": null,
+        "postcode": "5038GC",
+        "city": "TILBURG",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6905,
+      "brin_id": "21GZ",
+      "distance": 49.63332094087201,
+      "brin_name": "Kwadrant Scholengroep  RK Regionale Scholengemeenschap voor Vwo Havo en Vmbo",
+      "brin_address": {
+        "street": "Mgr. Schaepmanlaan",
+        "number": 13.0,
+        "number_addition": null,
+        "postcode": "5103BB",
+        "city": "DONGEN",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6917,
+      "brin_id": "16MQ",
+      "distance": 46.58946484318794,
+      "brin_name": "Koning Willem II College voor Lyc Havo Mavo",
+      "brin_address": {
+        "street": "Tatraweg",
+        "number": 80.0,
+        "number_addition": null,
+        "postcode": "5022DS",
+        "city": "TILBURG",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6924,
+      "brin_id": "09VG",
+      "distance": 0.2864965241828129,
+      "brin_name": "Onderwijsgroep Tilburg VMBO Reeshof, VMBO LWOO",
+      "brin_address": {
+        "street": "Warmondstraat",
+        "number": 240.0,
+        "number_addition": null,
+        "postcode": "5036BV",
+        "city": "TILBURG",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6930,
+      "brin_id": "25GC",
+      "distance": 32.08198865738832,
+      "brin_name": "Scholengemeenschap Breda voor Katholiek Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Emerweg",
+        "number": 29.0,
+        "number_addition": null,
+        "postcode": "4814NA",
+        "city": "BREDA",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6937,
+      "brin_id": "25GC",
+      "distance": 39.89797158292216,
+      "brin_name": "Scholengemeenschap Breda voor Katholiek Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Emerweg",
+        "number": 29.0,
+        "number_addition": null,
+        "postcode": "4814NA",
+        "city": "BREDA",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6938,
+      "brin_id": "25GC",
+      "distance": 55.64357111497081,
+      "brin_name": "Scholengemeenschap Breda voor Katholiek Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Emerweg",
+        "number": 29.0,
+        "number_addition": null,
+        "postcode": "4814NA",
+        "city": "BREDA",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6941,
+      "brin_id": "02GF",
+      "distance": 17.08693319643989,
+      "brin_name": "Mgr Frencken College voor Atheneum en Havo",
+      "brin_address": {
+        "street": "Slotlaan",
+        "number": 40.0,
+        "number_addition": null,
+        "postcode": "4902AE",
+        "city": "OOSTERHOUT NB",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6951,
+      "brin_id": "02XS",
+      "distance": 22.65974904874056,
+      "brin_name": "Altena College Christelijke Scholengemeenschap voor Atheneum Havo en Mavo",
+      "brin_address": {
+        "street": "Rijksstraatweg",
+        "number": 153.0,
+        "number_addition": null,
+        "postcode": "4254XD",
+        "city": "SLEEUWIJK",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6962,
+      "brin_id": "16ST",
+      "distance": 0.42492122945967364,
+      "brin_name": "Berger Scholengemeenschap voor vwo havo en mavo",
+      "brin_address": {
+        "street": "Rondelaan",
+        "number": 34.0,
+        "number_addition": null,
+        "postcode": "1861ED",
+        "city": "BERGEN NH",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6965,
+      "brin_id": "19ZX",
+      "distance": 33.108567463686136,
+      "brin_name": "Huygens College Heerhugowaard voor vwo havo mavo en vbo",
+      "brin_address": {
+        "street": "Middenweg",
+        "number": 68.0,
+        "number_addition": null,
+        "postcode": "1703RD",
+        "city": "HEERHUGOWAARD",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6972,
+      "brin_id": "20DD",
+      "distance": 0.4037189232092049,
+      "brin_name": "Gemeentelijk Gymnasium",
+      "brin_address": {
+        "street": "Vaartweg",
+        "number": 54.0,
+        "number_addition": null,
+        "postcode": "1217SV",
+        "city": "HILVERSUM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6978,
+      "brin_id": "16PN",
+      "distance": 0.1644557795540208,
+      "brin_name": "Joodse Scholengemeenschap Maimonides voor Ath Mavo En Afd Havo",
+      "brin_address": {
+        "street": "Noordbrabantstraat",
+        "number": 17.0,
+        "number_addition": null,
+        "postcode": "1083BE",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6990,
+      "brin_id": "16KP",
+      "distance": 28.84746126642949,
+      "brin_name": "Openbare Scholengemeensschap Texel voor Ath Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Haffelderweg",
+        "number": 40.0,
+        "number_addition": null,
+        "postcode": "1791AS",
+        "city": "DEN BURG",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 6999,
+      "brin_id": "14RL",
+      "distance": 79.63944538270803,
+      "brin_name": "Voortgezet Onderwijs van Amsterdam voor Vbo, Lwoo en Praktijkonderwijs",
+      "brin_address": {
+        "street": "Foekje Dillemastraat",
+        "number": 116.0,
+        "number_addition": null,
+        "postcode": "1095MK",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7003,
+      "brin_id": "00UM",
+      "distance": 32.077351454021986,
+      "brin_name": "Erfgooiers College mavo havo vwo",
+      "brin_address": {
+        "street": "Graaf Wichman",
+        "number": 175.0,
+        "number_addition": null,
+        "postcode": "1276KD",
+        "city": "HUIZEN",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7014,
+      "brin_id": "01BU",
+      "distance": 62.64535646957177,
+      "brin_name": "Sint Aloysiusschool voor Mavo",
+      "brin_address": {
+        "street": "Prins Bernhardstraat",
+        "number": 160.0,
+        "number_addition": null,
+        "postcode": "1211GK",
+        "city": "HILVERSUM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7017,
+      "brin_id": "17VF",
+      "distance": 80.83510191125836,
+      "brin_name": "Scholengemeenschap ZAAM Noord voor Vwo Havo Mavo Vbo",
+      "brin_address": {
+        "street": "Rode Kruisstraat",
+        "number": 83.0,
+        "number_addition": null,
+        "postcode": "1025KM",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7020,
+      "brin_id": "02UB",
+      "distance": 10.748757996921954,
+      "brin_name": "St Vituscollege Bussum/Naarden",
+      "brin_address": {
+        "street": "Beerensteinerlaan",
+        "number": 69.0,
+        "number_addition": null,
+        "postcode": "1406NR",
+        "city": "BUSSUM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7022,
+      "brin_id": "00PS",
+      "distance": 0.2864510615349711,
+      "brin_name": "Alberdingk Thijm Scholen Vwo, Havo, Mavo, Vbo, LWOO",
+      "brin_address": {
+        "street": "Emmastraat",
+        "number": 56.0,
+        "number_addition": "-58",
+        "postcode": "1213AL",
+        "city": "HILVERSUM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7033,
+      "brin_id": "02AN",
+      "distance": 5.381861247325535,
+      "brin_name": "Fons Vitae Lyceum voor havo en vwo",
+      "brin_address": {
+        "street": "Reijnier Vinkeleskade",
+        "number": 53.0,
+        "number_addition": null,
+        "postcode": "1071SW",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7037,
+      "brin_id": "01BU",
+      "distance": 13.326411166277648,
+      "brin_name": "Sint Aloysiusschool voor Mavo",
+      "brin_address": {
+        "street": "Prins Bernhardstraat",
+        "number": 160.0,
+        "number_addition": null,
+        "postcode": "1211GK",
+        "city": "HILVERSUM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7040,
+      "brin_id": "01EO",
+      "distance": 80.6205376222879,
+      "brin_name": "Da Vinci College School voor mavo/havo, havo, vwo, tweetalig ond. en technasium",
+      "brin_address": {
+        "street": "Johanna Naberstraat",
+        "number": 218.0,
+        "number_addition": null,
+        "postcode": "1442BG",
+        "city": "PURMEREND",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7041,
+      "brin_id": "01EO",
+      "distance": 80.6205376222879,
+      "brin_name": "Da Vinci College School voor mavo/havo, havo, vwo, tweetalig ond. en technasium",
+      "brin_address": {
+        "street": "Johanna Naberstraat",
+        "number": 218.0,
+        "number_addition": null,
+        "postcode": "1442BG",
+        "city": "PURMEREND",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7046,
+      "brin_id": "01EO",
+      "distance": 0.12239507298149295,
+      "brin_name": "Da Vinci College School voor mavo/havo, havo, vwo, tweetalig ond. en technasium",
+      "brin_address": {
+        "street": "Johanna Naberstraat",
+        "number": 218.0,
+        "number_addition": null,
+        "postcode": "1442BG",
+        "city": "PURMEREND",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7048,
+      "brin_id": "20MH",
+      "distance": 12.72576412714307,
+      "brin_name": "Jac P Thijsse College voor Vwo Havo Mavo",
+      "brin_address": {
+        "street": "De Bloemen",
+        "number": 65.0,
+        "number_addition": null,
+        "postcode": "1902GT",
+        "city": "CASTRICUM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7059,
+      "brin_id": "01LZ",
+      "distance": 17.32705785631544,
+      "brin_name": "Scholengemeenschap Eerste Christelijk Lyceum Vwo en Havo",
+      "brin_address": {
+        "street": "Zuider Emmakade",
+        "number": 43.0,
+        "number_addition": null,
+        "postcode": "2012KN",
+        "city": "HAARLEM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7061,
+      "brin_id": "03RU",
+      "distance": 0.36034265321472,
+      "brin_name": "Herbert Vissers College Christelijke Scholengemeensch. voor Lyceum Havo Mavo Vbo",
+      "brin_address": {
+        "street": "Beurtschipper",
+        "number": 200.0,
+        "number_addition": null,
+        "postcode": "2152LG",
+        "city": "NIEUW-VENNEP",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7064,
+      "brin_id": "17HH",
+      "distance": 0.15206115307323329,
+      "brin_name": "Haemstede Barger MAVO",
+      "brin_address": {
+        "street": "Koediefslaan",
+        "number": 73.0,
+        "number_addition": null,
+        "postcode": "2101BT",
+        "city": "HEEMSTEDE",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7078,
+      "brin_id": "01TC",
+      "distance": 15.885159502649786,
+      "brin_name": "Scholengemeenschap voor Vwo Havo Mavo Het Hervormd Lyceum",
+      "brin_address": {
+        "street": "Hemsterhuisstraat",
+        "number": 79.0,
+        "number_addition": null,
+        "postcode": "1065JX",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7082,
+      "brin_id": "16TS",
+      "distance": 0.27753780270495204,
+      "brin_name": "Vrije School Noord Holland voor Atheneum Havo Mavo",
+      "brin_address": {
+        "street": "Fred. Roeskestraat",
+        "number": 84.0,
+        "number_addition": null,
+        "postcode": "1076ED",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7085,
+      "brin_id": "20CN",
+      "distance": 57.51156748282585,
+      "brin_name": "Scholengroep Zaandam voor vwo havo mavo vmbo lwoo",
+      "brin_address": {
+        "street": "Vincent van Goghweg",
+        "number": 42.0,
+        "number_addition": null,
+        "postcode": "1506JD",
+        "city": "ZAANDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7093,
+      "brin_id": "29YT",
+      "distance": 0.3236296242228363,
+      "brin_name": "Zuiderzee College voor VMBO",
+      "brin_address": {
+        "street": "Zuiderzee",
+        "number": 200.0,
+        "number_addition": null,
+        "postcode": "1503HZ",
+        "city": "ZAANDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7096,
+      "brin_id": "20EY",
+      "distance": 0.4606298232483439,
+      "brin_name": "Scholengroep Krommenie voor Vwo Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Erasmusstraat",
+        "number": 28.0,
+        "number_addition": null,
+        "postcode": "1561KD",
+        "city": "KROMMENIE",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7099,
+      "brin_id": "20EK",
+      "distance": 86.43715135006585,
+      "brin_name": "Openbare Scholengemeenschap Vellesan College Ath Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Briniostraat",
+        "number": 16.0,
+        "number_addition": null,
+        "postcode": "1971HM",
+        "city": "IJMUIDEN",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7102,
+      "brin_id": "20EK",
+      "distance": 86.23850249660849,
+      "brin_name": "Openbare Scholengemeenschap Vellesan College Ath Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Briniostraat",
+        "number": 16.0,
+        "number_addition": null,
+        "postcode": "1971HM",
+        "city": "IJMUIDEN",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7117,
+      "brin_id": "20EK",
+      "distance": 67.89667695104222,
+      "brin_name": "Openbare Scholengemeenschap Vellesan College Ath Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Briniostraat",
+        "number": 16.0,
+        "number_addition": null,
+        "postcode": "1971HM",
+        "city": "IJMUIDEN",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7123,
+      "brin_id": "20EK",
+      "distance": 0.025619377115829456,
+      "brin_name": "Openbare Scholengemeenschap Vellesan College Ath Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Briniostraat",
+        "number": 16.0,
+        "number_addition": null,
+        "postcode": "1971HM",
+        "city": "IJMUIDEN",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7130,
+      "brin_id": "21GD",
+      "distance": 19.385376398758456,
+      "brin_name": "Calandlyceum voor Gymnasium Atheneum Havo Vmbo",
+      "brin_address": {
+        "street": "Pieter Calandlaan",
+        "number": 182.0,
+        "number_addition": null,
+        "postcode": "1068NT",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7131,
+      "brin_id": "00EF",
+      "distance": 0.4608445707852486,
+      "brin_name": "Voortgezet Onderwijs van Amsterdam voor Vbo en Lwoo",
+      "brin_address": {
+        "street": "Betuwestraat",
+        "number": 29.0,
+        "number_addition": null,
+        "postcode": "1079PR",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7133,
+      "brin_id": "21AS",
+      "distance": 0.400320019860214,
+      "brin_name": "Voortgezet Onderwijs van Amsterdam voor Lyceum Havo Mavo Vbo en Lwoo",
+      "brin_address": {
+        "street": "Meeuwenlaan",
+        "number": 132.0,
+        "number_addition": null,
+        "postcode": "1022AM",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7135,
+      "brin_id": "14RL",
+      "distance": 0.39271395189925007,
+      "brin_name": "Voortgezet Onderwijs van Amsterdam voor Vbo, Lwoo en Praktijkonderwijs",
+      "brin_address": {
+        "street": "Foekje Dillemastraat",
+        "number": 116.0,
+        "number_addition": null,
+        "postcode": "1095MK",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7136,
+      "brin_id": "21AS",
+      "distance": 0.400320019860214,
+      "brin_name": "Voortgezet Onderwijs van Amsterdam voor Lyceum Havo Mavo Vbo en Lwoo",
+      "brin_address": {
+        "street": "Meeuwenlaan",
+        "number": 132.0,
+        "number_addition": null,
+        "postcode": "1022AM",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7138,
+      "brin_id": "21AS",
+      "distance": 0.400320019860214,
+      "brin_name": "Voortgezet Onderwijs van Amsterdam voor Lyceum Havo Mavo Vbo en Lwoo",
+      "brin_address": {
+        "street": "Meeuwenlaan",
+        "number": 132.0,
+        "number_addition": null,
+        "postcode": "1022AM",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7144,
+      "brin_id": "19XY",
+      "distance": 0.44349462387401367,
+      "brin_name": "Amstelveen College Opb Ssm voor Gymnasium Havo en Mavo",
+      "brin_address": {
+        "street": "Sportlaan",
+        "number": 27.0,
+        "number_addition": null,
+        "postcode": "1185TB",
+        "city": "AMSTELVEEN",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7162,
+      "brin_id": "17VF",
+      "distance": 18.351899873669648,
+      "brin_name": "Scholengemeenschap ZAAM Noord voor Vwo Havo Mavo Vbo",
+      "brin_address": {
+        "street": "Rode Kruisstraat",
+        "number": 83.0,
+        "number_addition": null,
+        "postcode": "1025KM",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7163,
+      "brin_id": "21ET",
+      "distance": 0.4369412661839771,
+      "brin_name": "Scholengemeenschap ZAAM Zuid voor Vwo Havo Mavo Vbo",
+      "brin_address": {
+        "street": "Gerrit van der Veenstr",
+        "number": 99.0,
+        "number_addition": null,
+        "postcode": "1077DT",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7174,
+      "brin_id": "31BL",
+      "distance": 9.169768098827179,
+      "brin_name": "De Amsterdamse Mavo & Havo",
+      "brin_address": {
+        "street": "Linnaeushof",
+        "number": 48.0,
+        "number_addition": null,
+        "postcode": "1098KM",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7176,
+      "brin_id": "31KZ",
+      "distance": 0.10935175027552287,
+      "brin_name": "Pvo Hoorn voor havo en vwo",
+      "brin_address": {
+        "street": "Blauwe Berg",
+        "number": 13.0,
+        "number_addition": null,
+        "postcode": "1625NT",
+        "city": "HOORN NH",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7177,
+      "brin_id": "31GM",
+      "distance": 0.12429939031521954,
+      "brin_name": "Cornelius Haga Lyceum, Islamitische Scholengemeenschap voor mavo havo en vwo",
+      "brin_address": {
+        "street": "Naritaweg",
+        "number": 30.0,
+        "number_addition": null,
+        "postcode": "1043BZ",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7179,
+      "brin_id": "16KP",
+      "distance": 28.84746126642949,
+      "brin_name": "Openbare Scholengemeensschap Texel voor Ath Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Haffelderweg",
+        "number": 40.0,
+        "number_addition": null,
+        "postcode": "1791AS",
+        "city": "DEN BURG",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7185,
+      "brin_id": "14VG",
+      "distance": 0.2006885174008997,
+      "brin_name": "Alkwin Kollege Rooms Katholieke Scholengemeenschap voor Vwo en Havo",
+      "brin_address": {
+        "street": "Weegbree",
+        "number": 55.0,
+        "number_addition": null,
+        "postcode": "1422MT",
+        "city": "UITHOORN",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7252,
+      "brin_id": "19HG",
+      "distance": 0.414251895368533,
+      "brin_name": "Scholengroep Carmel Hengelo voor GYM ATH HAVO MAVO VBO",
+      "brin_address": {
+        "street": "Woolderesweg",
+        "number": 130.0,
+        "number_addition": null,
+        "postcode": "7555LC",
+        "city": "HENGELO OV",
+        "province": "Overijssel"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7256,
+      "brin_id": "18CR",
+      "distance": 52.00522354639958,
+      "brin_name": "PC/RK Scholengemeenschap De Grundel voor Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Grundellaan",
+        "number": 36.0,
+        "number_addition": null,
+        "postcode": "7552ED",
+        "city": "HENGELO OV",
+        "province": "Overijssel"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7259,
+      "brin_id": "02DO",
+      "distance": 0.268139126033394,
+      "brin_name": "Protestants Scholengemeenschap Het Noordik voor Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Noordikslaan",
+        "number": 68.0,
+        "number_addition": null,
+        "postcode": "7602CG",
+        "city": "ALMELO",
+        "province": "Overijssel"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7277,
+      "brin_id": "04HR",
+      "distance": 28.04106410625029,
+      "brin_name": "Openbare Scholengemeenschap Erasmus Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Sluiskade Noordzijde",
+        "number": 68.0,
+        "number_addition": null,
+        "postcode": "7602HT",
+        "city": "ALMELO",
+        "province": "Overijssel"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7302,
+      "brin_id": "00AH",
+      "distance": 0.4586259974993804,
+      "brin_name": "Het Stedelijk Kottenpark praktijkonderwijs, vmbo, havo, atheneum en gymnasium",
+      "brin_address": {
+        "street": "Lyceumlaan",
+        "number": 30.0,
+        "number_addition": null,
+        "postcode": "7522GK",
+        "city": "ENSCHEDE",
+        "province": "Overijssel"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7309,
+      "brin_id": "20CS",
+      "distance": 13.47865283444584,
+      "brin_name": "OSG Hengelo voor LYC HAVO MAVO VBO LWOO",
+      "brin_address": {
+        "street": "Sloetsweg",
+        "number": 155.0,
+        "number_addition": null,
+        "postcode": "7556HM",
+        "city": "HENGELO OV",
+        "province": "Overijssel"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7311,
+      "brin_id": "20CS",
+      "distance": 95.9054096263494,
+      "brin_name": "OSG Hengelo voor LYC HAVO MAVO VBO LWOO",
+      "brin_address": {
+        "street": "Sloetsweg",
+        "number": 155.0,
+        "number_addition": null,
+        "postcode": "7556HM",
+        "city": "HENGELO OV",
+        "province": "Overijssel"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7320,
+      "brin_id": "20CF",
+      "distance": 0.25124552468220435,
+      "brin_name": "Gymnasium Celeanum",
+      "brin_address": {
+        "street": "Zoom",
+        "number": 37.0,
+        "number_addition": null,
+        "postcode": "8032EM",
+        "city": "ZWOLLE",
+        "province": "Overijssel"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7326,
+      "brin_id": "31LB",
+      "distance": 9.037533429773395,
+      "brin_name": "Pvo Deventer voor havo en vwo",
+      "brin_address": {
+        "street": "Zwolseweg",
+        "number": 96.0,
+        "number_addition": null,
+        "postcode": "7412AR",
+        "city": "DEVENTER",
+        "province": "Overijssel"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7337,
+      "brin_id": "00JT",
+      "distance": 0.35219679864950726,
+      "brin_name": "Gereformeerde Scholengemeenschap Guido voor Lyceum HAVO MAVO VBO LWOO",
+      "brin_address": {
+        "street": "Paladijnenweg",
+        "number": 251.0,
+        "number_addition": null,
+        "postcode": "3813DH",
+        "city": "AMERSFOORT",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7338,
+      "brin_id": "00MK",
+      "distance": 39.38127362388532,
+      "brin_name": "Katholiek Scholengemeenschap De Breul voor Gymnasium Atheneum Havo en Mavo",
+      "brin_address": {
+        "street": "Arnhemse Bovenweg",
+        "number": 98.0,
+        "number_addition": null,
+        "postcode": "3708AG",
+        "city": "ZEIST",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7347,
+      "brin_id": "03OY",
+      "distance": 0.22798292126422798,
+      "brin_name": "Niftarlake College Christelijke Scholengemeenschap voor Atheneum Havo Mavo",
+      "brin_address": {
+        "street": "Pauwenkamp",
+        "number": 151.0,
+        "number_addition": null,
+        "postcode": "3607GK",
+        "city": "MAARSSEN",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7348,
+      "brin_id": "03OY",
+      "distance": 74.19645925828168,
+      "brin_name": "Niftarlake College Christelijke Scholengemeenschap voor Atheneum Havo Mavo",
+      "brin_address": {
+        "street": "Pauwenkamp",
+        "number": 151.0,
+        "number_addition": null,
+        "postcode": "3607GK",
+        "city": "MAARSSEN",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7359,
+      "brin_id": "02VR",
+      "distance": 0.3419188728717231,
+      "brin_name": "Christelijk Lyceum Zeist voor VWO HAVO MAVO VMBO LWOO",
+      "brin_address": {
+        "street": "Lindenlaan",
+        "number": 23.0,
+        "number_addition": null,
+        "postcode": "3707EP",
+        "city": "ZEIST",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7370,
+      "brin_id": "14RC",
+      "distance": 0.0741705827961919,
+      "brin_name": "Meerscholen - chr sg voor lyceum havo mavo vmbo",
+      "brin_address": {
+        "street": "Paladijnenweg",
+        "number": 101.0,
+        "number_addition": null,
+        "postcode": "3813DC",
+        "city": "AMERSFOORT",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7380,
+      "brin_id": "04IX",
+      "distance": 26.34681886530594,
+      "brin_name": "Kalsbeek College Christelijke Scholengemeenschap voor Vmbo, Havo, Ath. en Gymn.",
+      "brin_address": {
+        "street": "Jozef Israelslaan",
+        "number": 56.0,
+        "number_addition": null,
+        "postcode": "3443CT",
+        "city": "WOERDEN",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7381,
+      "brin_id": "00YO",
+      "distance": 10.09389852684323,
+      "brin_name": "Protestants Christelijk Mavo Waldheim",
+      "brin_address": {
+        "street": "Torenlaan",
+        "number": 81.0,
+        "number_addition": null,
+        "postcode": "3742CS",
+        "city": "BAARN",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7382,
+      "brin_id": "01NZ",
+      "distance": 0.2432096216430899,
+      "brin_name": "Christelijk College Griftland School voor Atheneum Havo en Mavo",
+      "brin_address": {
+        "street": "Noorderweg",
+        "number": 79.0,
+        "number_addition": null,
+        "postcode": "3761EV",
+        "city": "SOEST",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7391,
+      "brin_id": "27DG",
+      "distance": 0.6106186219571418,
+      "brin_name": "de Passie, Evangelische School voor Vmbo-tl, Havo, Vwo",
+      "brin_address": {
+        "street": "Zwarte Woud",
+        "number": 211.0,
+        "number_addition": null,
+        "postcode": "3524SG",
+        "city": "UTRECHT",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7394,
+      "brin_id": "20EI",
+      "distance": 0.30598481499392644,
+      "brin_name": "Vallei College voor Ath Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Paladijnenweg",
+        "number": 611.0,
+        "number_addition": null,
+        "postcode": "3813KD",
+        "city": "AMERSFOORT",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7395,
+      "brin_id": "20EA",
+      "distance": 21.847433090660928,
+      "brin_name": "Openbaar lyceum De Amersfoortse Berg",
+      "brin_address": {
+        "street": "Hooglandseweg-Noord",
+        "number": 55.0,
+        "number_addition": null,
+        "postcode": "3813VD",
+        "city": "AMERSFOORT",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7425,
+      "brin_id": "03WO",
+      "distance": 0.46138293962677607,
+      "brin_name": "Van Lodensteincollege Scholengemeenschap voor Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Utrechtseweg",
+        "number": 228.0,
+        "number_addition": null,
+        "postcode": "3818ET",
+        "city": "AMERSFOORT",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7427,
+      "brin_id": "17HX",
+      "distance": 0.5112217651899325,
+      "brin_name": "Mgr A E Rientjes Mavo",
+      "brin_address": {
+        "street": "Valkenkamp",
+        "number": 551.0,
+        "number_addition": null,
+        "postcode": "3607MJ",
+        "city": "MAARSSEN",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7432,
+      "brin_id": "22NE",
+      "distance": 0.2805978723949948,
+      "brin_name": "College de Heemlanden School voor havo en atheneum",
+      "brin_address": {
+        "street": "De Slinger",
+        "number": 48.0,
+        "number_addition": null,
+        "postcode": "3995DE",
+        "city": "HOUTEN",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7436,
+      "brin_id": "17XU",
+      "distance": 0.2848029897530947,
+      "brin_name": "Heerenlanden College",
+      "brin_address": {
+        "street": "Eksterlaan",
+        "number": 48.0,
+        "number_addition": null,
+        "postcode": "4143AC",
+        "city": "LEERDAM",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7438,
+      "brin_id": "02TG",
+      "distance": 37.755068934180976,
+      "brin_name": "Het Baarnsch Lyceum",
+      "brin_address": {
+        "street": "Torenlaan",
+        "number": 83.0,
+        "number_addition": null,
+        "postcode": "3742CS",
+        "city": "BAARN",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7441,
+      "brin_id": "02VM",
+      "distance": 0.24445794271824764,
+      "brin_name": "Christelijk Lyceum Scholengemeenschap voor Mavo Havo Lyceum",
+      "brin_address": {
+        "street": "Kerkewijk",
+        "number": 149.0,
+        "number_addition": null,
+        "postcode": "3904JC",
+        "city": "VEENENDAAL",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7457,
+      "brin_id": "03XS",
+      "distance": 66.1911175405595,
+      "brin_name": "Christelijke Scholengem. Walcheren voor Vmbo, Mavo, Havo, Atheneum en Gymnasium",
+      "brin_address": {
+        "street": "Griffioenstraat",
+        "number": 17.0,
+        "number_addition": null,
+        "postcode": "4334BK",
+        "city": "MIDDELBURG",
+        "province": "Zeeland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7458,
+      "brin_id": "13OR",
+      "distance": 8.50949755899526,
+      "brin_name": "Pontes voor Lyceum Atheneum Havo Mavo Vbo Pro en Lwoo",
+      "brin_address": {
+        "street": "Oranjeweg",
+        "number": 90.0,
+        "number_addition": null,
+        "postcode": "4461LR",
+        "city": "GOES",
+        "province": "Zeeland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7472,
+      "brin_id": "29ZT",
+      "distance": 20.202028479209048,
+      "brin_name": "Pvo Kapelle - Isaac Beeckman Academie voor vwo en havo",
+      "brin_address": {
+        "street": "Stationsstraat",
+        "number": 51.0,
+        "number_addition": null,
+        "postcode": "4421AK",
+        "city": "KAPELLE",
+        "province": "Zeeland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7473,
+      "brin_id": "00AQ",
+      "distance": 0.38475743181201216,
+      "brin_name": "Zwin College Scholengemeenschap voor Vmbo Havo Atheneum Gymnasium",
+      "brin_address": {
+        "street": "Nieuwstraat",
+        "number": 50.0,
+        "number_addition": null,
+        "postcode": "4501BE",
+        "city": "OOSTBURG",
+        "province": "Zeeland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7481,
+      "brin_id": "14QT",
+      "distance": 0.15138797523044747,
+      "brin_name": "Marnix Gymnasium",
+      "brin_address": {
+        "street": "Essenburgsingel",
+        "number": 58.0,
+        "number_addition": null,
+        "postcode": "3022EA",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7483,
+      "brin_id": "16PK",
+      "distance": 1.2902397880817413,
+      "brin_name": "Portus Scholengroep vwo havo mavo vmbo lwoo, locatie Meridiem",
+      "brin_address": {
+        "street": "Grift",
+        "number": 30.0,
+        "number_addition": null,
+        "postcode": "3075SB",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7486,
+      "brin_id": "17VC",
+      "distance": 1.8501967994018116,
+      "brin_name": "Christelijke Scholengemeenschap Maarten Luther voor Ath Havo En Mavo",
+      "brin_address": {
+        "street": "Roerdomplaan",
+        "number": 42.0,
+        "number_addition": null,
+        "postcode": "3084NM",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7490,
+      "brin_id": "18CH",
+      "distance": 0.16861065839697778,
+      "brin_name": "Melanchthon Christelijke Scholengemeenschap voor gymnasium atheneum havo en vmbo",
+      "brin_address": {
+        "street": "Van Bijnkershoekweg",
+        "number": 97.0,
+        "number_addition": null,
+        "postcode": "3052PB",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7498,
+      "brin_id": "20AM",
+      "distance": 0.5035277655094315,
+      "brin_name": "Portus Scholengroep Farelcollege vwo havo mavo vmbo Iwoo",
+      "brin_address": {
+        "street": "Kastanjelaan",
+        "number": 50.0,
+        "number_addition": null,
+        "postcode": "2982CM",
+        "city": "RIDDERKERK",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7500,
+      "brin_id": "20FR",
+      "distance": 0.3860483380172353,
+      "brin_name": "Scholengroep Penta voor gymnasium atheneum havo mavo vmbo lwoo",
+      "brin_address": {
+        "street": "Curieweg",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "3208KJ",
+        "city": "SPIJKENISSE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7506,
+      "brin_id": "20FR",
+      "distance": 0.3860483380172353,
+      "brin_name": "Scholengroep Penta voor gymnasium atheneum havo mavo vmbo lwoo",
+      "brin_address": {
+        "street": "Curieweg",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "3208KJ",
+        "city": "SPIJKENISSE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7520,
+      "brin_id": "02DZ",
+      "distance": 6.364158220236179,
+      "brin_name": "Stanislascollege Delft voor RK vmbo havo atheneum en gymnasium",
+      "brin_address": {
+        "street": "Westplantsoen",
+        "number": 71.0,
+        "number_addition": null,
+        "postcode": "2613GK",
+        "city": "DELFT",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7528,
+      "brin_id": "02GJ",
+      "distance": 0.2327755685811076,
+      "brin_name": "Christelijk College De Populier voor vwo, havo, mavo",
+      "brin_address": {
+        "street": "Populierstraat",
+        "number": 109.0,
+        "number_addition": null,
+        "postcode": "2565MK",
+        "city": "'S-GRAVENHAGE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7530,
+      "brin_id": "14TA",
+      "distance": 0.963141035163976,
+      "brin_name": "Christelijk Lyceum Zandvliet voor Lyceum en Havo",
+      "brin_address": {
+        "street": "Bezuidenhoutseweg",
+        "number": 40.0,
+        "number_addition": null,
+        "postcode": "2594AW",
+        "city": "'S-GRAVENHAGE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7532,
+      "brin_id": "20MM",
+      "distance": 47.550984349630625,
+      "brin_name": "Lucas VO Den Haag Zuid-West voor algemeen bijzonder vwo, havo, mavo, vmbo",
+      "brin_address": {
+        "street": "Beresteinlaan",
+        "number": 627.0,
+        "number_addition": null,
+        "postcode": "2542JR",
+        "city": "'S-GRAVENHAGE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7536,
+      "brin_id": "21GU",
+      "distance": 5.398925920503846,
+      "brin_name": "Esloo VO voor bijzonder vwo havo mavo vmbo pro",
+      "brin_address": {
+        "street": "Louis Couperusplein",
+        "number": 33.0,
+        "number_addition": null,
+        "postcode": "2514HP",
+        "city": "'S-GRAVENHAGE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7543,
+      "brin_id": "21HC",
+      "distance": 1.9007700855423257,
+      "brin_name": "Interconfessionele Scholengroep Westland voor Lyceum Havo Mavo Vbo Lwoo PrO",
+      "brin_address": {
+        "street": "Professor Holwerdalaan",
+        "number": 54.0,
+        "number_addition": null,
+        "postcode": "2672LD",
+        "city": "NAALDWIJK",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7570,
+      "brin_id": "17WQ",
+      "distance": 63.22499827601101,
+      "brin_name": "Lentiz onderwijsgroep",
+      "brin_address": {
+        "street": "Rotterdamseweg",
+        "number": 55.0,
+        "number_addition": null,
+        "postcode": "3135PT",
+        "city": "VLAARDINGEN",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7585,
+      "brin_id": "02LG",
+      "distance": 0.3446753168813894,
+      "brin_name": "Carmelcollege Gouda voor tto gym ath havo mavo vmbo lwoo eoa",
+      "brin_address": {
+        "street": "Groen van Prinsterersngl",
+        "number": 49.0,
+        "number_addition": null,
+        "postcode": "2805TD",
+        "city": "GOUDA",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7587,
+      "brin_id": "14WJ",
+      "distance": 34.77721877992366,
+      "brin_name": "Het Vlietland College Scholengemeenschap voor Vwo Havo Mavo",
+      "brin_address": {
+        "street": "Apollolaan",
+        "number": 262.0,
+        "number_addition": null,
+        "postcode": "2324BZ",
+        "city": "LEIDEN",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7593,
+      "brin_id": "20BC",
+      "distance": 8.078782067736334,
+      "brin_name": "Oranje Nassau College Scholengemeenschap Ath Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Parkdreef",
+        "number": 282.0,
+        "number_addition": null,
+        "postcode": "2724EZ",
+        "city": "ZOETERMEER",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7595,
+      "brin_id": "04DF",
+      "distance": 80.2626519035347,
+      "brin_name": "Ashram College KSG voor vwo, havo, mavo en vbo",
+      "brin_address": {
+        "street": "Marsdiep",
+        "number": 293.0,
+        "number_addition": null,
+        "postcode": "2401XH",
+        "city": "ALPHEN AAN DEN RIJN",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7602,
+      "brin_id": "04DF",
+      "distance": 80.2626519035347,
+      "brin_name": "Ashram College KSG voor vwo, havo, mavo en vbo",
+      "brin_address": {
+        "street": "Marsdiep",
+        "number": 293.0,
+        "number_addition": null,
+        "postcode": "2401XH",
+        "city": "ALPHEN AAN DEN RIJN",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7610,
+      "brin_id": "23VD",
+      "distance": 0.36268715654086464,
+      "brin_name": "Broeckland College voor Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Engel de Ruijterstraat",
+        "number": 40.0,
+        "number_addition": null,
+        "postcode": "3621CV",
+        "city": "BREUKELEN",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7616,
+      "brin_id": "00PG",
+      "distance": 0.4472557325641846,
+      "brin_name": "Scholengroep Driestar-Wartburg - Guido de Br\u00e8s, Vwo, Havo, Mavo, Vbo, LWOO, Pro",
+      "brin_address": {
+        "street": "Smeetslandseweg",
+        "number": 127.0,
+        "number_addition": null,
+        "postcode": "3079CR",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7633,
+      "brin_id": "11AJ",
+      "distance": 0.09886480362747092,
+      "brin_name": "Scholengemeenschap Nieuw Rotterdam voor Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Beukelsdijk",
+        "number": 145.0,
+        "number_addition": null,
+        "postcode": "3022DC",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7634,
+      "brin_id": "20GC",
+      "distance": 0.2022542233228111,
+      "brin_name": "Lodewijk Rogier College",
+      "brin_address": {
+        "street": "Noordsingel",
+        "number": 72.0,
+        "number_addition": null,
+        "postcode": "3032BG",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7639,
+      "brin_id": "02VG",
+      "distance": 0.11962002939125714,
+      "brin_name": "Unie Noord",
+      "brin_address": {
+        "street": "Pieter de Hoochstraat",
+        "number": 29.0,
+        "number_addition": null,
+        "postcode": "3024CP",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7641,
+      "brin_id": "05XJ",
+      "distance": 17.405112580215892,
+      "brin_name": "Het Lyceum Rotterdam voor Vwo en Havo",
+      "brin_address": {
+        "street": "Beukelsdijk",
+        "number": 91.0,
+        "number_addition": null,
+        "postcode": "3021AE",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7663,
+      "brin_id": "00HI",
+      "distance": 47.265323316059,
+      "brin_name": "SGM Dalton College Voorburg voor Lyceum HAVO MAVO VBO LWOO",
+      "brin_address": {
+        "street": "Loolaan",
+        "number": 125.0,
+        "number_addition": null,
+        "postcode": "2271TM",
+        "city": "VOORBURG",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7669,
+      "brin_id": "31EW",
+      "distance": 68.65618961750049,
+      "brin_name": "'s Gravendreef College voor vbo, mavo en havo",
+      "brin_address": {
+        "street": "Klaas Voskuildreef",
+        "number": 135.0,
+        "number_addition": null,
+        "postcode": "2492JJ",
+        "city": "'S-GRAVENHAGE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7673,
+      "brin_id": "31EW",
+      "distance": 0.45237914395780837,
+      "brin_name": "'s Gravendreef College voor vbo, mavo en havo",
+      "brin_address": {
+        "street": "Klaas Voskuildreef",
+        "number": 135.0,
+        "number_addition": null,
+        "postcode": "2492JJ",
+        "city": "'S-GRAVENHAGE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7676,
+      "brin_id": "31EW",
+      "distance": 95.68374066321542,
+      "brin_name": "'s Gravendreef College voor vbo, mavo en havo",
+      "brin_address": {
+        "street": "Klaas Voskuildreef",
+        "number": 135.0,
+        "number_addition": null,
+        "postcode": "2492JJ",
+        "city": "'S-GRAVENHAGE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7680,
+      "brin_id": "19ZP",
+      "distance": 0.2139466669322186,
+      "brin_name": "Maris College voor Mavo Vmbo Lwoo",
+      "brin_address": {
+        "street": "Mgr. Nolenslaan",
+        "number": 16.0,
+        "number_addition": null,
+        "postcode": "2555XZ",
+        "city": "'S-GRAVENHAGE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7695,
+      "brin_id": "20MJ",
+      "distance": 0.18892685830074954,
+      "brin_name": "Johan de Witt Scholengroep voor Vwo Havo Mavo Vmbo Pro Lwoo nieuwkomers",
+      "brin_address": {
+        "street": "Zusterstraat",
+        "number": 120.0,
+        "number_addition": null,
+        "postcode": "2512TP",
+        "city": "'S-GRAVENHAGE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7707,
+      "brin_id": "23KU",
+      "distance": 0.27212457718660943,
+      "brin_name": "Northgo College Openbare Scholengemeenschap voor Vmbo Havo Vwo",
+      "brin_address": {
+        "street": "Duinwetering",
+        "number": 107.0,
+        "number_addition": null,
+        "postcode": "2203HM",
+        "city": "NOORDWIJK ZH",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7710,
+      "brin_id": "24PY",
+      "distance": 0.10834688682008319,
+      "brin_name": "Stedelijk Dalton Lyceum voor Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Overkampweg",
+        "number": 125.0,
+        "number_addition": null,
+        "postcode": "3318AN",
+        "city": "DORDRECHT",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7717,
+      "brin_id": "06WY",
+      "distance": 55.198290180763294,
+      "brin_name": "Griendencollege voor VMBO",
+      "brin_address": {
+        "street": "Prof Kamerlingh Onnesln",
+        "number": 109.0,
+        "number_addition": null,
+        "postcode": "3362VE",
+        "city": "SLIEDRECHT",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7736,
+      "brin_id": "20CJ",
+      "distance": 16.804512761753834,
+      "brin_name": "Het College Vos",
+      "brin_address": {
+        "street": "Koninginnelaan",
+        "number": 771.0,
+        "number_addition": null,
+        "postcode": "3136EZ",
+        "city": "VLAARDINGEN",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7742,
+      "brin_id": "19KM",
+      "distance": 0.2706246799344696,
+      "brin_name": "Mavo Schravenlant XL voor mavo en vmbo",
+      "brin_address": {
+        "street": "Van Hogendorpstraat",
+        "number": 105.0,
+        "number_addition": null,
+        "postcode": "3118LG",
+        "city": "SCHIEDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7748,
+      "brin_id": "19DH",
+      "distance": 41.48822520928281,
+      "brin_name": "Openbare Scholengemeenschap De Ring van Putten voor Ath Havo Mavo",
+      "brin_address": {
+        "street": "Groenewoudlaan",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "3201LP",
+        "city": "SPIJKENISSE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7750,
+      "brin_id": "20FR",
+      "distance": 0.3860483380172353,
+      "brin_name": "Scholengroep Penta voor gymnasium atheneum havo mavo vmbo lwoo",
+      "brin_address": {
+        "street": "Curieweg",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "3208KJ",
+        "city": "SPIJKENISSE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7757,
+      "brin_id": "15HX",
+      "distance": 22.825337823536927,
+      "brin_name": "Thorbecke Talentschool Rotterdam mavo havo vwo",
+      "brin_address": {
+        "street": "Prinsenlaan",
+        "number": 82.0,
+        "number_addition": null,
+        "postcode": "3066KA",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7758,
+      "brin_id": "02LB",
+      "distance": 9.914194852782533,
+      "brin_name": "SNZ voor gymnasium, atheneum, havo, mavo vmbo, pro en lwoo",
+      "brin_address": {
+        "street": "Slaghekstraat",
+        "number": 221.0,
+        "number_addition": null,
+        "postcode": "3074LJ",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7760,
+      "brin_id": "15KR",
+      "distance": 0.43683337864339433,
+      "brin_name": "Wolfert van Borselen scholengroep",
+      "brin_address": {
+        "street": "Bentincklaan",
+        "number": 280.0,
+        "number_addition": null,
+        "postcode": "3039KK",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7762,
+      "brin_id": "14XZ",
+      "distance": 35.125924850760605,
+      "brin_name": "Caland Lyceum voor Vwo Havo Mavo",
+      "brin_address": {
+        "street": "Argonautenweg",
+        "number": 55.0,
+        "number_addition": null,
+        "postcode": "3054RP",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7767,
+      "brin_id": "15KR",
+      "distance": 94.20354361179203,
+      "brin_name": "Wolfert van Borselen scholengroep",
+      "brin_address": {
+        "street": "Bentincklaan",
+        "number": 280.0,
+        "number_addition": null,
+        "postcode": "3039KK",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7769,
+      "brin_id": "15SC",
+      "distance": 0.4512773262427919,
+      "brin_name": "Erasmianum Gemeente Gymnasium",
+      "brin_address": {
+        "street": "Wytemaweg",
+        "number": 25.0,
+        "number_addition": null,
+        "postcode": "3015CN",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7771,
+      "brin_id": "02GS",
+      "distance": 75.54197972991395,
+      "brin_name": "Scholengemeenschap Montessori Lyceum Rotterdam voor Gymnasium Atheneum en Havo",
+      "brin_address": {
+        "street": "Schimmelpenninckstraat",
+        "number": 17.0,
+        "number_addition": null,
+        "postcode": "3039KS",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7773,
+      "brin_id": "02IC",
+      "distance": 5.746507458918883,
+      "brin_name": "Regionale Scholengemeenschap Goeree-Overflakkee voor Vmbo",
+      "brin_address": {
+        "street": "Langeweg",
+        "number": 111.0,
+        "number_addition": null,
+        "postcode": "3245KG",
+        "city": "SOMMELSDIJK",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7774,
+      "brin_id": "02IC",
+      "distance": 5.746507458918883,
+      "brin_name": "Regionale Scholengemeenschap Goeree-Overflakkee voor Vmbo",
+      "brin_address": {
+        "street": "Langeweg",
+        "number": 111.0,
+        "number_addition": null,
+        "postcode": "3245KG",
+        "city": "SOMMELSDIJK",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7775,
+      "brin_id": "15QW",
+      "distance": 0.23989978097182954,
+      "brin_name": "Regionale Scholengemeenschap Goeree-Overflakkee voor Vwo Havo Mavo",
+      "brin_address": {
+        "street": "Koningin Julianaweg",
+        "number": 54.0,
+        "number_addition": null,
+        "postcode": "3241XC",
+        "city": "MIDDELHARNIS",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7777,
+      "brin_id": "20CL",
+      "distance": 13.740199603488902,
+      "brin_name": "Leonardo College voor Atheneum Havo Mavo",
+      "brin_address": {
+        "street": "Telderskade",
+        "number": 48.0,
+        "number_addition": null,
+        "postcode": "2321TE",
+        "city": "LEIDEN",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7783,
+      "brin_id": "08CU",
+      "distance": 0.5006395671203867,
+      "brin_name": "Emmauscollege Rooms Katholieke Scholengemeenschap voor Vwo en Havo",
+      "brin_address": {
+        "street": "Alexandriestraat",
+        "number": 40.0,
+        "number_addition": null,
+        "postcode": "3067MR",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7786,
+      "brin_id": "30WH",
+      "distance": 0.3651479954550544,
+      "brin_name": "Avicenna College voor vwo, havo, mavo en vbo",
+      "brin_address": {
+        "street": "Montessoriweg",
+        "number": 55.0,
+        "number_addition": null,
+        "postcode": "3083AN",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7788,
+      "brin_id": "30GD",
+      "distance": 0.4515185995542296,
+      "brin_name": "Stedelijk Gymnasium Socrates",
+      "brin_address": {
+        "street": "Nieuwe Marnixstraat",
+        "number": 90.0,
+        "number_addition": null,
+        "postcode": "2316ES",
+        "city": "LEIDEN",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7793,
+      "brin_id": "18TR",
+      "distance": 42.69307022720307,
+      "brin_name": "Onderwijsgr. Zuid-Hollandse Waarden gymnasium, atheneum, havo, mavo, vmbo, lwoo",
+      "brin_address": {
+        "street": "Prinses Margrietstraat",
+        "number": 163.0,
+        "number_addition": null,
+        "postcode": "2983ED",
+        "city": "RIDDERKERK",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "00OB",
+      "distance": 94.46849576040293,
+      "brin_name": "Maaswaal College voor Gymnasium Atheneum Havo Vmbo Lwoo",
+      "brin_address": {
+        "street": "Veenseweg",
+        "number": 18.0,
+        "number_addition": null,
+        "postcode": "6603AN",
+        "city": "WIJCHEN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "01GV",
+      "distance": 91.80993941114829,
+      "brin_name": "Mavoschool Sancta Maria",
+      "brin_address": {
+        "street": "Aartshertogenlaan",
+        "number": 108.0,
+        "number_addition": null,
+        "postcode": "5212CM",
+        "city": "'S-HERTOGENBOSCH",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "01XV",
+      "distance": 93.44205132194422,
+      "brin_name": "Christelijk College Henegouwen voor Atheneum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Henegouwerplein",
+        "number": 14.0,
+        "number_addition": "-16",
+        "postcode": "3021PM",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "02DQ",
+      "distance": 82.75404197666349,
+      "brin_name": "Christelijk Gymnasium Sorghvliet",
+      "brin_address": {
+        "street": "Johan de Wittlaan",
+        "number": 22.0,
+        "number_addition": null,
+        "postcode": "2517JR",
+        "city": "'S-GRAVENHAGE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "02FB",
+      "distance": 81.7492062431663,
+      "brin_name": "Christelijk College Nassau-Veluwe",
+      "brin_address": {
+        "street": "Stationslaan",
+        "number": 26.0,
+        "number_addition": null,
+        "postcode": "3842LA",
+        "city": "HARDERWIJK",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "02IS",
+      "distance": 91.60776789917942,
+      "brin_name": "Vakcollege Tilburg, sectoren Zorg & Welzijn en Techniek",
+      "brin_address": {
+        "street": "Reitse Hoevenstraat",
+        "number": 12.0,
+        "number_addition": null,
+        "postcode": "5042EH",
+        "city": "TILBURG",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "02MU",
+      "distance": 93.44205132194422,
+      "brin_name": "Sint Maartenscollege Scholengemeenschap voor Vwo Havo en Mavo Voorburg",
+      "brin_address": {
+        "street": "Aart van der Leeuwkade",
+        "number": 14.0,
+        "number_addition": null,
+        "postcode": "2274KX",
+        "city": "VOORBURG",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "02VC",
+      "distance": 98.10418531354408,
+      "brin_name": "Comenius Christelijke Scholengemeenschap voor Atheneum Havo Vmbo Lwoo Pro",
+      "brin_address": {
+        "street": "Achter de Hoven",
+        "number": 118.0,
+        "number_addition": null,
+        "postcode": "8933CR",
+        "city": "LEEUWARDEN",
+        "province": "Friesland"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "06HF",
+      "distance": 82.75404197666349,
+      "brin_name": "Udens College voor Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "President Kennedylaan",
+        "number": 22.0,
+        "number_addition": "b",
+        "postcode": "5402KD",
+        "city": "UDEN",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "06XL",
+      "distance": 94.46849576040293,
+      "brin_name": "Markland College Oudenbosch Katholieke SGM voor Gymn Ath Havo Mavo Vmbo",
+      "brin_address": {
+        "street": "Eikenlaan",
+        "number": 18.0,
+        "number_addition": null,
+        "postcode": "4731CR",
+        "city": "OUDENBOSCH",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "07KP",
+      "distance": 82.75404197666349,
+      "brin_name": "NXT Maarsbergen voor openbaar mavo, vmbo",
+      "brin_address": {
+        "street": "Woudenbergseweg",
+        "number": 22.0,
+        "number_addition": "A",
+        "postcode": "3953MG",
+        "city": "MAARSBERGEN",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "11ZH",
+      "distance": 93.44205132194422,
+      "brin_name": "Scholengemeenschap Maerlant College voor Lyceum Havo Mavo Vbo Lwoo",
+      "brin_address": {
+        "street": "Hossenbosdijk",
+        "number": 14.0,
+        "number_addition": "-16",
+        "postcode": "3232PX",
+        "city": "BRIELLE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "16TV",
+      "distance": 91.60776789917942,
+      "brin_name": "Vrije School Zuid-Holland voor Atheneum Havo Mavo",
+      "brin_address": {
+        "street": "Waalsdorperweg",
+        "number": 12.0,
+        "number_addition": null,
+        "postcode": "2597JB",
+        "city": "'S-GRAVENHAGE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "17CR",
+      "distance": 94.46849576040293,
+      "brin_name": "Einstein Lyceum Openbare Scholengemeenschap voor MAVO HAVO Atheneum en Gymnasium",
+      "brin_address": {
+        "street": "Campusplein",
+        "number": 18.0,
+        "number_addition": null,
+        "postcode": "3192CD",
+        "city": "HOOGVLIET ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "17YF",
+      "distance": 81.7492062431663,
+      "brin_name": "Het Zuiderpark College voor Mavo Vbo en Lwoo",
+      "brin_address": {
+        "street": "Montessoriweg",
+        "number": 26.0,
+        "number_addition": null,
+        "postcode": "3083AN",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "19LO",
+      "distance": 82.75404197666349,
+      "brin_name": "Linde College voor Atheneum Havo Mavo Vbo en Lwoo",
+      "brin_address": {
+        "street": "Drafsportlaan",
+        "number": 22.0,
+        "number_addition": null,
+        "postcode": "8472AS",
+        "city": "WOLVEGA",
+        "province": "Friesland"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "23UU",
+      "distance": 81.7492062431663,
+      "brin_name": "Brewinc College",
+      "brin_address": {
+        "street": "Zaagmolenpad",
+        "number": 26.0,
+        "number_addition": null,
+        "postcode": "7008AJ",
+        "city": "DOETINCHEM",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "24TF",
+      "distance": 91.80993941114829,
+      "brin_name": "Staring College Regionale Scholengemeenschap voor Ath Gymn Havo Vmbo",
+      "brin_address": {
+        "street": "Zutphenseweg",
+        "number": 108.0,
+        "number_addition": null,
+        "postcode": "7241SE",
+        "city": "LOCHEM",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "31CB",
+      "distance": 82.75404197666349,
+      "brin_name": "IBBO Chalcedoon",
+      "brin_address": {
+        "street": "Linthorst Homanstraat",
+        "number": 22.0,
+        "number_addition": null,
+        "postcode": "8384EE",
+        "city": "WILHELMINAOORD",
+        "province": "Drenthe"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "31LW",
+      "distance": 97.00560740569817,
+      "brin_name": "De Nieuwste School voor vwo havo mavo",
+      "brin_address": {
+        "street": "Sint Josephstraat",
+        "number": 106.0,
+        "number_addition": null,
+        "postcode": "5017GK",
+        "city": "TILBURG",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "31TZ",
+      "distance": 94.46849576040293,
+      "brin_name": "Wijsigers",
+      "brin_address": {
+        "street": "Zwaluwplein",
+        "number": 18.0,
+        "number_addition": null,
+        "postcode": "2771SC",
+        "city": "BOSKOOP",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "31UB",
+      "distance": 94.46849576040293,
+      "brin_name": "De Werfklas",
+      "brin_address": {
+        "street": "Nico Scheepmakerpad",
+        "number": 18.0,
+        "number_addition": null,
+        "postcode": "4103VG",
+        "city": "CULEMBORG",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7803,
+      "brin_id": "32AJ",
+      "distance": 82.75404197666349,
+      "brin_name": "Stichting voor Voortgezet Vrijeschool Onderwijs Delft Mercurius",
+      "brin_address": {
+        "street": "Molenstraat",
+        "number": 22.0,
+        "number_addition": null,
+        "postcode": "2611KA",
+        "city": "DELFT",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "postcode",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7809,
+      "brin_id": "01PU",
+      "distance": 2.810176261841966,
+      "brin_name": "Aloysiuscollege Katholiek Scholengemeenschap voor Vwo Havo en Mavo",
+      "brin_address": {
+        "street": "Oostduinlaan",
+        "number": 50.0,
+        "number_addition": null,
+        "postcode": "2596JP",
+        "city": "'S-GRAVENHAGE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7812,
+      "brin_id": "00VR",
+      "distance": 0.21298945219970303,
+      "brin_name": "St.- Jozefmavo",
+      "brin_address": {
+        "street": "Willem de Zwijgerlaan",
+        "number": 240.0,
+        "number_addition": null,
+        "postcode": "3136AX",
+        "city": "VLAARDINGEN",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7814,
+      "brin_id": "02GS",
+      "distance": 0.3836112431094055,
+      "brin_name": "Scholengemeenschap Montessori Lyceum Rotterdam voor Gymnasium Atheneum en Havo",
+      "brin_address": {
+        "street": "Schimmelpenninckstraat",
+        "number": 17.0,
+        "number_addition": null,
+        "postcode": "3039KS",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7818,
+      "brin_id": "31XT",
+      "distance": 0.4093350329857181,
+      "brin_name": "Duinzigt Havo",
+      "brin_address": {
+        "street": "Wijttenbachweg",
+        "number": 23.0,
+        "number_addition": null,
+        "postcode": "2341VX",
+        "city": "OEGSTGEEST",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7821,
+      "brin_id": "31XT",
+      "distance": 0.4093350329857181,
+      "brin_name": "Duinzigt Havo",
+      "brin_address": {
+        "street": "Wijttenbachweg",
+        "number": 23.0,
+        "number_addition": null,
+        "postcode": "2341VX",
+        "city": "OEGSTGEEST",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7838,
+      "brin_id": "02UG",
+      "distance": 0.3033622971088908,
+      "brin_name": "Laurens Lyceum voor Vwo en Havo",
+      "brin_address": {
+        "street": "Voorhout",
+        "number": 100.0,
+        "number_addition": null,
+        "postcode": "3055ES",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7839,
+      "brin_id": "14WE",
+      "distance": 75.58975371744454,
+      "brin_name": "S. Adelbert College voor VMBO-T - Havo - VWO - Gymnasium",
+      "brin_address": {
+        "street": "Deijlerweg",
+        "number": 163.0,
+        "number_addition": null,
+        "postcode": "2241AE",
+        "city": "WASSENAAR",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7841,
+      "brin_id": "01MB",
+      "distance": 37.25554657962761,
+      "brin_name": "Rooms Katholiek Alfrink College Scholengemeenschap voor Atheneum en Havo",
+      "brin_address": {
+        "street": "Werflaan",
+        "number": 45.0,
+        "number_addition": null,
+        "postcode": "2725DE",
+        "city": "ZOETERMEER",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7959,
+      "brin_id": "31MJ",
+      "distance": 61.619283815219774,
+      "brin_name": "Infinity College",
+      "brin_address": {
+        "street": "Schiekade",
+        "number": 830.0,
+        "number_addition": null,
+        "postcode": "3032AL",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    }
+  ],
+  "statistics": {
+    "total_matches": 268,
+    "unmatched_reference": 1366,
+    "unmatched_brin": 445,
+    "geocoding_methods": {
+      "street": {
+        "count": 245,
+        "avg_distance": 20.767216745045204,
+        "avg_confidence": 9.99999999995449e-06
+      },
+      "postcode": {
+        "count": 23,
+        "avg_distance": 89.4080743781402,
+        "avg_confidence": 9.99999999995449e-06
+      }
+    }
+  }
+}

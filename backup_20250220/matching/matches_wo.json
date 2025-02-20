@@ -1,0 +1,50 @@
+{
+  "matches": [
+    {
+      "reference_id": 7892,
+      "brin_id": "21PK",
+      "distance": 4.452169453410153,
+      "brin_name": "Universiteit van Amsterdam",
+      "brin_address": {
+        "street": "Spui",
+        "number": 21.0,
+        "number_addition": null,
+        "postcode": "1012WX",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7900,
+      "brin_id": "23BF",
+      "distance": 0.2543824982365088,
+      "brin_name": "Universiteit voor Humanistiek",
+      "brin_address": {
+        "street": "Kromme Nieuwegracht",
+        "number": 29.0,
+        "number_addition": null,
+        "postcode": "3512HD",
+        "city": "UTRECHT",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    }
+  ],
+  "statistics": {
+    "total_matches": 2,
+    "unmatched_reference": 20,
+    "unmatched_brin": 24,
+    "geocoding_methods": {
+      "street": {
+        "count": 2,
+        "avg_distance": 2.3532759758233306,
+        "avg_confidence": 9.99999999995449e-06
+      }
+    }
+  }
+}

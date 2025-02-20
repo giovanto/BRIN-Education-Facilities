@@ -10,6 +10,7 @@ project_root/
 │   ├── raw/                     # Raw BRIN CSV files
 │   ├── processed/               # Intermediate processing files
 │   └── analysis/               # Final analysis files
+│   └── reference/               # onderwijs_basis.geojson
 ├── scripts/
 │   ├── 01_create_JSON.py       # Initial data structuring
 │   ├── 02_geocode_addresses.py # Geocoding

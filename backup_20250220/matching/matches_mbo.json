@@ -1,0 +1,271 @@
+{
+  "matches": [
+    {
+      "reference_id": 7925,
+      "brin_id": "25PM",
+      "distance": 0.21159593051433107,
+      "brin_name": "Regionaal Opleidingen Centrum A12",
+      "brin_address": {
+        "street": "Reehorsterweg",
+        "number": 80.0,
+        "number_addition": null,
+        "postcode": "6717LG",
+        "city": "EDE",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7927,
+      "brin_id": "25LU",
+      "distance": 2.024734233297704,
+      "brin_name": "Regionaal Opleidingen Centrum Alfa-college",
+      "brin_address": {
+        "street": "Boumaboulevard",
+        "number": 573.0,
+        "number_addition": null,
+        "postcode": "9723ZS",
+        "city": "GRONINGEN",
+        "province": "Groningen"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7929,
+      "brin_id": "27DV",
+      "distance": 0.21626381482755141,
+      "brin_name": "Stichting Regionaal Opleidingen Centrum AVENTUS",
+      "brin_address": {
+        "street": "Ln van de Mensenrechten",
+        "number": 500.0,
+        "number_addition": null,
+        "postcode": "7331VZ",
+        "city": "APELDOORN",
+        "province": "Gelderland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7933,
+      "brin_id": "25LZ",
+      "distance": 78.29156047004881,
+      "brin_name": "Yonder",
+      "brin_address": {
+        "street": "Stappegoorweg",
+        "number": 183.0,
+        "number_addition": null,
+        "postcode": "5022DD",
+        "city": "TILBURG",
+        "province": "Noord-Brabant"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7935,
+      "brin_id": "25PZ",
+      "distance": 0.08733292982724214,
+      "brin_name": "ROC van Amsterdam",
+      "brin_address": {
+        "street": "Fraijlemaborg",
+        "number": 141.0,
+        "number_addition": null,
+        "postcode": "1102CV",
+        "city": "AMSTERDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7936,
+      "brin_id": "25PX",
+      "distance": 0.20114133832019732,
+      "brin_name": "Regionaal Opleidingen Centrum Nova College",
+      "brin_address": {
+        "street": "Diakenhuisweg",
+        "number": 37.0,
+        "number_addition": "- 45",
+        "postcode": "2033AP",
+        "city": "HAARLEM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7938,
+      "brin_id": "25RA",
+      "distance": 0.44457634471670154,
+      "brin_name": "Regio College voor Beroepsonderwijs en Educatie Zaanstreek-Waterland",
+      "brin_address": {
+        "street": "Cypressehout",
+        "number": 99.0,
+        "number_addition": null,
+        "postcode": "1507EK",
+        "city": "ZAANDAM",
+        "province": "Noord-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7941,
+      "brin_id": "27YU",
+      "distance": 0.3480339158006496,
+      "brin_name": "Regionaal Opleidingencentrum van Twente",
+      "brin_address": {
+        "street": "Gieterij",
+        "number": 200.0,
+        "number_addition": null,
+        "postcode": "7553VZ",
+        "city": "HENGELO OV",
+        "province": "Overijssel"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7942,
+      "brin_id": "09MR",
+      "distance": 0.2608535256912516,
+      "brin_name": "Hoornbeeck College voor Mbo op Reformatorische Grondslag",
+      "brin_address": {
+        "street": "Utrechtseweg",
+        "number": 230.0,
+        "number_addition": null,
+        "postcode": "3818ET",
+        "city": "AMERSFOORT",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7943,
+      "brin_id": "30RN",
+      "distance": 11.19394676511734,
+      "brin_name": "Stichting Interconfessioneel Beroepsonderwijs Volwasseneneducatie regio Utrecht",
+      "brin_address": {
+        "street": "Australielaan",
+        "number": 23.0,
+        "number_addition": null,
+        "postcode": "3526AB",
+        "city": "UTRECHT",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7944,
+      "brin_id": "25LP",
+      "distance": 22.239602088166844,
+      "brin_name": "Zadkine",
+      "brin_address": {
+        "street": "Marten Meesweg",
+        "number": 50.0,
+        "number_addition": null,
+        "postcode": "3068AV",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7945,
+      "brin_id": "30RR",
+      "distance": 0.1805985119709082,
+      "brin_name": "Stichting Interconf. Beroepsonderwijs en Volwasseneneducatie Regio Amersfoort",
+      "brin_address": {
+        "street": "Leusderweg",
+        "number": 30.0,
+        "number_addition": "-34",
+        "postcode": "3817KB",
+        "city": "AMERSFOORT",
+        "province": "Utrecht"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7946,
+      "brin_id": "20MQ",
+      "distance": 0.08355738670853378,
+      "brin_name": "Regionaal Opleidingen Centrum Da Vinci College",
+      "brin_address": {
+        "street": "Leerparkpromenade",
+        "number": 100.0,
+        "number_addition": null,
+        "postcode": "3312KW",
+        "city": "DORDRECHT",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7954,
+      "brin_id": "27GZ",
+      "distance": 20.056627613134516,
+      "brin_name": "ROC Mondriaan",
+      "brin_address": {
+        "street": "Leeghwaterplein",
+        "number": 72.0,
+        "number_addition": null,
+        "postcode": "2521DB",
+        "city": "'S-GRAVENHAGE",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    },
+    {
+      "reference_id": 7955,
+      "brin_id": "00GT",
+      "distance": 0.1942605744292384,
+      "brin_name": "Stichting Albeda",
+      "brin_address": {
+        "street": "Rosestraat",
+        "number": 1101.0,
+        "number_addition": null,
+        "postcode": "3071AL",
+        "city": "ROTTERDAM",
+        "province": "Zuid-Holland"
+      },
+      "location_type": "main",
+      "geocode_method": "street",
+      "geocode_confidence": 9.99999999995449e-06
+    }
+  ],
+  "statistics": {
+    "total_matches": 15,
+    "unmatched_reference": 160,
+    "unmatched_brin": 23,
+    "geocoding_methods": {
+      "street": {
+        "count": 15,
+        "avg_distance": 9.06897902950479,
+        "avg_confidence": 9.99999999995449e-06
+      }
+    }
+  }
+}

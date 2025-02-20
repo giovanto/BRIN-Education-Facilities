@@ -1,0 +1,75 @@
+{
+  "matching_stats": {
+    "BO": {
+      "total_matches": 2785,
+      "unmatched_reference": 3810,
+      "unmatched_brin": 4827,
+      "geocoding_methods": {
+        "street": {
+          "count": 2700,
+          "avg_distance": 15.377871147498366,
+          "avg_confidence": 0.00012358024691353476
+        },
+        "postcode": {
+          "count": 85,
+          "avg_distance": 48.18403163695283,
+          "avg_confidence": 9.99999999995449e-06
+        }
+      }
+    },
+    "HBO": {
+      "total_matches": 19,
+      "unmatched_reference": 59,
+      "unmatched_brin": 96,
+      "geocoding_methods": {
+        "street": {
+          "count": 19,
+          "avg_distance": 33.83971736932653,
+          "avg_confidence": 9.99999999995449e-06
+        }
+      }
+    },
+    "WO": {
+      "total_matches": 2,
+      "unmatched_reference": 20,
+      "unmatched_brin": 24,
+      "geocoding_methods": {
+        "street": {
+          "count": 2,
+          "avg_distance": 2.3532759758233306,
+          "avg_confidence": 9.99999999995449e-06
+        }
+      }
+    },
+    "MBO": {
+      "total_matches": 15,
+      "unmatched_reference": 160,
+      "unmatched_brin": 23,
+      "geocoding_methods": {
+        "street": {
+          "count": 15,
+          "avg_distance": 9.06897902950479,
+          "avg_confidence": 9.99999999995449e-06
+        }
+      }
+    },
+    "VO": {
+      "total_matches": 268,
+      "unmatched_reference": 1366,
+      "unmatched_brin": 445,
+      "geocoding_methods": {
+        "street": {
+          "count": 245,
+          "avg_distance": 20.767216745045204,
+          "avg_confidence": 9.99999999995449e-06
+        },
+        "postcode": {
+          "count": 23,
+          "avg_distance": 89.4080743781402,
+          "avg_confidence": 9.99999999995449e-06
+        }
+      }
+    }
+  },
+  "geocoding_analysis": {}
+}

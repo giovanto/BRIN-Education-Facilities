@@ -1,0 +1,15 @@
+2025-02-20 14:01:22,788 - ERROR - File not found: /Users/giovi/Documents/StudioBereikbaar/SB455 - Impact assessment of accessibility/BRIN Education Facilities NL/data/reference/onderwijs_basis_GeoJson.geojson
+2025-02-20 14:02:05,505 - INFO - Loading reference data from /Users/giovi/Documents/StudioBereikbaar/SB455 - Impact assessment of accessibility/BRIN Education Facilities NL/data/reference/onderwijs_basis.geojson
+2025-02-20 14:02:05,614 - INFO - Loaded 7961 reference locations
+2025-02-20 14:02:05,617 - INFO - 
+Type distribution:
+2025-02-20 14:02:05,617 - INFO - onderwijs: 7961 locations
+2025-02-20 14:02:05,619 - INFO - 
+Subtypes for onderwijs:
+2025-02-20 14:02:05,619 - INFO -   BO: 6084
+2025-02-20 14:02:05,619 - INFO -   VO: 1604
+2025-02-20 14:02:05,619 - INFO -   MBO: 175
+2025-02-20 14:02:05,619 - INFO -   HBO: 76
+2025-02-20 14:02:05,619 - INFO -   WO: 22
+2025-02-20 14:02:05,619 - INFO - 
+Analysis saved to /Users/giovi/Documents/StudioBereikbaar/SB455 - Impact assessment of accessibility/BRIN Education Facilities NL/data/analysis/reference/reference_analysis.json
