@@ -1,0 +1,42 @@
+2025-02-21 11:47:13,183 - INFO - Starting reverse geocoding process...
+2025-02-21 11:47:13,303 - INFO - Loaded GeoJSON data: 7961 locations
+2025-02-21 11:47:13,303 - INFO - Columns: ['type', 'subtype', 'geometry']
+2025-02-21 11:47:13,304 - INFO - CRS: EPSG:4326
+2025-02-21 11:47:13,323 - INFO - Starting reverse geocoding for 7961 locations
+2025-02-21 11:48:39,625 - INFO - Successfully saved geocoded data to /Users/giovi/Documents/StudioBereikbaar/SB455 - Impact assessment of accessibility/BRIN Education Facilities NL/data/processed/geocoded_locations.json
+2025-02-21 11:48:39,627 - INFO - Success rate: 100.00%
+2025-02-21 11:48:39,627 - INFO - Address completeness:
+2025-02-21 11:48:39,627 - INFO -   farm: 0.03% (2 locations)
+2025-02-21 11:48:39,627 - INFO -   historic: 0.06% (5 locations)
+2025-02-21 11:48:39,627 - INFO -   place: 0.50% (40 locations)
+2025-02-21 11:48:39,628 - INFO -   shop: 0.03% (2 locations)
+2025-02-21 11:48:39,628 - INFO -   commercial: 0.26% (21 locations)
+2025-02-21 11:48:39,628 - INFO -   ISO3166-2-lvl4: 100.00% (7961 locations)
+2025-02-21 11:48:39,628 - INFO -   residential: 2.39% (190 locations)
+2025-02-21 11:48:39,628 - INFO -   neighbourhood: 33.05% (2631 locations)
+2025-02-21 11:48:39,628 - INFO -   allotments: 0.03% (2 locations)
+2025-02-21 11:48:39,628 - INFO -   tourism: 0.06% (5 locations)
+2025-02-21 11:48:39,628 - INFO -   amenity: 28.40% (2261 locations)
+2025-02-21 11:48:39,628 - INFO -   country: 100.00% (7961 locations)
+2025-02-21 11:48:39,628 - INFO -   country_code: 100.00% (7961 locations)
+2025-02-21 11:48:39,628 - INFO -   industrial: 0.78% (62 locations)
+2025-02-21 11:48:39,628 - INFO -   postcode: 100.00% (7961 locations)
+2025-02-21 11:48:39,628 - INFO -   club: 0.04% (3 locations)
+2025-02-21 11:48:39,628 - INFO -   municipality: 66.90% (5326 locations)
+2025-02-21 11:48:39,628 - INFO -   hamlet: 8.44% (672 locations)
+2025-02-21 11:48:39,628 - INFO -   town: 40.75% (3244 locations)
+2025-02-21 11:48:39,628 - INFO -   leisure: 0.15% (12 locations)
+2025-02-21 11:48:39,628 - INFO -   suburb: 15.46% (1231 locations)
+2025-02-21 11:48:39,628 - INFO -   city_block: 0.05% (4 locations)
+2025-02-21 11:48:39,628 - INFO -   city_district: 8.84% (704 locations)
+2025-02-21 11:48:39,628 - INFO -   village: 31.70% (2524 locations)
+2025-02-21 11:48:39,628 - INFO -   city: 31.34% (2495 locations)
+2025-02-21 11:48:39,628 - INFO -   building: 0.41% (33 locations)
+2025-02-21 11:48:39,628 - INFO -   office: 0.40% (32 locations)
+2025-02-21 11:48:39,628 - INFO -   road: 99.94% (7956 locations)
+2025-02-21 11:48:39,628 - INFO -   retail: 0.13% (10 locations)
+2025-02-21 11:48:39,628 - INFO -   healthcare: 0.01% (1 locations)
+2025-02-21 11:48:39,628 - INFO -   state: 100.00% (7961 locations)
+2025-02-21 11:48:39,628 - INFO -   quarter: 23.72% (1888 locations)
+2025-02-21 11:48:39,628 - INFO -   railway: 0.01% (1 locations)
+2025-02-21 11:48:39,628 - INFO -   house_number: 91.01% (7245 locations)

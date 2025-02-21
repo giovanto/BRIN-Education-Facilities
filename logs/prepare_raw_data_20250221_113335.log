@@ -1,0 +1,150 @@
+2025-02-21 11:33:35,690 - INFO - Starting raw data preparation...
+2025-02-21 11:33:36,287 - INFO - 
+Analyzing ORGANISATIES structure:
+2025-02-21 11:33:36,287 - INFO - Columns: ['NR_ADMINISTRATIE', 'CODE_FUNCTIE', 'NAAM_FUNCTIE', 'DT_BEGIN_RECORD', 'DT_EINDE_RECORD', 'CODE_SOORT', 'NAAM_SOORT', 'CODE_RICHTING', 'NAAM_RICHTING', 'CODE_WET', 'CODE_TYPE_BEKOSTIGING', 'NAAM_TYPE_BEKOSTIGING', 'DT_STICHTING', 'DT_IN_BEDRIJF', 'DT_UIT_BEDRIJF', 'DT_AFGEHANDELD', 'NAAM_KORT', 'NAAM_VOLLEDIG', 'NAAM_STRAAT_VEST', 'NR_HUIS_VEST', 'NR_HUIS_TOEV_VEST', 'POSTCODE_VEST', 'NAAM_PLAATS_VEST', 'NR_GEMEENTE_VEST', 'PROVINCIE_VEST', 'NAAM_STRAAT_CORR', 'NR_HUIS_CORR', 'NR_HUIS_TOEV_CORR', 'POSTCODE_CORR', 'NAAM_PLAATS_CORR', 'NR_GEMEENTE_CORR', 'PROVINCIE_CORR', 'NR_TELEFOON', 'E_MAIL', 'INTERNET', 'KVK_NR', 'CODE_STAND_RECORD', 'IND_OPGEHEVEN']
+2025-02-21 11:33:36,294 - INFO - NR_ADMINISTRATIE: 44999 unique values, 0 nulls
+2025-02-21 11:33:36,298 - INFO - CODE_FUNCTIE: 6 unique values, 0 nulls
+2025-02-21 11:33:36,302 - INFO - Sample values: ['O', 'S', 'U', 'D', 'B', 'G']
+2025-02-21 11:33:36,312 - INFO - NAAM_FUNCTIE: 6 unique values, 0 nulls
+2025-02-21 11:33:36,318 - INFO - Sample values: ['ondersteuning en beheer', 'samenwerking en overkoepeling', 'uitvoering', 'onderdeel instelling', 'bestuur', 'Scholengemeenschap']
+2025-02-21 11:33:36,323 - INFO - DT_BEGIN_RECORD: 8532 unique values, 0 nulls
+2025-02-21 11:33:36,327 - INFO - DT_EINDE_RECORD: 5815 unique values, 29109 nulls
+2025-02-21 11:33:36,332 - INFO - CODE_SOORT: 88 unique values, 0 nulls
+2025-02-21 11:33:36,337 - INFO - NAAM_SOORT: 88 unique values, 0 nulls
+2025-02-21 11:33:36,340 - INFO - CODE_RICHTING: 41 unique values, 3972 nulls
+2025-02-21 11:33:36,343 - INFO - NAAM_RICHTING: 41 unique values, 3972 nulls
+2025-02-21 11:33:36,346 - INFO - CODE_WET: 7 unique values, 38693 nulls
+2025-02-21 11:33:36,350 - INFO - Sample values: ['WEC', 'WPO', 'WVO', 'WSLOA', 'WHW', 'WEB', 'WCTE']
+2025-02-21 11:33:36,355 - INFO - CODE_TYPE_BEKOSTIGING: 14 unique values, 0 nulls
+2025-02-21 11:33:36,361 - INFO - NAAM_TYPE_BEKOSTIGING: 14 unique values, 0 nulls
+2025-02-21 11:33:36,367 - INFO - DT_STICHTING: 3822 unique values, 0 nulls
+2025-02-21 11:33:36,372 - INFO - DT_IN_BEDRIJF: 3484 unique values, 0 nulls
+2025-02-21 11:33:36,375 - INFO - DT_UIT_BEDRIJF: 819 unique values, 87016 nulls
+2025-02-21 11:33:36,378 - INFO - DT_AFGEHANDELD: 634 unique values, 101585 nulls
+2025-02-21 11:33:36,385 - INFO - NAAM_KORT: 37931 unique values, 0 nulls
+2025-02-21 11:33:36,396 - INFO - NAAM_VOLLEDIG: 39811 unique values, 0 nulls
+2025-02-21 11:33:36,400 - INFO - NAAM_STRAAT_VEST: 12923 unique values, 4528 nulls
+2025-02-21 11:33:36,401 - INFO - NR_HUIS_VEST: 754 unique values, 4528 nulls
+2025-02-21 11:33:36,404 - INFO - NR_HUIS_TOEV_VEST: 389 unique values, 121162 nulls
+2025-02-21 11:33:36,408 - INFO - POSTCODE_VEST: 18656 unique values, 4528 nulls
+2025-02-21 11:33:36,411 - INFO - NAAM_PLAATS_VEST: 2040 unique values, 4528 nulls
+2025-02-21 11:33:36,412 - INFO - NR_GEMEENTE_VEST: 606 unique values, 4597 nulls
+2025-02-21 11:33:36,415 - INFO - PROVINCIE_VEST: 12 unique values, 4528 nulls
+2025-02-21 11:33:36,418 - INFO - NAAM_STRAAT_CORR: 9663 unique values, 4299 nulls
+2025-02-21 11:33:36,419 - INFO - NR_HUIS_CORR: 2241 unique values, 4298 nulls
+2025-02-21 11:33:36,421 - INFO - NR_HUIS_TOEV_CORR: 296 unique values, 125085 nulls
+2025-02-21 11:33:36,425 - INFO - POSTCODE_CORR: 16196 unique values, 4298 nulls
+2025-02-21 11:33:36,428 - INFO - NAAM_PLAATS_CORR: 1992 unique values, 4299 nulls
+2025-02-21 11:33:36,429 - INFO - NR_GEMEENTE_CORR: 605 unique values, 4380 nulls
+2025-02-21 11:33:36,431 - INFO - PROVINCIE_CORR: 12 unique values, 4299 nulls
+2025-02-21 11:33:36,432 - INFO - NR_TELEFOON: 11412 unique values, 53032 nulls
+2025-02-21 11:33:36,436 - INFO - E_MAIL: 10566 unique values, 56736 nulls
+2025-02-21 11:33:36,439 - INFO - INTERNET: 8813 unique values, 64733 nulls
+2025-02-21 11:33:36,442 - INFO - KVK_NR: 2514 unique values, 120414 nulls
+2025-02-21 11:33:36,446 - INFO - CODE_STAND_RECORD: 3 unique values, 0 nulls
+2025-02-21 11:33:36,450 - INFO - Sample values: ['H', 'A', 'T']
+2025-02-21 11:33:36,454 - INFO - IND_OPGEHEVEN: 2 unique values, 0 nulls
+2025-02-21 11:33:36,463 - INFO - Sample values: ['J', 'N']
+2025-02-21 11:33:36,463 - INFO - 
+Analyzing RELATIES structure:
+2025-02-21 11:33:36,463 - INFO - Columns: ['NR_ADMIN_LEID', 'CODE_FUNCTIE_LEID', 'CODE_SOORT_LEID', 'CODE_WET_LEID', 'NAAM_RELATIE_LEID', 'NR_ADMIN_VOLG', 'CODE_FUNCTIE_VOLG', 'CODE_SOORT_VOLG', 'CODE_WET_VOLG', 'NAAM_RELATIE_VOLG', 'DT_BEGIN_RELATIE', 'DT_EINDE_RELATIE', 'CODE_STAND_RECORD', 'IND_OPGEHEVEN']
+2025-02-21 11:33:36,468 - INFO - NR_ADMIN_LEID: 21170 unique values, 0 nulls
+2025-02-21 11:33:36,472 - INFO - CODE_FUNCTIE_LEID: 5 unique values, 0 nulls
+2025-02-21 11:33:36,476 - INFO - Sample values: ['O', 'S', 'U', 'B', 'G']
+2025-02-21 11:33:36,479 - INFO - CODE_SOORT_LEID: 52 unique values, 0 nulls
+2025-02-21 11:33:36,481 - INFO - CODE_WET_LEID: 6 unique values, 57346 nulls
+2025-02-21 11:33:36,484 - INFO - Sample values: ['WEC', 'WPO', 'WVO', 'WSLOA', 'WHW', 'WEB']
+2025-02-21 11:33:36,488 - INFO - NAAM_RELATIE_LEID: 10 unique values, 0 nulls
+2025-02-21 11:33:36,493 - INFO - NR_ADMIN_VOLG: 37088 unique values, 0 nulls
+2025-02-21 11:33:36,497 - INFO - CODE_FUNCTIE_VOLG: 6 unique values, 0 nulls
+2025-02-21 11:33:36,500 - INFO - Sample values: ['U', 'D', 'B', 'O', 'S', 'G']
+2025-02-21 11:33:36,504 - INFO - CODE_SOORT_VOLG: 70 unique values, 0 nulls
+2025-02-21 11:33:36,507 - INFO - CODE_WET_VOLG: 7 unique values, 19560 nulls
+2025-02-21 11:33:36,510 - INFO - Sample values: ['WPO', 'WVO', 'WEC', 'WHW', 'WEB', 'WSLOA', 'WCTE']
+2025-02-21 11:33:36,515 - INFO - NAAM_RELATIE_VOLG: 10 unique values, 0 nulls
+2025-02-21 11:33:36,519 - INFO - DT_BEGIN_RELATIE: 1984 unique values, 0 nulls
+2025-02-21 11:33:36,522 - INFO - DT_EINDE_RELATIE: 950 unique values, 38597 nulls
+2025-02-21 11:33:36,525 - INFO - CODE_STAND_RECORD: 3 unique values, 0 nulls
+2025-02-21 11:33:36,528 - INFO - Sample values: ['H', 'A', 'T']
+2025-02-21 11:33:36,531 - INFO - IND_OPGEHEVEN: 2 unique values, 0 nulls
+2025-02-21 11:33:36,535 - INFO - Sample values: ['J', 'N']
+2025-02-21 11:33:36,535 - INFO - 
+Analyzing OVERGANGEN structure:
+2025-02-21 11:33:36,535 - INFO - Columns: ['NR_ADMIN_VAN', 'CODE_FUNCTIE_VAN', 'CODE_SOORT_VAN', 'CODE_WET_VAN', 'NR_ADMIN_NAAR', 'CODE_FUNCTIE_NAAR', 'CODE_SOORT_NAAR', 'CODE_WET_NAAR', 'DT_OVERGANG', 'CODE_OVERGANG', 'NAAM_OVERGANG', 'IND_VOLLEDIG', 'CODE_STAND_RECORD']
+2025-02-21 11:33:36,535 - INFO - NR_ADMIN_VAN: 7901 unique values, 0 nulls
+2025-02-21 11:33:36,536 - INFO - CODE_FUNCTIE_VAN: 5 unique values, 0 nulls
+2025-02-21 11:33:36,536 - INFO - Sample values: ['O', 'U', 'D', 'S', 'B']
+2025-02-21 11:33:36,536 - INFO - CODE_SOORT_VAN: 45 unique values, 0 nulls
+2025-02-21 11:33:36,536 - INFO - CODE_WET_VAN: 6 unique values, 4015 nulls
+2025-02-21 11:33:36,537 - INFO - Sample values: ['WSLOA', 'WPO', 'WVO', 'WHW', 'WEC', 'WEB']
+2025-02-21 11:33:36,537 - INFO - NR_ADMIN_NAAR: 5472 unique values, 0 nulls
+2025-02-21 11:33:36,538 - INFO - CODE_FUNCTIE_NAAR: 5 unique values, 0 nulls
+2025-02-21 11:33:36,538 - INFO - Sample values: ['O', 'U', 'D', 'S', 'B']
+2025-02-21 11:33:36,538 - INFO - CODE_SOORT_NAAR: 41 unique values, 0 nulls
+2025-02-21 11:33:36,539 - INFO - CODE_WET_NAAR: 6 unique values, 4013 nulls
+2025-02-21 11:33:36,539 - INFO - Sample values: ['WSLOA', 'WPO', 'WVO', 'WHW', 'WEB', 'WEC']
+2025-02-21 11:33:36,539 - INFO - DT_OVERGANG: 262 unique values, 0 nulls
+2025-02-21 11:33:36,540 - INFO - CODE_OVERGANG: 4 unique values, 0 nulls
+2025-02-21 11:33:36,540 - INFO - Sample values: ['V', 'F', 'S', 'D']
+2025-02-21 11:33:36,540 - INFO - NAAM_OVERGANG: 4 unique values, 0 nulls
+2025-02-21 11:33:36,541 - INFO - Sample values: ['Overdracht', 'Fusie', 'Splitsing', 'Verzelfst. dislocatie']
+2025-02-21 11:33:36,542 - INFO - IND_VOLLEDIG: 2 unique values, 0 nulls
+2025-02-21 11:33:36,542 - INFO - Sample values: ['N', 'J']
+2025-02-21 11:33:36,543 - INFO - CODE_STAND_RECORD: 2 unique values, 0 nulls
+2025-02-21 11:33:36,543 - INFO - Sample values: ['H', 'T']
+2025-02-21 11:33:36,613 - INFO - 
+Loaded final data:
+2025-02-21 11:33:36,613 - INFO - Organisations: 134840 rows
+2025-02-21 11:33:36,613 - INFO - Relations: 112398 rows
+2025-02-21 11:33:36,613 - INFO - Transitions: 8788 rows
+2025-02-21 11:33:36,642 - INFO - 
+Data Structure Analysis:
+2025-02-21 11:33:36,642 - INFO - 
+Organisations (134840 total):
+2025-02-21 11:33:36,642 - INFO - Function types: {'D': 55879, 'U': 38794, 'B': 34549, 'O': 3668, 'S': 1941, 'G': 9}
+2025-02-21 11:33:36,642 - INFO - Organisation types: {'VST': 40461, 'BINS': 30828, 'BAS': 27013, 'LOC': 6444, 'ILOC': 5034}...
+2025-02-21 11:33:36,642 - INFO - Active status: {'N': 114020, 'J': 20820}
+2025-02-21 11:33:36,642 - INFO - 
+Relations (112398 total):
+2025-02-21 11:33:36,642 - INFO - Relation types: {'ondersteunt': 26979, 'bestuurt': 23959, 'is samenwerking van': 22531, 'vestigt': 20864, 'wordt ondersteund door': 10307, 'is aangesloten bij': 5621, 'is overkoepeling van': 1304, 'stelt in': 631, 'bestuurt (tijdelijk, LAOV)': 176, 'heeft beschikking over': 26}
+2025-02-21 11:33:36,642 - INFO - Leading functions: {'B': 40063, 'O': 27053, 'S': 24466, 'U': 20808, 'G': 8}
+2025-02-21 11:33:36,642 - INFO - Following functions: {'U': 55693, 'D': 35406, 'O': 17832, 'S': 1754, 'B': 1707, 'G': 6}
+2025-02-21 11:33:42,818 - INFO - 
+Transition Analysis:
+2025-02-21 11:33:42,818 - INFO - Total transitions: 8788
+2025-02-21 11:33:42,818 - INFO - Organizations with multiple transitions: 2137
+2025-02-21 11:33:42,818 - INFO - Transition types: {'F': 4933, 'V': 3677, 'S': 177, 'D': 1}
+2025-02-21 11:33:42,818 - INFO - 
+Complex transition examples:
+2025-02-21 11:33:42,818 - INFO - 
+Org Sch Adv Dienst Nijmegen:
+2025-02-21 11:33:42,818 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,818 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,818 - INFO - 
+Org Ond Begeleidingsdienst:
+2025-02-21 11:33:42,818 - INFO -   2005-01-01 00:00:00: F
+2025-02-21 11:33:42,818 - INFO -   2005-01-01 00:00:00: F
+2025-02-21 11:33:42,818 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,818 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,818 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,818 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,818 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,818 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,818 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,819 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,819 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,819 - INFO - 
+Org SBD Gelders Rivierengeb:
+2025-02-21 11:33:42,819 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,819 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,819 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,819 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,819 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,819 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,819 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,819 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,819 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,819 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,819 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:42,819 - INFO -   2005-08-01 00:00:00: V
+2025-02-21 11:33:51,031 - ERROR - Error in data preparation: Object of type Timestamp is not JSON serializable
